@@ -1,0 +1,18 @@
+{
+    "ChatGPT": {
+      "translated": "تشات جي بي تي",
+      "description": "ChatGPT هو نموذج لغة معتمد على الذكاء الاصطناعي الذي يستخدم لفهم اللغة الطبيعية وتوليد النصوص.",
+      "topics": [
+        {
+          "name": "The Variety of “Act as..” Personas",
+          "translated": "تنوع الشخصيات لـ 'Act as..'",
+          "description": "تتعدد الشخصيات التي يمكن أن يمثلها ChatGPT بناءً على ما يُطلب منه."
+        },
+        {
+          "name": "How ChatGPT Actually Works",
+          "translated": "كيف يعمل ChatGPT فعلاً",
+          "description": "شرح كيفية عمل ChatGPT في التفاعل مع المستخدمين."
+        }
+      ]
+    }
+  }
