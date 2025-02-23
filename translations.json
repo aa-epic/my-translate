@@ -14,6 +14,426 @@
       "original": "ChatGPT is an AI-powered chatbot.",
       "translated": "تشات جي بي تي هو روبوت دردشة يعمل بالذكاء الاصطناعي.",
       "description": "يتم استخدام ChatGPT للرد على استفسارات المستخدمين."
+    },
+    {
+          "original": "10 Ways To Get Massively Ahead With AI",
+      "translated": "10 طرق لتسبق الجميع باستخدام الذكاء الاصطناعي",
+      "description": "طرق وأساليب للاستفادة القصوى من الذكاء الاصطناعي لتحقيق تقدم كبير."
+    },
+    {
+      "original": "Top 5 ChatGPT Extensions",
+      "translated": "أفضل 5 إضافات لـ ChatGPT",
+      "description": "قائمة بأفضل الإضافات التي تعزز تجربة استخدام ChatGPT."
+    },
+    {
+      "original": "Snippets to Improve ChatGPT Writing Style",
+      "translated": "مقتطفات لتحسين أسلوب الكتابة في ChatGPT",
+      "description": "أمثلة جاهزة لتحسين جودة وأساليب كتابة ChatGPT."
+    },
+    {
+      "original": "Analyzing URL links",
+      "translated": "تحليل روابط المواقع",
+      "description": "كيفية استخدام ChatGPT لتحليل الروابط واستخراج المعلومات منها."
+    },
+    {
+      "original": "General ChatGPT Tips",
+      "translated": "نصائح عامة لاستخدام ChatGPT",
+      "description": "مجموعة نصائح لتحسين تجربة استخدام ChatGPT وتحقيق أفضل النتائج."
+    },
+    {
+      "original": "Becoming An Expert In ChatGPT",
+      "translated": "كيف تصبح خبيرًا في ChatGPT",
+      "description": "دليل لاكتساب خبرة عميقة في استخدام ChatGPT بفعالية."
+    },
+    {
+      "original": "Produce Better Unique Outputs",
+      "translated": "كيفية إنتاج مخرجات فريدة وأفضل",
+      "description": "طرق لتحسين جودة وإبداع الردود والمخرجات من ChatGPT."
+    },
+    {
+      "original": "Stay Ahead in 2023 with ChatGPT",
+      "translated": "كن في المقدمة في 2023 مع ChatGPT",
+      "description": "استخدام ChatGPT كأداة للبقاء متقدمًا في مختلف المجالات خلال 2023."
+    },
+    {
+      "original": "Find Your Voice With ChatGPT",
+      "translated": "اكتشف أسلوبك الخاص مع ChatGPT",
+      "description": "كيفية تخصيص واستخدام ChatGPT بأسلوب يعكس شخصيتك الفريدة."
+    },
+    {
+      "original": "How to Turn ChatGPT Into Literally Anyone",
+      "translated": "كيف تحول ChatGPT إلى أي شخصية تريدها",
+      "description": "طريقة جعل ChatGPT يتحدث بأسلوب أو شخصية معينة لمحاكاة أشخاص مختلفين."
+    },
+    {
+      "original": "How to Master ChatGPT",
+      "translated": "كيف تتقن استخدام ChatGPT",
+      "description": "دليل شامل لإتقان استخدام ChatGPT وتحقيق أقصى استفادة منه."
+    },
+    {
+      "original": "13 Types of Prompts For ChatGPT",
+      "translated": "13 نوعًا من الأسئلة لاستخدامها مع ChatGPT",
+      "description": "أنواع مختلفة من الـ prompts التي تساعد في الحصول على أفضل ردود من ChatGPT."
+    },
+    {
+      "original": "Fill-in-the-blank vs. Open-ended prompts",
+      "translated": "المقارنة بين الأسئلة المعبأة والأسئلة المفتوحة",
+      "description": "تحليل الفروق بين أنواع الـ prompts وتأثيرها على جودة الردود من ChatGPT."
+    },
+    {
+      "original": "Crack How ChatGPT Works",
+      "translated": "افهم كيف يعمل ChatGPT بعمق",
+      "description": "كشف طريقة عمل ChatGPT وكيفية تحسين التفاعل معه للحصول على أفضل النتائج."
+    },
+        {
+      "original": "Writing Email Subject Lines",
+      "translated": "كتابة عناوين البريد الإلكتروني",
+      "description": "تعلم كيف تكتب عناوين جذابة تزيد من معدل فتح البريد الإلكتروني، مثل: 'عرض حصري ينتهي الليلة!' أو 'خطوة واحدة لتحقيق هدفك'."
+    },
+    {
+      "original": "Writing Sales Emails",
+      "translated": "كتابة رسائل بريدية للبيع",
+      "description": "كيفية كتابة رسائل بريدية تحفّز العملاء على الشراء، مثل: تقديم عروض محدودة أو إبراز فوائد المنتج بوضوح."
+    },
+    {
+      "original": "SMS Marketing",
+      "translated": "التسويق عبر الرسائل النصية",
+      "description": "استراتيجيات لاستخدام الرسائل النصية في التسويق، مثل إرسال كوبونات خصم أو تنبيهات عن العروض الجديدة لجذب العملاء."
+    },
+    {
+      "original": "Writing Email Newsletters",
+      "translated": "كتابة نشرات بريدية",
+      "description": "تعلم كيف تصمم نشرة بريدية مفيدة تبني علاقة طويلة الأمد مع المشتركين، مثل مشاركة أحدث المقالات أو تقديم نصائح حصرية."
+    },
+    {
+      "original": "Writing Product Launch Emails",
+      "translated": "كتابة رسائل بريدية لإطلاق المنتجات",
+      "description": "كيفية تقديم منتج جديد بطريقة تُشعل الحماس، مثل: 'اكتشف منتجنا الجديد قبل الجميع!' أو 'عرض خاص لأول 100 عميل'."
+    },
+    {
+      "original": "Building Email Automations",
+      "translated": "إنشاء أتمتة البريد الإلكتروني",
+      "description": "تعلم كيف تنشئ حملات بريدية تعمل تلقائيًا، مثل: إرسال رسالة ترحيب فور الاشتراك، أو متابعة تلقائية بعد الشراء."
+    },
+    {
+      "original": "Generating Cold Email Copy’s",
+      "translated": "إنشاء رسائل بريدية باردة",
+      "description": "كيفية كتابة رسائل بريد إلكتروني تُلفت انتباه العملاء الجدد حتى لو لم يسمعوا عنك من قبل، مثل: 'هل تواجه هذه المشكلة؟ لدينا الحل!'."
+    },
+    {
+      "original": "Generating Ideas For Email Newsletters",
+      "translated": "توليد أفكار للنشرات البريدية",
+      "description": "طرق للحصول على أفكار جديدة مثل مشاركة قصص العملاء، نصائح سريعة، أو عروض شهرية تزيد من التفاعل."
+    },
+    {
+      "original": "Conducting A/B Testing",
+      "translated": "إجراء اختبارات A/B",
+      "description": "اختبر عنوانين مختلفين للبريد الإلكتروني لمعرفة أيهما يحقق أعلى معدل فتح، مثل: 'عرض اليوم' vs. 'خصم 20% ينتهي الليلة'."
+    },
+    {
+      "original": "Generating Email Lead Magnet Ideas",
+      "translated": "توليد أفكار لمغناطيس العملاء عبر البريد الإلكتروني",
+      "description": "أفكار لمغريات تجذب المشتركين مثل دليل مجاني، استشارة مجانية، أو خصم لأول عملية شراء."
+    },
+    {
+      "original": "Generating Email Follow-up Sequences",
+      "translated": "إنشاء تسلسل رسائل المتابعة البريدية",
+      "description": "كيفية بناء سلسلة رسائل متابعة ذكية، مثل إرسال تذكير بعد 3 أيام من عرض لم يتم استخدامه."
+    },
+    {
+      "original": "Generating Email Campaign Ideas",
+      "translated": "توليد أفكار لحملات البريد الإلكتروني",
+      "description": "أفكار لحملات ناجحة مثل حملة 'أفضل العروض' الشهرية أو 'منتجات مميزة لك' بناءً على سلوك العميل."
+    },
+    {
+      "original": "Generating Abandoned Cart Recovery Emails",
+      "translated": "إنشاء رسائل استعادة سلة التسوق المهجورة",
+      "description": "إعادة جذب العملاء الذين تركوا سلة التسوق برسالة مثل: 'لم تنهِ طلبك؟ احصل على خصم 10% لإكماله الآن'."
+    },
+    {
+      "original": "5 Prompts You Can Steal to 10x your Email Copywriting Results",
+      "translated": "5 أوامر يمكنك استخدامها لتحسين كتابة البريد الإلكتروني 10 أضعاف",
+      "description": "استخدم أوامر جاهزة مثل: 'اكتب لي رسالة بريدية لجذب عملاء جدد تقدم خصم حصري'."
+    },
+    {
+      "original": "25 ChatGPT Prompts to 25X Your Email Copywriting Results",
+      "translated": "25 أمرًا من ChatGPT لزيادة فعالية كتابة البريد الإلكتروني 25 ضعفًا",
+      "description": "قائمة بأوامر قوية مثل: 'صغ رسالة بريدية تثير الفضول لقراءة باقي المحتوى' لتحسين جودة البريد الإلكتروني."
+    },
+    {
+      "original": "Summarizing Customer Feedback",
+      "translated": "تلخيص ملاحظات العملاء",
+      "description": "تحليل وتجميع آراء العملاء لاستخراج النقاط الأساسية بسرعة، مثل: '85% من العملاء أشادوا بسرعة الشحن، بينما اقترح 15% تحسين التغليف'."
+    },
+    {
+      "original": "Responding To Customer Emails",
+      "translated": "الرد على رسائل العملاء",
+      "description": "صياغة ردود احترافية وسريعة على استفسارات العملاء، مثل: 'شكرًا لتواصلك، تم تأكيد شحنتك وسيتم تسليمها خلال يومين'."
+    },
+    {
+      "original": "Creating FAQs for Customers",
+      "translated": "إنشاء أسئلة شائعة للعملاء",
+      "description": "إعداد قائمة بالأسئلة الأكثر تكرارًا وإجاباتها لتسهيل وصول العملاء إلى المعلومات، مثل: 'كيف يمكنني إرجاع المنتج؟' - 'يمكنك استرجاع المنتج خلال 14 يومًا مع الإيصال'."
+    },
+    {
+      "original": "Responding To Comments With AI",
+      "translated": "الرد على التعليقات باستخدام الذكاء الاصطناعي",
+      "description": "إدارة التعليقات على وسائل التواصل الاجتماعي والمدونات بفعالية، مثل: 'نقدّر رأيك! فريقنا يعمل على تحسين هذه الميزة قريبًا'."
+    },
+    {
+      "original": "Generating Product Feedback Surveys",
+      "translated": "إنشاء استبيانات لآراء العملاء حول المنتجات",
+      "description": "تصميم استبيانات فعالة لفهم تجربة العملاء، مثل: 'ما مدى رضاك عن المنتج؟' مع خيارات تقييم من 1 إلى 5."
+    },
+    {
+      "original": "Creating Product Advice Content",
+      "translated": "إنشاء محتوى نصائح حول المنتجات",
+      "description": "تقديم نصائح وإرشادات تساعد العملاء على الاستفادة القصوى من المنتج، مثل: 'أفضل طريقة لتنظيف وصيانة الجهاز للحفاظ على أدائه'."
+    },
+    {
+    "original": "Finding Product Benefits For Landing Page",
+    "translated": "تحديد فوائد المنتج لصفحة الهبوط",
+    "description": "تحليل أبرز المزايا التي تجعل المنتج أكثر جاذبية للعملاء، مثل تحسين الأداء، السعر التنافسي، أو تجربة الاستخدام السهلة."
+    },
+    {
+    "original": "Generating Product Comparison Infographics",
+    "translated": "إنشاء رسوم بيانية لمقارنة المنتجات",
+    "description": "تصميم رسوم بيانية تعرض مقارنة واضحة بين المنتجات من حيث الميزات، مثل مقارنة الهواتف الذكية من حيث الكاميرا، البطارية، والتخزين."
+    },
+    {
+    "original": "Writing 100 Product Descriptions In Seconds",
+    "translated": "كتابة 100 وصف منتج في ثوانٍ",
+    "description": "إنشاء أوصاف احترافية لعشرات المنتجات بسرعة، مثل: 'ساعة ذكية مقاومة للماء تدعم المكالمات والإشعارات'."
+    },
+    {
+    "original": "Generating Landing Page Headlines",
+    "translated": "إنشاء عناوين جذابة لصفحة الهبوط",
+    "description": "كتابة عناوين مؤثرة تزيد من معدلات التحويل، مثل: 'احصل على تجربة استثنائية اليوم!' أو 'عرض خاص لفترة محدودة'."
+    },
+    {
+    "original": "Writing Product Reviews",
+    "translated": "كتابة مراجعات للمنتجات",
+    "description": "إنشاء مراجعات مقنعة تبرز مزايا وعيوب المنتج، مثل: 'كاميرا رائعة ولكن البطارية تحتاج إلى تحسين'."
+    },
+    {
+    "original": "Implementing Upselling Strategies",
+    "translated": "تنفيذ استراتيجيات البيع الإضافي",
+    "description": "تحفيز العملاء على شراء إصدارات أغلى أو ميزات إضافية، مثل اقتراح ترقية من هاتف بسعة 128GB إلى 256GB بخصم خاص."
+    },
+    {
+    "original": "Writing Product Testimonials",
+    "translated": "كتابة شهادات العملاء",
+    "description": "صياغة شهادات تعكس تجربة العملاء بطريقة موثوقة، مثل: 'لم أكن أتوقع هذه الجودة بسعر معقول جدًا!'."
+    },
+    {
+    "original": "Creating Product Bundling Strategies",
+    "translated": "إنشاء استراتيجيات حزم المنتجات",
+    "description": "تجميع منتجات مكملة معًا لجذب العملاء، مثل: بيع لابتوب مع حقيبة وحامل بسعر مخفض."
+    },
+    {
+    "original": "Implementing Cross-selling Strategies",
+    "translated": "تنفيذ استراتيجيات البيع المتقاطع",
+    "description": "اقتراح منتجات إضافية ذات صلة بما يشتريه العميل، مثل: عرض شاحن وسماعة عند شراء هاتف جديد."
+    },
+    {
+    "original": "Translating Website Copy",
+    "translated": "ترجمة محتوى الموقع الإلكتروني",
+    "description": "تحويل محتوى الموقع إلى لغات متعددة مع الحفاظ على الرسالة التسويقية، مثل ترجمة أوصاف المنتجات بدقة."
+    },
+    {
+    "original": "Writing Product Descriptions",
+    "translated": "كتابة أوصاف المنتجات",
+    "description": "إنشاء أوصاف جذابة تسلط الضوء على أهم ميزات المنتج، مثل: 'مكنسة كهربائية لاسلكية – قوية، خفيفة، وسهلة الاستخدام'."
+    },
+    {
+    "original": "Crafting Irresistible Offers",
+    "translated": "إنشاء عروض مغرية",
+    "description": "تصميم عروض قوية يصعب رفضها، مثل: 'اشترِ واحدًا واحصل على الثاني مجانًا!' أو 'خصم 30% لأول 50 عميل'."
+    },
+    {
+    "original": "Creating Visual Ideas For Website",
+    "translated": "إنشاء أفكار بصرية للموقع",
+    "description": "اقتراح تصاميم وأفكار بصرية تعزز تجربة المستخدم، مثل اختيار ألوان متناسقة وصور عالية الجودة."
+    },
+    {
+    "original": "Optimizing CTA’s",
+    "translated": "تحسين أزرار الدعوة لاتخاذ إجراء (CTA)",
+    "description": "تحسين أزرار التحفيز لاتخاذ الإجراء المناسب، مثل: 'ابدأ الآن!' بدلًا من 'اضغط هنا'."
+    },
+    {
+    "original": "Generating Discount Ideas",
+    "translated": "توليد أفكار الخصومات",
+    "description": "ابتكار عروض خصم مغرية، مثل: 'خصم 10% عند التسجيل لأول مرة' أو 'توصيل مجاني للطلبات فوق 50 دولارًا'."
+    },
+    {
+    "original": "Creating Product Comparison Charts",
+    "translated": "إنشاء جداول مقارنة المنتجات",
+    "description": "تصميم جداول مقارنة تسهل على العملاء اتخاذ القرار، مثل مقارنة اللابتوبات من حيث الوزن، الأداء، والسعر."
+    }
+    {
+    "original": "Automating Instagram Growth",
+    "translated": "أتمتة نمو إنستجرام",
+    "description": "استخدام استراتيجيات تلقائية لزيادة المتابعين والتفاعل، مثل جدولة المنشورات، تحليل الأداء، وتحسين استخدام الهاشتاجات."
+    },
+    {
+    "original": "Creating Engaging and Informative Podcasts",
+    "translated": "إنشاء بودكاست جذاب ومعلوماتي",
+    "description": "إعداد محتوى صوتي يجذب المستمعين، مثل تقديم نصائح تسويقية أو إجراء مقابلات مع خبراء في المجال لزيادة القيمة المقدمة."
+    },
+    {
+    "original": "Creating Custom Visuals For Posts",
+    "translated": "إنشاء تصاميم بصرية مخصصة للمنشورات",
+    "description": "تصميم صور وجرافيكس جذابة تناسب منشورات مواقع التواصل، مثل إنشاء بوستات عروض خاصة أو محتوى تعليمي بصري."
+    },
+    {
+    "original": "Automating Youtube Channel Growth",
+    "translated": "أتمتة نمو قناة يوتيوب",
+    "description": "تحسين نمو القناة باستخدام أدوات تلقائية مثل جدولة الفيديوهات، تحسين العناوين والوصف، وتحليل أداء المحتوى."
+    },
+    {
+    "original": "Generating Engaging Content Ideas",
+    "translated": "توليد أفكار محتوى جذابة",
+    "description": "اقتراح مواضيع شيقة ومتنوعة للنشر على وسائل التواصل الاجتماعي، مثل تحديات تفاعلية، محتوى تعليمي، أو خلف الكواليس."
+    },
+    {
+    "original": "Generating Pinterest Board Ideas",
+    "translated": "توليد أفكار لوحات Pinterest",
+    "description": "اقتراح أفكار للوحات Pinterest تساعد في جذب الجمهور، مثل لوحات ديكور المنزل، نصائح الموضة، أو أفكار ريادة الأعمال."
+    },
+    {
+    "original": "Automating Tiktok Channel Growth",
+    "translated": "أتمتة نمو قناة تيك توك",
+    "description": "تحسين أداء القناة باستخدام استراتيجيات مثل جدولة الفيديوهات، تحليل التريندات، وتحسين تفاعل الجمهور مع المحتوى."
+    },
+    {
+    "original": "Generating Ideas For Live Streaming",
+    "translated": "توليد أفكار للبث المباشر",
+    "description": "اقتراح مواضيع جذابة لجلسات البث المباشر، مثل جلسات أسئلة وأجوبة، مراجعة المنتجات، أو مناقشة الأخبار الرائجة."
+    },
+    {
+    "original": "Coming Up With Dozens Of Cool Captions",
+    "translated": "إنشاء عشرات العبارات الجذابة",
+    "description": "توليد عبارات إبداعية تناسب منشورات التواصل الاجتماعي، مثل اقتباسات تحفيزية، عبارات تسويقية، أو نداءات تفاعلية."
+    },
+    {
+    "original": "Creating Content with ChatGPT - The Scripts & Experiments",
+    "translated": "إنشاء محتوى باستخدام الذكاء الاصطناعي - النصوص والتجارب",
+    "description": "توليد أفكار ونصوص مبتكرة لإنشاء محتوى جذاب بناءً على تجارب وتحليل البيانات."
+    },
+    {
+    "original": "625 post ideas in less than 5 min",
+    "translated": "625 فكرة منشور في أقل من 5 دقائق",
+    "description": "الحصول على مئات الأفكار لمنشورات التواصل الاجتماعي بسرعة، مثل أفكار لقصص، منشورات تعليمية، أو حملات تسويقية."
+    }
+    {
+    "original": "Generating Linkedin Content Ideas",
+    "translated": "توليد أفكار محتوى لينكدإن",
+    "description": "اقتراح مواضيع مناسبة للنشر على لينكدإن لتعزيز التفاعل، مثل: 'كيف تبني علامتك التجارية الشخصية؟' أو 'أفضل استراتيجيات التسويق عبر لينكدإن'."
+    },
+    {
+    "original": "Writing Linkedin Posts",
+    "translated": "كتابة منشورات لينكدإن",
+    "description": "صياغة منشورات احترافية وجذابة تناسب جمهور لينكدإن، مثل مشاركة قصص نجاح، تحليل اتجاهات السوق، أو تقديم نصائح عملية."
+    },
+    {
+    "original": "Automating Linkedin Content Growth",
+    "translated": "أتمتة نمو محتوى لينكدإن",
+    "description": "تحسين أداء الحساب باستخدام استراتيجيات تلقائية مثل جدولة المنشورات، تحليل التفاعل، والتفاعل الذكي مع الجمهور."
+    },
+    {
+    "original": "Building Linkedin Hashtags",
+    "translated": "إنشاء هاشتاجات لينكدإن",
+    "description": "تحديد وإنشاء الهاشتاجات الأكثر فاعلية لزيادة الوصول والتفاعل، مثل استخدام #ريادة_الأعمال أو #تسويق_رقمي بشكل استراتيجي."
+    },
+    {
+    "original": "B2B Linkedin Growth Automation",
+    "translated": "أتمتة نمو لينكدإن للأعمال B2B",
+    "description": "تنفيذ استراتيجيات لزيادة التواصل مع الشركات والعملاء المحتملين، مثل إرسال رسائل مخصصة، جدولة المحتوى، وتحليل بيانات الأداء."
+    }
+    {
+    "original": "Conducting Surveys for Lead Generation",
+    "translated": "إجراء استبيانات لجذب العملاء المحتملين",
+    "description": "تصميم استبيانات فعالة تساعد في جمع بيانات العملاء المحتملين، مثل: 'ما هو أكبر تحدٍ تواجهه في مجالك؟' لجمع معلومات تسويقية قيمة."
+    },
+    {
+    "original": "Conducting Competitor Research for Lead Capture",
+    "translated": "إجراء بحث عن المنافسين لجذب العملاء المحتملين",
+    "description": "تحليل استراتيجيات المنافسين لفهم كيفية استهداف العملاء المحتملين بشكل أفضل، مثل مقارنة العروض، الأسعار، واستراتيجيات التسويق."
+    },
+    {
+    "original": "Developing Referral Marketing Strategies",
+    "translated": "تطوير استراتيجيات التسويق بالإحالة",
+    "description": "إنشاء برامج إحالة تشجع العملاء الحاليين على جلب عملاء جدد، مثل: 'احصل على 20% خصم عند دعوة صديق'."
+    },
+    {
+    "original": "Analyzing Lead Generation Metrics",
+    "translated": "تحليل مقاييس جذب العملاء المحتملين",
+    "description": "مراقبة وتحليل أداء استراتيجيات جذب العملاء المحتملين، مثل معدل التحويل، تكلفة الاكتساب، ومعدل النقر على الروابط."
+    },
+    {
+    "original": "Developing Lead Capture Forms",
+    "translated": "تطوير نماذج لجمع بيانات العملاء المحتملين",
+    "description": "تصميم نماذج تسجيل جذابة وسهلة الاستخدام لزيادة معدلات الاشتراك، مثل إضافة حقول اختيارية وتقليل عدد الخطوات المطلوبة."
+    },
+    {
+    "original": "Conducting Webinars for Lead Generation",
+    "translated": "إجراء ندوات عبر الإنترنت لجذب العملاء المحتملين",
+    "description": "تنظيم ندوات تعليمية مباشرة لتعزيز الثقة مع العملاء المحتملين، مثل تقديم ورشة عمل عن 'أحدث اتجاهات التسويق الرقمي'."
+    },
+    {
+    "original": "Conducting Keyword Research for Lead Generation",
+    "translated": "إجراء بحث عن الكلمات المفتاحية لجذب العملاء المحتملين",
+    "description": "تحليل الكلمات المفتاحية الأكثر بحثًا لتحسين استراتيجيات التسويق، مثل استخدام كلمات مثل 'أفضل حلول التسويق للشركات الناشئة'."
+    },
+    {
+    "original": "Creating Engaging Lead Magnets",
+    "translated": "إنشاء مغناطيس جذب العملاء المحتملين",
+    "description": "تطوير محتوى قيم يجذب العملاء المحتملين، مثل تقديم كتاب إلكتروني مجاني، أو عرض استشارة مجانية لأول 50 مشترك."
+    },
+    {
+    "original": "Developing Effective Email Campaigns for Lead Nurturing",
+    "translated": "تطوير حملات بريدية فعالة لتنمية العملاء المحتملين",
+    "description": "إنشاء سلسلة من الرسائل البريدية التي تحافظ على تفاعل العملاء المحتملين، مثل إرسال نصائح أسبوعية أو دراسات حالة."
+    },
+    {
+    "original": "Developing Social Media Strategies for Lead Gen",
+    "translated": "تطوير استراتيجيات وسائل التواصل الاجتماعي لجذب العملاء المحتملين",
+    "description": "تصميم حملات تسويقية موجهة عبر وسائل التواصل الاجتماعي، مثل استهداف جمهور محدد بإعلانات مدفوعة أو إنشاء محتوى تفاعلي."
+    }
+    {
+    "original": "Writing Guest Post Pitches",
+    "translated": "كتابة عروض مقالات الضيوف",
+    "description": "صياغة عروض احترافية لإقناع مواقع الويب بقبول مقالات الضيوف، مثل: 'مقال حصري عن أحدث استراتيجيات التسويق الرقمي لموقعكم'."
+    },
+    {
+    "original": "Writing Guest Posts",
+    "translated": "كتابة مقالات الضيوف",
+    "description": "إعداد مقالات جذابة لمواقع أخرى لزيادة الظهور وبناء العلاقات، مثل كتابة مقال عن 'أفضل أدوات تحسين محركات البحث في 2024'."
+    },
+    {
+    "original": "Developing Content Calendars",
+    "translated": "تطوير جداول المحتوى",
+    "description": "إنشاء جدول زمني لنشر المحتوى لضمان استمرارية التفاعل، مثل تخطيط المقالات، الفيديوهات، ومنشورات وسائل التواصل الاجتماعي."
+    },
+    {
+    "original": "Generating Lead Magnet Ideas",
+    "translated": "توليد أفكار مغناطيس العملاء المحتملين",
+    "description": "اقتراح محتوى قيم لجذب العملاء المحتملين، مثل تقديم كتاب إلكتروني مجاني عن 'دليل تحسين معدل التحويل'."
+    },
+    {
+    "original": "Generating Blog Post Titles",
+    "translated": "توليد عناوين المقالات",
+    "description": "اقتراح عناوين قوية تزيد من معدل النقر، مثل: '10 طرق لزيادة مبيعات متجرك الإلكتروني في 30 يومًا'."
+    },
+    {
+    "original": "Generating Blog Post Outlines",
+    "translated": "إنشاء مخططات للمقالات",
+    "description": "تحديد الهيكل الأساسي لمقال شامل، مثل تقسيم مقال 'كيفية تحسين محركات البحث' إلى مقدمة، استراتيجيات، وأدوات مفيدة."
+    },
+    {
+    "original": "Creating Infographics",
+    "translated": "إنشاء رسوم بيانية",
+    "description": "تصميم إنفوجرافيك مرئي لعرض المعلومات بطريقة جذابة، مثل مخطط يوضح خطوات إنشاء حملة تسويقية ناجحة."
     }
   ]
 }
