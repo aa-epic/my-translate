@@ -1305,5 +1305,1147 @@
     "translated": "تحسين صور المنتجات",
     "description": "استخدام صور عالية الجودة مع زوايا متعددة وإضافة نصوص توضيحية لعرض مزايا المنتج بوضوح وجذب انتباه العملاء."
     },
+    /*  Sales Prompts */
+    {
+    "original": "Sales Prompts",
+    "translated": "برومبتات المبيعات",
+    "description": "يحتوي هذا القسم على برومبتات تساعد فرق المبيعات في تحليل البيانات، تحسين استراتيجيات البيع، وإدارة العلاقات مع العملاء المحتملين. يشمل ذلك تحليل ملاحظات العملاء، تطوير برامج الحوافز، وبحث السوق لتحقيق أفضل أداء."
+    },
+    {
+    "original": "Conducting customer feedback analysis",
+    "translated": "تحليل ملاحظات العملاء",
+    "description": "جمع وتحليل تعليقات العملاء لاكتشاف نقاط القوة والضعف في المنتج أو الخدمة، مما يساعد في تحسين تجربة المستخدم وزيادة رضا العملاء."
+    },
+    {
+    "original": "Conducting incentive program ROI analyses",
+    "translated": "تحليل العائد على الاستثمار لبرامج الحوافز",
+    "description": "تقييم مدى فعالية برامج الحوافز وتأثيرها على مبيعات الشركة، مثل تحليل تأثير العروض الترويجية والمكافآت على سلوك العملاء."
+    },
+    {
+    "original": "Conducting industry trend analysis",
+    "translated": "تحليل اتجاهات الصناعة",
+    "description": "متابعة وتحليل الاتجاهات الحالية في السوق لفهم التغيرات في سلوك العملاء والمنافسين، مما يساعد على وضع استراتيجيات تسويقية فعالة."
+    },
+    {
+    "original": "Conducting keyword research for content",
+    "translated": "إجراء بحث عن الكلمات المفتاحية للمحتوى",
+    "description": "تحليل الكلمات المفتاحية الأكثر بحثًا لتحسين محركات البحث (SEO) وضمان ظهور المحتوى في نتائج البحث العضوية لزيادة التفاعل."
+    },
+    {
+    "original": "Conducting lead scoring analysis",
+    "translated": "تحليل تقييم العملاء المحتملين",
+    "description": "تصنيف العملاء المحتملين بناءً على مستوى اهتمامهم وجاهزيتهم للشراء، مما يساعد فرق المبيعات على التركيز على العملاء الأكثر احتمالًا للتحويل."
+    },
+    {
+    "original": "Conducting market research data analysis",
+    "translated": "تحليل بيانات أبحاث السوق",
+    "description": "استخدام البيانات البحثية لفهم سلوك العملاء، تحليل احتياجات السوق، وتطوير استراتيجيات تسويقية أكثر فعالية."
+    },
+    {
+    "original": "Conducting market research for new leads",
+    "translated": "إجراء أبحاث السوق للعملاء المحتملين الجدد",
+    "description": "جمع وتحليل البيانات حول العملاء المحتملين لفهم احتياجاتهم وتحديد الفرص الجديدة لزيادة قاعدة العملاء."
+    },
+    {
+    "original": "Conducting partnership due diligence",
+    "translated": "إجراء العناية الواجبة للشراكات",
+    "description": "تحليل وتقييم الشراكات المحتملة لضمان تحقيق التعاون المناسب مع الشركات أو العلامات التجارية الأخرى."
+    },
+    {
+    "original": "Conducting partnership ROI analyses",
+    "translated": "تحليل العائد على الاستثمار في الشراكات",
+    "description": "تقييم مدى نجاح الشراكات وتأثيرها على الأداء المالي للشركة، مثل قياس العوائد مقابل التكاليف المرتبطة بالتعاون."
+    },
+    {
+    "original": "Conducting research-driven product positioning analyses",
+    "translated": "تحليل تموضع المنتجات بناءً على البحث",
+    "description": "تحديد أفضل طريقة لعرض المنتج في السوق بناءً على البيانات والتحليلات، مثل تحديد الفئات المستهدفة والمزايا التنافسية."
+    },
+    {
+    "original": "Conducting RFP response analysis",
+    "translated": "تحليل الاستجابات لطلبات العروض (RFP)",
+    "description": "مراجعة وتحليل العروض المقدمة في المناقصات والمزايدات لضمان تقديم العروض الأكثر تنافسية وفعالية."
+    },
+    {
+    "original": "Conducting sales process audits",
+    "translated": "إجراء تدقيق لعمليات المبيعات",
+    "description": "تحليل وتحسين عمليات المبيعات لضمان الكفاءة وتحقيق أقصى معدل تحويل للعملاء المحتملين إلى عملاء فعليين."
+    },
+    {
+    "original": "Conducting social media trend analysis",
+    "translated": "تحليل اتجاهات وسائل التواصل الاجتماعي",
+    "description": "رصد وتحليل الاتجاهات الرائجة على منصات التواصل الاجتماعي لاستخدامها في استراتيجيات التسويق وزيادة التفاعل مع الجمهور."
+    },
+    {
+    "original": "Conducting user research for product development",
+    "translated": "إجراء أبحاث المستخدمين لتطوير المنتجات",
+    "description": "جمع وتحليل آراء المستخدمين حول المنتج لتحسين التصميم والوظائف بناءً على احتياجاتهم وتوقعاتهم."
+    },
+    {
+    "original": "Crafting appointment reminder emails",
+    "translated": "كتابة رسائل تذكير بالمواعيد",
+    "description": "إنشاء رسائل بريد إلكتروني مخصصة لتذكير العملاء بالمواعيد والاجتماعات، مما يساعد في تقليل حالات عدم الحضور وزيادة الالتزام بالمواعيد."
+    },
+    {
+    "original": "Crafting branded illustrations for content",
+    "translated": "إنشاء رسوم توضيحية للعلامة التجارية في المحتوى",
+    "description": "تصميم رسومات مرئية تعكس هوية العلامة التجارية وتعزز جاذبية المحتوى، مثل الإنفوجرافيك والرسوم البيانية."
+    },
+    {
+    "original": "Crafting case studies",
+    "translated": "إعداد دراسات حالة",
+    "description": "إنشاء دراسات تفصيلية تعرض نجاحات العملاء مع المنتج أو الخدمة لتعزيز المصداقية وإقناع العملاء المحتملين."
+    },
+    {
+    "original": "Crafting product marketing videos",
+    "translated": "إنشاء فيديوهات تسويقية للمنتجات",
+    "description": "إنتاج مقاطع فيديو ترويجية تعرض ميزات المنتجات بطريقة جذابة لزيادة التفاعل والمبيعات."
+    },
+    {
+    "original": "Crafting product packaging design",
+    "translated": "تصميم تغليف المنتجات",
+    "description": "إنشاء تصميمات تغليف مبتكرة تعكس هوية العلامة التجارية وتجذب العملاء."
+    },
+    {
+    "original": "Crafting proposal content calendars",
+    "translated": "إنشاء جداول محتوى العروض التقديمية",
+    "description": "تنظيم خطة المحتوى للعروض التقديمية لضمان تقديم معلومات متناسقة وجذابة."
+    },
+    {
+    "original": "Crafting proposal content personalization frameworks",
+    "translated": "تصميم أطر تخصيص محتوى العروض التقديمية",
+    "description": "إنشاء نماذج مخصصة لجعل العروض أكثر ملاءمة لكل عميل محتمل وتحسين معدلات الاستجابة."
+    },
+    {
+    "original": "Crafting proposal cover letters",
+    "translated": "كتابة خطابات تغطية للعروض التقديمية",
+    "description": "إعداد مقدمات قوية توضح الغرض من العرض وتقنع العميل بأهميته."
+    },
+    {
+    "original": "Crafting proposal feedback surveys",
+    "translated": "إنشاء استبيانات ملاحظات حول العروض التقديمية",
+    "description": "تصميم استبيانات لجمع آراء العملاء حول العروض التقديمية لتحسينها في المستقبل."
+    },
+    {
+    "original": "Crafting prospecting strategy guides",
+    "translated": "إعداد أدلة استراتيجيات البحث عن العملاء",
+    "description": "تصميم خطط فعالة لاستهداف العملاء المحتملين وتحسين معدلات التحويل."
+    },
+    {
+    "original": "Crafting referral incentives for customers",
+    "translated": "إنشاء حوافز إحالة للعملاء",
+    "description": "تصميم برامج مكافآت تشجع العملاء الحاليين على إحالة أصدقائهم مقابل مزايا خاصة."
+    },
+    {
+    "original": "Crafting referral request emails",
+    "translated": "كتابة رسائل بريدية لطلبات الإحالة",
+    "description": "إنشاء رسائل مقنعة تطلب من العملاء مشاركة المنتجات أو الخدمات مع شبكاتهم مقابل حوافز."
+    },
+    {
+    "original": "Crafting research-based branding strategies",
+    "translated": "تطوير استراتيجيات العلامة التجارية بناءً على الأبحاث",
+    "description": "استخدام بيانات السوق والمستهلكين لتطوير استراتيجيات بناء العلامة التجارية بشكل فعال."
+    },
+    {
+    "original": "Crafting sales contract templates",
+    "translated": "إنشاء قوالب عقود المبيعات",
+    "description": "تصميم نماذج عقود جاهزة لتنظيم عمليات البيع وضمان الوضوح القانوني."
+    },
+    {
+    "original": "Crafting sales conversion rate analysis",
+    "translated": "تحليل معدلات تحويل المبيعات",
+    "description": "تحليل بيانات المبيعات لفهم مدى نجاح استراتيجيات البيع وتحسين الأداء."
+    },
+    {
+    "original": "Crafting sales goal setting frameworks",
+    "translated": "تصميم أطر تحديد أهداف المبيعات",
+    "description": "إنشاء منهجيات لتحديد وتتبع أهداف المبيعات لضمان تحقيق أقصى استفادة من الجهود التسويقية."
+    },
+    {
+    "original": "Crafting sales territory analysis reports",
+    "translated": "إعداد تقارير تحليل مناطق المبيعات",
+    "description": "تحليل أداء المبيعات حسب المناطق الجغرافية لتحسين استراتيجيات التوزيع."
+    },
+    {
+    "original": "Crafting social media copy for content",
+    "translated": "كتابة محتوى لمنشورات وسائل التواصل الاجتماعي",
+    "description": "إنشاء نصوص جذابة تناسب مختلف المنصات الاجتماعية لتعزيز التفاعل."
+    },
+    {
+    "original": "Crafting social media crisis management plans",
+    "translated": "إعداد خطط إدارة الأزمات على وسائل التواصل الاجتماعي",
+    "description": "تصميم استراتيجيات للتعامل مع الأزمات الإعلامية وحماية سمعة العلامة التجارية."
+    },
+    {
+    "original": "Crafting social media influencer contracts",
+    "translated": "إعداد عقود تعاون مع المؤثرين",
+    "description": "تصميم اتفاقيات واضحة تحدد شروط التعاون مع المؤثرين على وسائل التواصل الاجتماعي."
+    },
+    {
+    "original": "Crafting social media messaging frameworks",
+    "translated": "إنشاء أطر رسائل وسائل التواصل الاجتماعي",
+    "description": "تحديد أسلوب التواصل مع الجمهور على منصات التواصل الاجتماعي للحفاظ على تناسق العلامة التجارية."
+    },
+    {
+    "original": "Crafting social proof emails",
+    "translated": "كتابة رسائل بريدية لإثبات المصداقية",
+    "description": "إنشاء رسائل تسلط الضوء على شهادات العملاء والتقييمات الإيجابية لتعزيز الثقة."
+    },
+    {
+    "original": "Crafting targeted outreach emails",
+    "translated": "كتابة رسائل تواصل مستهدفة",
+    "description": "تصميم رسائل بريد إلكتروني مخصصة لجذب عملاء محددين وزيادة فرص التفاعل."
+    },
+    {
+    "original": "Crafting topic clusters for SEO",
+    "translated": "إنشاء مجموعات موضوعية لتحسين محركات البحث",
+    "description": "تنظيم المحتوى في مجموعات مترابطة لزيادة الترتيب في نتائج البحث وتحسين تجربة المستخدم."
+    },
+    {
+    "original": "Crafting upsell/cross-sell incentive programs",
+    "translated": "إنشاء برامج حوافز للبيع الإضافي والتقاطع",
+    "description": "تصميم استراتيجيات تشجيع العملاء على شراء منتجات إضافية أو ترقية مشترياتهم."
+    },
+    {
+    "original": "Crafting video sales pitches",
+    "translated": "إنشاء عروض مبيعات بالفيديو",
+    "description": "إعداد فيديوهات ترويجية قصيرة توضح فوائد المنتج أو الخدمة لإقناع العملاء المحتملين."
+    },
+    {
+    "original": "Crafting video tutorials for products",
+    "translated": "إنتاج فيديوهات تعليمية للمنتجات",
+    "description": "تصميم فيديوهات تشرح كيفية استخدام المنتجات لتحسين تجربة العملاء."
+    },
+    {
+    "original": "Crafting webinars for lead generation",
+    "translated": "إنشاء ندوات إلكترونية لجذب العملاء المحتملين",
+    "description": "تنظيم جلسات تعليمية مباشرة لزيادة الوعي بالعلامة التجارية وجذب عملاء جدد."
+    },
+    {
+    "original": "Creating appointment scheduling links",
+    "translated": "إنشاء روابط جدولة المواعيد",
+    "description": "تطوير روابط مباشرة تتيح للعملاء حجز المواعيد بسهولة عبر الإنترنت."
+    },
+    {
+    "original": "Creating commission tracking reports",
+    "translated": "إعداد تقارير تتبع العمولات",
+    "description": "تصميم تقارير توضح أداء فرق المبيعات وقيمة العمولات المكتسبة."
+    },
+    {
+    "original": "Creating content distribution plans",
+    "translated": "وضع خطط توزيع المحتوى",
+    "description": "تصميم استراتيجيات لضمان وصول المحتوى إلى الجمهور المستهدف من خلال القنوات المناسبة."
+    },
+    {
+    "original": "Creating cross-promotion marketing campaigns",
+    "translated": "إطلاق حملات تسويقية ترويجية متبادلة",
+    "description": "تنفيذ استراتيجيات تعاون بين العلامات التجارية لتعزيز الوعي وزيادة المبيعات."
+    },
+    {
+    "original": "Creating custom landing pages for campaigns",
+    "translated": "إنشاء صفحات هبوط مخصصة للحملات",
+    "description": "تصميم صفحات هبوط فعالة لزيادة معدل التحويل في الحملات الإعلانية والتسويقية."
+    },
+    {
+    "original": "Creating custom pricing models",
+    "translated": "إنشاء نماذج تسعير مخصصة",
+    "description": "تصميم نماذج تسعير تعتمد على البيانات والتوقعات السوقية لضمان تحقيق الأرباح وتلبية احتياجات العملاء."
+    },
+    {
+    "original": "Creating custom proposal scoring systems",
+    "translated": "إنشاء أنظمة تقييم مخصصة للعروض التقديمية",
+    "description": "تطوير أنظمة تحليل وتقييم عروض الأعمال بناءً على معايير محددة لضمان اختيار أفضل الحلول."
+    },
+    {
+    "original": "Creating custom survey sampling plans",
+    "translated": "إنشاء خطط عينات استطلاعات مخصصة",
+    "description": "تصميم منهجيات فعالة لاختيار عينات استطلاع تمثل جمهورًا مستهدفًا للحصول على بيانات دقيقة وذات مغزى."
+    },
+    {
+    "original": "Creating customer complaint response scripts",
+    "translated": "إنشاء نصوص استجابات لشكاوى العملاء",
+    "description": "تطوير ردود جاهزة للتعامل مع شكاوى العملاء بفعالية وتحسين تجربة الدعم الفني."
+    },
+    {
+    "original": "Creating customer engagement reports",
+    "translated": "إعداد تقارير تفاعل العملاء",
+    "description": "تحليل بيانات تفاعل العملاء على وسائل التواصل الاجتماعي والمواقع الإلكترونية لفهم سلوكهم وتطوير استراتيجيات التفاعل."
+    },
+    {
+    "original": "Creating customer feedback data visualization dashboards",
+    "translated": "إنشاء لوحات تحكم مرئية لملاحظات العملاء",
+    "description": "تصميم لوحات بيانات تفاعلية تعرض تحليلات ملاحظات العملاء لمساعدة الفرق في اتخاذ قرارات قائمة على البيانات."
+    },
+    {
+    "original": "Creating customer feedback forums",
+    "translated": "إنشاء منتديات لملاحظات العملاء",
+    "description": "إطلاق منصات مخصصة لمشاركة آراء العملاء وتعزيز التفاعل المجتمعي حول المنتجات والخدمات."
+    },
+    {
+    "original": "Creating customer feedback segmentation strategies",
+    "translated": "تصميم استراتيجيات تصنيف ملاحظات العملاء",
+    "description": "تحليل ملاحظات العملاء وتقسيمها وفقًا لأنماط محددة لفهم احتياجات كل فئة وتحسين الخدمة."
+    },
+    {
+    "original": "Creating customer journey maps",
+    "translated": "إنشاء خرائط رحلة العميل",
+    "description": "تصوير رحلة العميل من الوعي إلى الشراء لتحديد نقاط التحسين في التجربة."
+    },
+    {
+    "original": "Creating customer loyalty programs",
+    "translated": "تصميم برامج ولاء العملاء",
+    "description": "تطوير استراتيجيات مكافأة العملاء الدائمين لتعزيز الولاء وزيادة معدل الاحتفاظ بهم."
+    },
+    {
+    "original": "Creating customized partner loyalty programs",
+    "translated": "إنشاء برامج ولاء مخصصة للشركاء",
+    "description": "تصميم برامج تحفيزية لتعزيز علاقات الشراكة وزيادة التعاون طويل الأمد."
+    },
+    {
+    "original": "Creating data-driven sales metrics",
+    "translated": "إنشاء مقاييس مبيعات قائمة على البيانات",
+    "description": "تطوير معايير أداء مبيعات تستند إلى البيانات لتتبع التحويلات وتحسين الاستراتيجيات البيعية."
+    },
+    {
+    "original": "Creating discount offer emails",
+    "translated": "إنشاء رسائل بريدية لعروض الخصومات",
+    "description": "تصميم حملات بريد إلكتروني تعرض خصومات وعروض خاصة لزيادة المبيعات وجذب العملاء."
+    },
+    {
+    "original": "Creating email archiving policies",
+    "translated": "وضع سياسات أرشفة البريد الإلكتروني",
+    "description": "تحديد معايير تخزين وإدارة البريد الإلكتروني لضمان الامتثال وحماية البيانات."
+    },
+    {
+    "original": "Creating email automation workflows",
+    "translated": "إنشاء مسارات أتمتة البريد الإلكتروني",
+    "description": "تصميم حملات بريد إلكتروني تلقائية تُرسل وفقًا لسلوك العملاء لزيادة التفاعل."
+    },
+    {
+    "original": "Creating email marketing campaigns",
+    "translated": "إطلاق حملات تسويق عبر البريد الإلكتروني",
+    "description": "تصميم حملات بريدية تستهدف العملاء المحتملين وتعزز التواصل مع الجمهور."
+    },
+    {
+    "original": "Creating explainer videos for products",
+    "translated": "إنتاج فيديوهات شرح المنتجات",
+    "description": "إعداد مقاطع فيديو توضيحية تشرح كيفية عمل المنتجات أو الخدمات بطريقة جذابة وسهلة الفهم."
+    },
+    {
+    "original": "Creating FAQ content",
+    "translated": "إعداد محتوى الأسئلة الشائعة",
+    "description": "إنشاء قسم للأسئلة المتكررة يساعد العملاء في العثور على إجابات سريعة دون الحاجة لدعم مباشر."
+    },
+    {
+    "original": "Creating incentive program loyalty point systems",
+    "translated": "إنشاء أنظمة نقاط الولاء لبرامج الحوافز",
+    "description": "تصميم أنظمة نقاط تحفز العملاء على التفاعل المتكرر مع العلامة التجارية مقابل مكافآت."
+    },
+    {
+    "original": "Creating incentive program reward catalogs",
+    "translated": "إعداد كتالوجات مكافآت برامج الحوافز",
+    "description": "تطوير قائمة بالمكافآت المتاحة ضمن برامج الحوافز لتشجيع مشاركة العملاء."
+    },
+    {
+    "original": "Creating infographics",
+    "translated": "إنشاء إنفوجرافيك",
+    "description": "تصميم رسوم بيانية مرئية لتوضيح المعلومات والبيانات بطريقة جذابة وسهلة الفهم."
+    },
+    {
+    "original": "Creating interactive content for lead generation",
+    "translated": "إنشاء محتوى تفاعلي لجذب العملاء المحتملين",
+    "description": "تصميم اختبارات، مسابقات، أو أدوات تفاعلية لزيادة تفاعل العملاء وجمع بيانات العملاء المحتملين."
+    },
+    {
+    "original": "Creating lead nurturing performance optimization frameworks",
+    "translated": "تطوير أطر تحسين أداء تنمية العملاء المحتملين",
+    "description": "تصميم منهجيات لزيادة فعالية استراتيجيات متابعة العملاء المحتملين وتحويلهم إلى عملاء فعليين."
+    },
+    {
+    "original": "Creating market segmentation models",
+    "translated": "إنشاء نماذج تجزئة السوق",
+    "description": "تحليل الجمهور وتقسيمه إلى فئات مستهدفة لتحسين دقة استراتيجيات التسويق."
+    },
+    {
+    "original": "Creating multi-part webinar series",
+    "translated": "إعداد سلسلة ندوات إلكترونية متعددة الأجزاء",
+    "description": "تنظيم سلسلة من الندوات التعليمية لبناء الثقة مع الجمهور وتحقيق تفاعل مستدام."
+    },
+    {
+    "original": "Creating partnership launch plans",
+    "translated": "وضع خطط إطلاق الشراكات",
+    "description": "تحديد استراتيجيات التعاون بين الشركاء التجاريين لضمان نجاح عمليات الإطلاق."
+    },
+    {
+    "original": "Creating personalized social media content",
+    "translated": "إنتاج محتوى مخصص لوسائل التواصل الاجتماعي",
+    "description": "تصميم منشورات تتناسب مع اهتمامات كل فئة مستهدفة لتحقيق تفاعل أكبر."
+    },
+    {
+    "original": "Creating personalized video follow-ups",
+    "translated": "إنتاج فيديوهات متابعة مخصصة",
+    "description": "إعداد مقاطع فيديو شخصية لمتابعة العملاء وتعزيز التواصل معهم."
+    },
+    {
+    "original": "Creating personalized, triggered email campaigns.",
+    "translated": "إنشاء حملات بريد إلكتروني مخصصة وتلقائية",
+    "description": "تصميم رسائل بريد إلكتروني تُرسل تلقائيًا بناءً على سلوك العملاء لتقديم تجربة تسويقية شخصية."
+    },
+    {
+    "original": "Creating product positioning statements",
+    "translated": "صياغة بيانات تموضع المنتجات",
+    "description": "تحديد القيمة الفريدة للمنتج وكيف يتم الترويج له في السوق بشكل استراتيجي."
+    },
+    {
+    "original": "Creating proposal response templates",
+    "translated": "إنشاء قوالب استجابات للعروض التقديمية",
+    "description": "تصميم نماذج جاهزة للرد على طلبات العروض بشكل احترافي ومنظم لضمان تقديم عروض قوية ومنافسة."
+    },
+    {
+    "original": "Creating quizzes to attract new leads",
+    "translated": "إنشاء اختبارات لجذب العملاء المحتملين",
+    "description": "تصميم اختبارات تفاعلية تساعد في جذب العملاء المحتملين وجمع بياناتهم لزيادة معدل التحويل."
+    },
+    {
+    "original": "Creating re-engagement surveys for win-backs",
+    "translated": "إعداد استبيانات لإعادة جذب العملاء المفقودين",
+    "description": "تصميم استبيانات لفهم أسباب فقدان العملاء واقتراح استراتيجيات لاستعادتهم."
+    },
+    {
+    "original": "Creating sales call analytics dashboards",
+    "translated": "إنشاء لوحات تحكم لتحليل مكالمات المبيعات",
+    "description": "تصميم لوحات بيانات تعرض تحليلات حول مكالمات المبيعات لقياس الأداء وتحسين استراتيجيات البيع."
+    },
+    {
+    "original": "Creating sales compensation plans",
+    "translated": "وضع خطط تعويضات فرق المبيعات",
+    "description": "تطوير برامج مكافآت وحوافز للمندوبين لتعزيز الأداء وزيادة المبيعات."
+    },
+    {
+    "original": "Creating sales growth trend reports",
+    "translated": "إعداد تقارير اتجاهات نمو المبيعات",
+    "description": "تحليل بيانات المبيعات لتحديد الاتجاهات المستقبلية وتحسين استراتيجيات التسويق والمبيعات."
+    },
+    {
+    "original": "Creating sales performance reports",
+    "translated": "إعداد تقارير أداء المبيعات",
+    "description": "تصميم تقارير تحليلية لقياس أداء فرق المبيعات وتحديد مجالات التحسين."
+    },
+    {
+    "original": "Creating sales win/loss analysis reports",
+    "translated": "إعداد تقارير تحليل الربح والخسارة في المبيعات",
+    "description": "تحليل بيانات الصفقات الناجحة والفاشلة لاكتشاف العوامل المؤثرة وتحسين فرص النجاح."
+    },
+    {
+    "original": "Creating social media listening dashboards",
+    "translated": "إنشاء لوحات تحكم لمراقبة وسائل التواصل الاجتماعي",
+    "description": "تصميم أدوات تحليلية لمتابعة التفاعلات والاتجاهات على وسائل التواصل الاجتماعي لفهم الجمهور بشكل أعمق."
+    },
+    {
+    "original": "Creating targeted referral marketing campaigns",
+    "translated": "إطلاق حملات تسويقية مستهدفة عبر الإحالات",
+    "description": "تصميم حملات تشجع العملاء الحاليين على إحالة أصدقاء جدد مقابل مكافآت."
+    },
+    {
+    "original": "Creating triggered email marketing campaigns",
+    "translated": "إنشاء حملات بريد إلكتروني تلقائية",
+    "description": "تصميم حملات بريد إلكتروني يتم إرسالها تلقائيًا بناءً على تصرفات العملاء لتعزيز التفاعل."
+    },
+    {
+    "original": "Creating user manuals for products",
+    "translated": "إعداد كتيبات إرشادية للمنتجات",
+    "description": "تصميم أدلة تفصيلية تشرح كيفية استخدام المنتجات بطريقة سهلة ومبسطة."
+    },
+    {
+    "original": "Creating virtual product tours",
+    "translated": "إنشاء جولات افتراضية للمنتجات",
+    "description": "تصميم جولات تفاعلية تعرض ميزات المنتجات وتجعل العملاء يتعرفون عليها بشكل أعمق."
+    },
+    {
+    "original": "Creating win-back email campaigns",
+    "translated": "إعداد حملات بريدية لاستعادة العملاء",
+    "description": "تصميم حملات بريد إلكتروني موجهة للعملاء الذين توقفوا عن التفاعل مع العلامة التجارية."
+    },
+    {
+    "original": "Designing email templates for campaigns",
+    "translated": "تصميم قوالب بريد إلكتروني للحملات",
+    "description": "إنشاء قوالب بريد إلكتروني جاهزة يمكن تخصيصها لاستخدامها في الحملات التسويقية."
+    },
+    {
+    "original": "Developing appointment confirmation workflows",
+    "translated": "تطوير مسارات تأكيد المواعيد",
+    "description": "تصميم إجراءات آلية تضمن تأكيد المواعيد وإرسال التذكيرات للعملاء."
+    },
+    {
+    "original": "Developing churn analysis reports",
+    "translated": "إعداد تقارير تحليل فقدان العملاء",
+    "description": "تحليل أسباب فقدان العملاء وتصميم استراتيجيات لزيادة معدل الاحتفاظ بهم."
+    },
+    {
+    "original": "Developing competitive analysis reports",
+    "translated": "إعداد تقارير تحليل المنافسين",
+    "description": "تحليل أداء المنافسين في السوق لفهم نقاط قوتهم وضعفهم وتحديد الفرص المتاحة."
+    },
+    {
+    "original": "Developing content calendars for marketing",
+    "translated": "إعداد جداول محتوى للتسويق",
+    "description": "تصميم خطط نشر المحتوى لضمان تنفيذ استراتيجيات تسويقية متسقة وفعالة."
+    },
+    {
+    "original": "Developing cross-sell and upsell campaigns",
+    "translated": "إعداد حملات البيع الإضافي والتقاطع",
+    "description": "تصميم استراتيجيات تحفيز العملاء على شراء منتجات إضافية أو ترقية مشترياتهم."
+    },
+    {
+    "original": "Developing custom CRM reports",
+    "translated": "إعداد تقارير مخصصة لأنظمة CRM",
+    "description": "تصميم تقارير مخصصة في أنظمة إدارة علاقات العملاء لتقديم رؤى تفصيلية حول الأداء والمبيعات."
+    },
+    {
+    "original": "Developing custom sales KPI dashboards",
+    "translated": "إنشاء لوحات تحكم مخصصة لمؤشرات الأداء البيعي",
+    "description": "تصميم أدوات تحليلية لقياس الأداء البيعي ومتابعة مؤشرات النجاح."
+    },
+    {
+    "original": "Developing custom sales playbooks",
+    "translated": "إعداد أدلة تشغيل مخصصة لفرق المبيعات",
+    "description": "تصميم أدلة تحتوي على استراتيجيات وتقنيات البيع لتعزيز كفاءة فرق المبيعات."
+    },
+    {
+    "original": "Developing custom social media style guides",
+    "translated": "إنشاء أدلة أسلوب مخصصة لوسائل التواصل الاجتماعي",
+    "description": "تحديد أسلوب المحتوى والتواصل على وسائل التواصل الاجتماعي لضمان تناسق العلامة التجارية."
+    },
+    {
+    "original": "Developing customer case studies for products",
+    "translated": "إعداد دراسات حالة لمنتجات العملاء",
+    "description": "توثيق قصص نجاح العملاء مع المنتجات لتعزيز المصداقية وجذب عملاء جدد."
+    },
+    {
+    "original": "Developing customer feedback data integration systems",
+    "translated": "إنشاء أنظمة تكامل بيانات ملاحظات العملاء",
+    "description": "تصميم أنظمة لتحليل ودمج ملاحظات العملاء مع البيانات التشغيلية لاتخاذ قرارات قائمة على البيانات."
+    },
+    {
+    "original": "Developing customer pain point surveys",
+    "translated": "إعداد استبيانات نقاط الألم للعملاء",
+    "description": "تصميم استبيانات لاكتشاف المشكلات التي يواجهها العملاء وتحسين تجربة المستخدم."
+    },
+    {
+    "original": "Developing customer retention campaigns",
+    "translated": "إعداد حملات الاحتفاظ بالعملاء",
+    "description": "تصميم استراتيجيات تحفّز العملاء على الاستمرار في التعامل مع العلامة التجارية."
+    },
+    {
+    "original": "Developing customer satisfaction surveys",
+    "translated": "إعداد استبيانات رضا العملاء",
+    "description": "تصميم استبيانات لقياس مدى رضا العملاء عن الخدمات والمنتجات وتحديد مجالات التحسين."
+    },
+    {
+    "original": "Developing email A/B testing strategies",
+    "translated": "تصميم استراتيجيات اختبار A/B للبريد الإلكتروني",
+    "description": "اختبار استراتيجيات بريد إلكتروني مختلفة لمعرفة أيها يحقق أفضل أداء وتحسين الحملات بناءً على البيانات."
+    },
+    {
+    "original": "Developing email marketing campaign calendars",
+    "translated": "إعداد جداول لحملات التسويق عبر البريد الإلكتروني",
+    "description": "تصميم جداول زمنية منظمة لحملات البريد الإلكتروني لضمان الاتساق والتخطيط الفعّال للحملات التسويقية."
+    },
+    {
+    "original": "Developing email marketing campaign retargeting strategies",
+    "translated": "تطوير استراتيجيات إعادة استهداف حملات البريد الإلكتروني",
+    "description": "تصميم استراتيجيات لإعادة استهداف العملاء الذين لم يتفاعلوا مع الرسائل السابقة لزيادة معدلات التحويل."
+    },
+    {
+    "original": "Developing email signature templates",
+    "translated": "تصميم قوالب توقيعات البريد الإلكتروني",
+    "description": "إنشاء توقيعات احترافية قابلة للتخصيص تعكس هوية العلامة التجارية في البريد الإلكتروني."
+    },
+    {
+    "original": "Developing follow-up call scripts",
+    "translated": "إنشاء نصوص مكالمات المتابعة",
+    "description": "إعداد نصوص محادثات لمكالمات المتابعة مع العملاء المحتملين لتعزيز فرص الإغلاق وزيادة المبيعات."
+    },
+    {
+    "original": "Developing incentive program discount structures",
+    "translated": "تصميم هياكل الخصومات لبرامج الحوافز",
+    "description": "إنشاء استراتيجيات للخصومات كجزء من برامج الحوافز لتعزيز مشاركة العملاء وزيادة المبيعات."
+    },
+    {
+    "original": "Developing incentive program employee surveys",
+    "translated": "إعداد استبيانات الموظفين لبرامج الحوافز",
+    "description": "تصميم استبيانات لجمع آراء الموظفين حول برامج الحوافز وتحديد مجالات التحسين."
+    },
+    {
+    "original": "Developing incentive program gamification strategies",
+    "translated": "تطوير استراتيجيات الألعاب لبرامج الحوافز",
+    "description": "إنشاء عناصر تحفيزية تعتمد على التحديات والمكافآت لزيادة مشاركة العملاء والموظفين."
+    },
+    {
+    "original": "Developing incentive program VIP tiers",
+    "translated": "تصميم مستويات كبار الشخصيات لبرامج الحوافز",
+    "description": "إعداد مستويات تمييزية داخل برامج الحوافز لمكافأة العملاء الأكثر ولاءً."
+    },
+    {
+    "original": "Developing interactive content for marketing",
+    "translated": "إنشاء محتوى تفاعلي للتسويق",
+    "description": "تصميم محتوى تفاعلي مثل الاختبارات والاستطلاعات لزيادة التفاعل مع الجمهور وتحفيز الاهتمام بالعلامة التجارية."
+    },
+    {
+    "original": "Developing interactive product demos",
+    "translated": "تطوير عروض توضيحية تفاعلية للمنتجات",
+    "description": "إنشاء عروض تفاعلية تتيح للعملاء تجربة المنتج افتراضيًا وفهم ميزاته بسهولة."
+    },
+    {
+    "original": "Developing lead nurturing ABM campaigns",
+    "translated": "إعداد حملات ABM لتنمية العملاء المحتملين",
+    "description": "تصميم حملات تسويق تعتمد على استهداف حسابات معينة لتعزيز فرص التحويل وزيادة ولاء العملاء."
+    },
+    {
+    "original": "Developing lead nurturing personalization frameworks",
+    "translated": "تطوير أطر التخصيص لتنمية العملاء المحتملين",
+    "description": "إنشاء منهجيات تخصيص المحتوى والتواصل مع العملاء المحتملين لزيادة فرص التفاعل."
+    },
+    {
+    "original": "Developing lead nurturing reporting frameworks",
+    "translated": "إعداد أطر تقارير تنمية العملاء المحتملين",
+    "description": "تصميم أنظمة تحليلية لقياس مدى نجاح استراتيجيات تنمية العملاء المحتملين وتحسينها."
+    },
+    {
+    "original": "Developing lead nurturing workflows",
+    "translated": "تصميم مسارات تنمية العملاء المحتملين",
+    "description": "إنشاء تدفقات عمل تلقائية لمتابعة العملاء المحتملين وتحفيزهم على التحويل."
+    },
+    {
+    "original": "Developing lead scoring criteria",
+    "translated": "وضع معايير تقييم العملاء المحتملين",
+    "description": "تحديد معايير لتقييم مدى جاهزية العملاء المحتملين للتحويل بناءً على سلوكهم وتفاعلهم."
+    },
+    {
+    "original": "Developing lead segmentation strategies",
+    "translated": "تطوير استراتيجيات تقسيم العملاء المحتملين",
+    "description": "إنشاء نماذج لتقسيم العملاء المحتملين إلى مجموعات بناءً على اهتماماتهم وسلوكهم التسويقي."
+    },
+    {
+    "original": "Developing partner education and training programs",
+    "translated": "إعداد برامج تدريبية للشركاء",
+    "description": "تصميم برامج تعليمية لمساعدة الشركاء في فهم المنتجات والاستراتيجيات التسويقية وتحقيق نجاح مشترك."
+    },
+    {
+    "original": "Developing partnership metrics dashboards",
+    "translated": "إنشاء لوحات تحكم لمقاييس الشراكات",
+    "description": "تصميم أدوات تحليلية لقياس أداء الشراكات وتحقيق أقصى استفادة منها."
+    },
+    {
+    "original": "Developing partnership negotiation strategies",
+    "translated": "تطوير استراتيجيات التفاوض للشراكات",
+    "description": "إعداد استراتيجيات فعالة للتفاوض على اتفاقيات الشراكة وتحقيق شروط أفضل للطرفين."
+    },
+    {
+    "original": "Developing partnership proposals",
+    "translated": "إعداد عروض شراكة",
+    "description": "تصميم عروض تعاون مهنية تسلط الضوء على الفوائد المشتركة وتحفز الشراكات الاستراتيجية."
+    },
+    {
+    "original": "Developing personalized customer feedback action plans",
+    "translated": "تصميم خطط مخصصة للاستفادة من ملاحظات العملاء",
+    "description": "إنشاء خطط استجابة مبنية على ملاحظات العملاء لتحسين المنتجات والخدمات."
+    },
+    {
+    "original": "Developing personalized discount offer campaigns",
+    "translated": "تصميم حملات عروض خصم مخصصة",
+    "description": "إعداد عروض ترويجية مصممة خصيصًا لكل فئة من العملاء لزيادة التحويلات."
+    },
+    {
+    "original": "Developing pipeline reports",
+    "translated": "إعداد تقارير المبيعات المحتملة",
+    "description": "تحليل بيانات المبيعات المحتملة لقياس الأداء والتنبؤ بالاتجاهات المستقبلية."
+    },
+    {
+    "original": "Developing predictive market analysis models",
+    "translated": "إنشاء نماذج تحليل سوقية تنبؤية",
+    "description": "تصميم نماذج تحليلية تعتمد على البيانات لتوقع اتجاهات السوق وتوجيه استراتيجيات الأعمال."
+    },
+    {
+    "original": "Developing pricing proposals",
+    "translated": "إعداد مقترحات تسعير",
+    "description": "تصميم عروض تسعير مخصصة تلائم احتياجات العملاء وتنافس في السوق."
+    },
+    {
+    "original": "Developing product comparison charts",
+    "translated": "إعداد جداول مقارنة المنتجات",
+    "description": "إنشاء مخططات توضيحية تسهل مقارنة ميزات المنتجات المختلفة لمساعدة العملاء في اتخاذ قرارات الشراء."
+    },
+    {
+    "original": "Developing product roadmap content",
+    "translated": "إعداد محتوى خريطة طريق المنتج",
+    "description": "تصميم خطط واضحة تعرض تطورات المنتج المستقبلية واستراتيجيات تحسينه."
+    },
+    {
+    "original": "Developing proposal debrief processes",
+    "translated": "تصميم عمليات مراجعة العروض التقديمية",
+    "description": "إنشاء منهجيات لتقييم وتحليل العروض المقدمة بهدف تحسينها وتطويرها في المستقبل."
+    },
+    {
+    "original": "Developing proposal presentation scripts",
+    "translated": "إعداد نصوص عروض تقديمية",
+    "description": "كتابة سيناريوهات مهيكلة للعروض التقديمية لضمان التواصل الفعّال مع العملاء المحتملين."
+    },
+    {
+    "original": "Developing proposal template libraries",
+    "translated": "إنشاء مكتبات قوالب العروض التقديمية",
+    "description": "تصميم مجموعة من القوالب الجاهزة لتسهيل إنشاء عروض تقديمية احترافية بسرعة وكفاءة."
+    },
+    {
+    "original": "Developing referral incentive programs",
+    "translated": "تطوير برامج حوافز الإحالة",
+    "description": "تصميم برامج مكافآت تشجع العملاء الحاليين على إحالة عملاء جدد مقابل مزايا وحوافز حصرية."
+    },
+    {
+    "original": "Developing referral marketing campaigns with partners",
+    "translated": "إعداد حملات تسويق بالإحالة مع الشركاء",
+    "description": "تصميم استراتيجيات تسويقية تعاونية مع الشركاء لزيادة الإحالات وتحفيز النمو المشترك."
+    },
+    {
+    "original": "Developing research-based customer engagement strategies",
+    "translated": "تطوير استراتيجيات تفاعل العملاء بناءً على الأبحاث",
+    "description": "إنشاء خطط تعتمد على تحليلات سلوك العملاء لتعزيز التفاعل وبناء علاقات قوية مع الجمهور."
+    },
+    {
+    "original": "Developing research-based marketing plans",
+    "translated": "إعداد خطط تسويقية قائمة على الأبحاث",
+    "description": "تصميم خطط تسويقية تعتمد على البيانات والتحليلات لضمان تحقيق أفضل النتائج."
+    },
+    {
+    "original": "Developing retargeting ad campaigns",
+    "translated": "إعداد حملات إعلانية لإعادة الاستهداف",
+    "description": "تصميم استراتيجيات إعلانية تستهدف العملاء الذين زاروا الموقع مسبقًا ولم يكملوا عملية الشراء."
+    },
+    {
+    "original": "Developing sales automation workflows",
+    "translated": "تصميم مسارات أتمتة عمليات المبيعات",
+    "description": "إنشاء تدفقات عمل آلية تساعد في تسريع عمليات البيع وتحسين كفاءة فرق المبيعات."
+    },
+    {
+    "original": "Developing sales forecasting models",
+    "translated": "إعداد نماذج توقعات المبيعات",
+    "description": "تصميم أدوات تحليلية تعتمد على البيانات للتنبؤ باتجاهات المبيعات المستقبلية."
+    },
+    {
+    "original": "Developing sales pitch A/B testing strategy",
+    "translated": "تصميم استراتيجيات اختبار A/B لعروض البيع",
+    "description": "اختبار سيناريوهات عروض مبيعات مختلفة لمعرفة أيها يحقق أعلى معدل تحويل."
+    },
+    {
+    "original": "Developing sales territory plans",
+    "translated": "إعداد خطط مناطق المبيعات",
+    "description": "تحديد وتنظيم مناطق البيع لضمان تغطية فعالة وتحقيق أفضل نتائج للمبيعات."
+    },
+    {
+    "original": "Developing sales training schedules",
+    "translated": "إعداد جداول تدريب فرق المبيعات",
+    "description": "إنشاء برامج تدريبية لرفع مهارات فرق المبيعات وتعزيز أدائهم."
+    },
+    {
+    "original": "Developing social media ad campaigns",
+    "translated": "إعداد حملات إعلانية على وسائل التواصل الاجتماعي",
+    "description": "تصميم استراتيجيات إعلانية فعالة لزيادة الوعي بالعلامة التجارية وتعزيز التفاعل."
+    },
+    {
+    "original": "Developing social media contest rules",
+    "translated": "وضع قواعد مسابقات وسائل التواصل الاجتماعي",
+    "description": "تحديد القواعد والشروط الخاصة بالمسابقات الترويجية لضمان التفاعل العادل وتحقيق الأهداف التسويقية."
+    },
+    {
+    "original": "Developing social media growth hacking strategies",
+    "translated": "تصميم استراتيجيات اختراق النمو لوسائل التواصل الاجتماعي",
+    "description": "إنشاء خطط تسويقية مبتكرة لزيادة عدد المتابعين وتحقيق نمو سريع على وسائل التواصل الاجتماعي."
+    },
+    {
+    "original": "Developing social media impact reports",
+    "translated": "إعداد تقارير تأثير وسائل التواصل الاجتماعي",
+    "description": "تحليل أداء الحملات الرقمية وقياس تأثيرها على المبيعات والتفاعل مع الجمهور."
+    },
+    {
+    "original": "Developing survey questionnaires",
+    "translated": "إعداد استبيانات البحث",
+    "description": "تصميم استبيانات فعالة لجمع البيانات وتحليل آراء العملاء حول المنتجات والخدمات."
+    },
+    {
+    "original": "Developing targeted email campaigns for each customer segment",
+    "translated": "إعداد حملات بريد إلكتروني موجهة لكل شريحة من العملاء",
+    "description": "تصميم رسائل بريد إلكتروني مخصصة بناءً على اهتمامات وسلوك كل فئة من العملاء."
+    },
+    {
+    "original": "Developing targeted social media ads",
+    "translated": "إعداد إعلانات مستهدفة على وسائل التواصل الاجتماعي",
+    "description": "تصميم حملات إعلانية تعتمد على الاهتمامات والبيانات الديموغرافية لتحقيق أقصى تفاعل."
+    },
+    {
+    "original": "Developing targeted social media hashtag strategies",
+    "translated": "تصميم استراتيجيات هاشتاج مستهدفة",
+    "description": "إنشاء خطط لاستخدام الهاشتاجات بفعالية لزيادة مدى الوصول على وسائل التواصل الاجتماعي."
+    },
+    {
+    "original": "Developing team performance tracking systems",
+    "translated": "إعداد أنظمة تتبع أداء الفرق",
+    "description": "تصميم أدوات تحليلية لقياس أداء فرق المبيعات والتسويق وتحسين الإنتاجية."
+    },
+    {
+    "original": "Developing user personas for products",
+    "translated": "إنشاء نماذج شخصيات المستخدمين للمنتجات",
+    "description": "تحليل سلوك العملاء وإنشاء نماذج تمثل الفئات المستهدفة لضمان تقديم تجارب مخصصة."
+    },
+    {
+    "original": "Developing webinars",
+    "translated": "إعداد ندوات إلكترونية",
+    "description": "تنظيم ندوات تفاعلية عبر الإنترنت لتعزيز الوعي بالعلامة التجارية وجذب العملاء المحتملين."
+    },
+    {
+    "original": "Developing webinars for lead generation",
+    "translated": "إعداد ندوات إلكترونية لجذب العملاء المحتملين",
+    "description": "تصميم جلسات تعليمية مباشرة تستهدف العملاء المحتملين وتحفزهم على التفاعل مع العلامة التجارية."
+    },
+    {
+    "original": "Developing win-back campaigns",
+    "translated": "إعداد حملات استعادة العملاء",
+    "description": "تصميم استراتيجيات تسويقية تهدف إلى إعادة جذب العملاء المفقودين وتحفيزهم على العودة."
+    },
+    {
+    "original": "Drafting sales pitches",
+    "translated": "كتابة عروض مبيعات مقنعة",
+    "description": "تصميم نصوص تسويقية فعالة تهدف إلى إقناع العملاء المحتملين واتخاذ قرارات الشراء."
+    },
+    {
+    "original": "Generating brand voice guidelines",
+    "translated": "إنشاء إرشادات نبرة العلامة التجارية",
+    "description": "تحديد الأسلوب اللغوي والتواصلي الذي يجب أن تستخدمه العلامة التجارية في المحتوى التسويقي لضمان التناسق."
+    },
+    {
+    "original": "Generating client management workflows",
+    "translated": "إعداد مسارات إدارة العملاء",
+    "description": "تصميم تدفقات عمل لتنظيم عمليات إدارة العملاء وتحسين تجربة المستخدم."
+    },
+    {
+    "original": "Generating competitor social media analysis reports",
+    "translated": "إعداد تقارير تحليل وسائل التواصل الاجتماعي للمنافسين",
+    "description": "تحليل استراتيجيات المنافسين على وسائل التواصل الاجتماعي لاكتشاف الفرص وتحسين الأداء."
+    },
+    {
+    "original": "Generating custom partner event plans",
+    "translated": "إعداد خطط فعاليات مخصصة للشركاء",
+    "description": "تصميم خطط لفعاليات تسويقية تعزز التعاون مع الشركاء وتحقيق نتائج مشتركة."
+    },
+    {
+    "original": "Generating custom partner onboarding plans",
+    "translated": "إعداد خطط تهيئة مخصصة للشركاء",
+    "description": "تصميم استراتيجيات استقبال وتدريب الشركاء لضمان تحقيق أقصى استفادة من التعاون."
+    },
+    {
+    "original": "Generating custom research objectives",
+    "translated": "تحديد أهداف بحث مخصصة",
+    "description": "إنشاء أهداف بحثية تستند إلى احتياجات السوق والجمهور المستهدف لضمان نتائج دقيقة وقابلة للتنفيذ."
+    },
+    {
+    "original": "Generating customer feedback analysis reports",
+    "translated": "إعداد تقارير تحليل ملاحظات العملاء",
+    "description": "تحليل ملاحظات العملاء لإنشاء تقارير تفصيلية توضح نقاط القوة والتحسين المحتملة في المنتجات أو الخدمات."
+    },
+    {
+    "original": "Generating customer lifetime value analysis",
+    "translated": "تحليل قيمة عمر العميل",
+    "description": "حساب وتقدير إجمالي الإيرادات التي يمكن تحقيقها من كل عميل على مدار فترة تعامله مع العلامة التجارية."
+    },
+    {
+    "original": "Generating customer personas",
+    "translated": "إنشاء نماذج شخصيات العملاء",
+    "description": "تحليل البيانات الديموغرافية والسلوكية لإنشاء شخصيات تمثل الفئات المستهدفة لمنتجات الشركة."
+    },
+    {
+    "original": "Generating customer psychographic profiles",
+    "translated": "إعداد ملفات تحليل سيكوجرافي للعملاء",
+    "description": "تحليل العوامل النفسية مثل القيم والاهتمامات لتحديد استراتيجيات التسويق المستهدفة."
+    },
+    {
+    "original": "Generating customer segmentation reports",
+    "translated": "إعداد تقارير تقسيم العملاء",
+    "description": "تحليل بيانات العملاء وتقسيمهم إلى مجموعات بناءً على السلوك والاحتياجات لزيادة دقة الاستهداف التسويقي."
+    },
+    {
+    "original": "Generating customer sentiment analysis reports",
+    "translated": "إعداد تقارير تحليل مشاعر العملاء",
+    "description": "تحليل انطباعات العملاء تجاه المنتجات أو العلامة التجارية من خلال مراجعاتهم وتعليقاتهم على وسائل التواصل الاجتماعي."
+    },
+    {
+    "original": "Generating customized partner co-branding strategies",
+    "translated": "إنشاء استراتيجيات تعاون تسويقي مخصصة مع الشركاء",
+    "description": "تطوير خطط شراكة تسويقية مشتركة لتعزيز العلامة التجارية والاستفادة من قواعد العملاء المشتركة."
+    },
+    {
+    "original": "Generating data-driven white papers",
+    "translated": "إعداد أوراق بحثية قائمة على البيانات",
+    "description": "إنشاء تقارير تحليلية عميقة تعتمد على البيانات لتقديم رؤى متقدمة في مجال معين."
+    },
+    {
+    "original": "Generating employee incentive programs",
+    "translated": "إنشاء برامج حوافز للموظفين",
+    "description": "تصميم خطط مكافآت تحفيزية لزيادة إنتاجية الموظفين وتحسين أدائهم."
+    },
+    {
+    "original": "Generating follow-up call scripts",
+    "translated": "إعداد نصوص مكالمات المتابعة",
+    "description": "إنشاء سيناريوهات مكالمات متابعة لتعزيز فرص التحويل وبناء علاقات أقوى مع العملاء المحتملين."
+    },
+    {
+    "original": "Generating incentive program customer feedback loops",
+    "translated": "إعداد دورات ملاحظات العملاء في برامج الحوافز",
+    "description": "تصميم نظام يسمح بجمع آراء العملاء حول برامج الحوافز وتحسينها بناءً على تجربتهم."
+    },
+    {
+    "original": "Generating incentive program gift card programs",
+    "translated": "تصميم برامج بطاقات الهدايا لبرامج الحوافز",
+    "description": "إعداد أنظمة مكافآت تعتمد على بطاقات الهدايا كجزء من برامج الحوافز."
+    },
+    {
+    "original": "Generating influencer reviews for products",
+    "translated": "إنشاء مراجعات من المؤثرين للمنتجات",
+    "description": "التعاون مع المؤثرين لإنشاء تقييمات ومراجعات للمنتجات لتعزيز المصداقية وجذب العملاء."
+    },
+    {
+    "original": "Generating lead nurturing data integration workflows",
+    "translated": "إنشاء تدفقات عمل تكامل بيانات تنمية العملاء المحتملين",
+    "description": "تصميم عمليات آلية لدمج بيانات العملاء المحتملين وتحليلها لتحسين استراتيجيات المتابعة."
+    },
+    {
+    "original": "Generating lead source reports",
+    "translated": "إعداد تقارير مصادر العملاء المحتملين",
+    "description": "تحليل مصادر العملاء المحتملين لتحديد أكثر القنوات فعالية في جذبهم."
+    },
+    {
+    "original": "Generating market research ROI analyses",
+    "translated": "تحليل العائد على الاستثمار لأبحاث السوق",
+    "description": "تقييم فعالية الأبحاث السوقية وتأثيرها على القرارات الاستراتيجية والتسويقية."
+    },
+    {
+    "original": "Generating onboarding checklists",
+    "translated": "إعداد قوائم مراجعة لتهيئة العملاء الجدد",
+    "description": "تصميم قوائم مراجعة توضح الخطوات التي يجب اتباعها عند انضمام العملاء أو الموظفين الجدد."
+    },
+    {
+    "original": "Generating out-of-office responses",
+    "translated": "إعداد ردود البريد الإلكتروني أثناء العطلة",
+    "description": "إنشاء ردود تلقائية لإعلام العملاء بفترات الغياب وتوجيههم إلى بدائل الدعم المتاحة."
+    },
+    {
+    "original": "Generating partnership performance reports",
+    "translated": "إعداد تقارير أداء الشراكات",
+    "description": "تحليل أداء الشراكات التجارية وتحديد مدى نجاح التعاون في تحقيق الأهداف المشتركة."
+    },
+    {
+    "original": "Generating personalized lead nurturing content",
+    "translated": "إعداد محتوى مخصص لتنمية العملاء المحتملين",
+    "description": "إنشاء محتوى موجه لكل فئة من العملاء المحتملين لتعزيز التفاعل وزيادة فرص التحويل."
+    },
+    {
+    "original": "Generating product feedback reports",
+    "translated": "إعداد تقارير ملاحظات العملاء عن المنتجات",
+    "description": "تحليل تعليقات العملاء حول المنتجات لتحديد نقاط التحسين وزيادة رضا المستخدمين."
+    },
+    {
+    "original": "Generating product performance reports",
+    "translated": "إعداد تقارير أداء المنتجات",
+    "description": "تحليل بيانات المبيعات والاستخدام لتقييم أداء المنتجات واتخاذ قرارات تطوير مستنيرة."
+    },
+    {
+    "original": "Generating product tutorial videos",
+    "translated": "إنتاج فيديوهات تعليمية للمنتجات",
+    "description": "تصميم مقاطع فيديو توضيحية تشرح كيفية استخدام المنتجات بطريقة سهلة وجذابة."
+    },
+    {
+    "original": "Generating product usage guides",
+    "translated": "إعداد أدلة استخدام المنتجات",
+    "description": "تصميم كتيبات إرشادية توفر تفاصيل شاملة حول كيفية استخدام المنتجات بكفاءة."
+    },
+    {
+    "original": "Generating proposal review checklists",
+    "translated": "إعداد قوائم مراجعة العروض التقديمية",
+    "description": "تصميم قوائم مراجعة تساعد في تقييم وتحسين جودة العروض المقدمة للعملاء أو الشركاء."
+    },
+    {
+    "original": "Generating sales forecasts",
+    "translated": "إعداد توقعات المبيعات",
+    "description": "تحليل البيانات السابقة والتوجهات السوقية للتنبؤ بأداء المبيعات المستقبلي."
+    },
+    {
+    "original": "Generating sales technology audits",
+    "translated": "إجراء تدقيق لأنظمة تكنولوجيا المبيعات",
+    "description": "تحليل الأدوات والتقنيات المستخدمة في عمليات المبيعات لتحديد نقاط التحسين الممكنة."
+    },
+    {
+    "original": "Generating service-level agreements",
+    "translated": "إعداد اتفاقيات مستوى الخدمة (SLA)",
+    "description": "تصميم عقود تحدد مستوى الخدمات المقدمة للعملاء وضمان تحقيق التوقعات المتفق عليها."
+    },
+    {
+    "original": "Generating social media advertising ROI reports",
+    "translated": "إعداد تقارير العائد على الاستثمار للإعلانات عبر وسائل التواصل الاجتماعي",
+    "description": "تحليل أداء الحملات الإعلانية على وسائل التواصل الاجتماعي لتقييم جدواها وتحسين استراتيجيات الإنفاق."
+    },
+    {
+    "original": "Generating social media graphics for content",
+    "translated": "تصميم رسومات لمنشورات وسائل التواصل الاجتماعي",
+    "description": "إعداد تصاميم بصرية جذابة لتعزيز التفاعل وزيادة تأثير المحتوى الرقمي."
+    },
+    {
+    "original": "Generating subject lines for emails",
+    "translated": "إنشاء عناوين جذابة للبريد الإلكتروني",
+    "description": "تصميم عناوين بريد إلكتروني مقنعة تهدف إلى زيادة معدل الفتح وتحفيز المستلمين على التفاعل مع الرسالة."
+    },
+    {
+    "original": "Generating targeted email segmentations",
+    "translated": "إنشاء تقسيمات مستهدفة للبريد الإلكتروني",
+    "description": "تصنيف المشتركين في البريد الإلكتروني إلى مجموعات بناءً على الاهتمامات والسلوك لضمان رسائل أكثر تخصيصًا وفعالية."
+    },
+    {
+    "original": "Generating team collaboration workflows",
+    "translated": "إنشاء مسارات تعاون فرق العمل",
+    "description": "تصميم تدفقات عمل تسهل التعاون بين أعضاء الفريق وتعزز الإنتاجية في المشاريع والعروض التقديمية."
+    },
+    {
+    "original": "Generating user-generated content campaigns",
+    "translated": "إعداد حملات المحتوى المُنشأ من قبل المستخدمين",
+    "description": "تصميم استراتيجيات تشجع العملاء على إنشاء محتوى أصلي يعزز مصداقية العلامة التجارية ويزيد من التفاعل."
+    },
+    {
+    "original": "Generating voice of the customer analysis reports",
+    "translated": "إعداد تقارير تحليل صوت العميل",
+    "description": "تحليل ملاحظات العملاء لفهم احتياجاتهم وتوقعاتهم وتحسين تجربة المستخدم بناءً على هذه البيانات."
+    },
+    {
+    "original": "Generating white papers",
+    "translated": "إعداد أوراق بحثية",
+    "description": "إنشاء تقارير تحليلية متعمقة توفر معلومات قيمة حول موضوع معين بهدف التثقيف وبناء المصداقية."
+    },
+    {
+    "original": "Optimizing landing pages for conversions",
+    "translated": "تحسين صفحات الهبوط لزيادة التحويلات",
+    "description": "تحليل وتعديل صفحات الهبوط لضمان تحقيق أعلى نسبة تحويل من الزوار إلى عملاء."
+    },
+    {
+    "original": "Writing blog articles",
+    "translated": "كتابة مقالات المدونة",
+    "description": "إعداد محتوى مدوّنات غني بالمعلومات يساعد في تحسين محركات البحث (SEO) وزيادة التفاعل مع الجمهور."
+    },
+    {
+    "original": "Writing co-marketing campaign plans",
+    "translated": "إعداد خطط الحملات التسويقية المشتركة",
+    "description": "تصميم خطط تعاون بين العلامات التجارية لتنفيذ حملات تسويقية فعالة تعود بالنفع على جميع الأطراف."
+    },
+    {
+    "original": "Writing competitor analysis reports",
+    "translated": "إعداد تقارير تحليل المنافسين",
+    "description": "تحليل استراتيجيات المنافسين لتحديد نقاط القوة والضعف واكتشاف الفرص لتحسين الأداء التسويقي."
+    },
+    {
+    "original": "Writing customer advocacy program guides",
+    "translated": "إعداد أدلة برامج دعم العملاء",
+    "description": "تصميم استراتيجيات تساعد العملاء في أن يصبحوا سفراء للعلامة التجارية من خلال توصياتهم وتجاربهم الإيجابية."
+    },
+    {
+    "original": "Writing customer case studies for outreach",
+    "translated": "إعداد دراسات حالة للعملاء لاستخدامها في الحملات الترويجية",
+    "description": "توثيق قصص نجاح العملاء مع المنتج أو الخدمة لتعزيز المصداقية وإقناع العملاء المحتملين."
+    },
+    {
+    "original": "Writing customer retention emails",
+    "translated": "كتابة رسائل بريد إلكتروني للاحتفاظ بالعملاء",
+    "description": "إعداد رسائل بريد إلكتروني تستهدف العملاء الحاليين لتعزيز الولاء وتحفيزهم على العودة للشراء."
+    },
+    {
+    "original": "Writing customer review responses",
+    "translated": "كتابة ردود على مراجعات العملاء",
+    "description": "تصميم ردود احترافية على تقييمات العملاء لتحسين تجربة العملاء وتعزيز صورة العلامة التجارية."
+    },
+    {
+    "original": "Writing data-driven customer feedback response templates",
+    "translated": "إعداد قوالب استجابات ملاحظات العملاء المبنية على البيانات",
+    "description": "إنشاء نماذج ردود تعتمد على تحليلات ملاحظات العملاء لضمان استجابة فعالة وتحسين العلاقة مع العملاء."
+    },
+    {
+    "original": "Writing data-driven customer insights reports",
+    "translated": "إعداد تقارير رؤى العملاء المبنية على البيانات",
+    "description": "تحليل بيانات العملاء لإنشاء تقارير تفصيلية تساعد في فهم احتياجاتهم وسلوكهم الشرائي."
+    },
+    {
+    "original": "Writing data-driven lead nurturing email templates",
+    "translated": "إعداد قوالب بريد إلكتروني لتنمية العملاء المحتملين بناءً على البيانات",
+    "description": "تصميم رسائل بريد إلكتروني مستندة إلى تحليلات العملاء لزيادة معدلات التحويل وتحسين استراتيجيات المتابعة."
+    },
+    {
+    "original": "Writing data-driven social media captions",
+    "translated": "كتابة تعليقات لوسائل التواصل الاجتماعي قائمة على البيانات",
+    "description": "إنشاء نصوص جذابة لمنشورات وسائل التواصل الاجتماعي تستند إلى تحليلات التفاعل والاتجاهات."
+    },
+    {
+    "original": "Writing email marketing campaign analytics reports",
+    "translated": "إعداد تقارير تحليلات حملات البريد الإلكتروني",
+    "description": "تحليل أداء حملات البريد الإلكتروني لتحديد نقاط التحسين وزيادة التفاعل مع المشتركين."
+    },
+    {
+    "original": "Writing email marketing campaign performance reports",
+    "translated": "إعداد تقارير أداء حملات البريد الإلكتروني",
+    "description": "تحليل بيانات حملات البريد الإلكتروني لقياس النجاح وتحسين الاستراتيجيات المستقبلية."
+    },
+    {
+    "original": "Writing email newsletter content",
+    "translated": "كتابة محتوى النشرات البريدية",
+    "description": "تصميم محتوى نشرة بريدية جذابة ومفيدة لتعزيز العلاقة مع المشتركين وزيادة التفاعل."
+    },
+    {
+    "original": "Writing executive summaries",
+    "translated": "إعداد ملخصات تنفيذية",
+    "description": "كتابة ملخصات موجزة توضح النقاط الرئيسية في التقارير أو العروض التقديمية لمساعدة صناع القرار."
+    },
+    {
+    "original": "Writing follow-up emails",
+    "translated": "كتابة رسائل متابعة بريدية",
+    "description": "إعداد رسائل متابعة للبريد الإلكتروني تساعد في تعزيز العلاقات مع العملاء وزيادة فرص التحويل."
+    },
+    {
+    "original": "Writing incentive program data integration workflows",
+    "translated": "تصميم مسارات تكامل بيانات برامج الحوافز",
+    "description": "إنشاء عمليات دمج البيانات لتقييم أداء برامج الحوافز وتحسين فعاليتها."
+    },
+    {
+    "original": "Writing incentive program personalized messaging frameworks",
+    "translated": "إعداد أطر رسائل مخصصة لبرامج الحوافز",
+    "description": "تصميم استراتيجيات تواصل مخصصة لزيادة فعالية برامج الحوافز وجذب المزيد من المشاركين."
+    },
+    {
+    "original": "Writing long-form thought leadership pieces",
+    "translated": "كتابة مقالات طويلة في مجال الريادة الفكرية",
+    "description": "إعداد محتوى تحليلي متعمق يعزز صورة الكاتب أو العلامة التجارية كجهة خبيرة في المجال."
+    },
+    {
+    "original": "Writing market analysis reports",
+    "translated": "إعداد تقارير تحليل السوق",
+    "description": "تحليل بيانات السوق لإنشاء تقارير توفر رؤى حول الاتجاهات والفرص التنافسية."
+    },
+    {
+    "original": "Writing market research reports",
+    "translated": "إعداد تقارير أبحاث السوق",
+    "description": "إنشاء تقارير تحليلية تعتمد على بيانات السوق لفهم سلوك العملاء واتجاهات الصناعة."
+    },
+    {
+    "original": "Writing market research summaries",
+    "translated": "إعداد ملخصات أبحاث السوق",
+    "description": "تلخيص نتائج أبحاث السوق في تقارير مختصرة وسهلة الفهم لدعم القرارات التسويقية."
+    },
+    {
+    "original": "Writing partner commission structures",
+    "translated": "تصميم هيكل عمولات الشركاء",
+    "description": "إعداد خطط مكافآت وعمولات للشركاء التجاريين بناءً على الأداء والمبيعات المحققة."
+    },
+    
   ]
 }
