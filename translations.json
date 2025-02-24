@@ -4556,5 +4556,2196 @@
     "translated": "إعداد ردود روبوتات الدردشة لاستفسارات الضمان",
     "description": "تمكين روبوتات الدردشة من تقديم معلومات حول سياسات الضمان وتغطية المنتجات."
     },
+    {
+    "original": "Startups",
+    "translated": "الشركات الناشئة",
+    "description": "الشركات الناشئة هي مشاريع جديدة تهدف إلى تقديم حلول مبتكرة لمشكلات السوق، وتتميز بنماذج أعمال مرنة وإمكانات نمو سريعة. تشمل إدارة الشركات الناشئة عدة جوانب مثل التخطيط الاستراتيجي، التمويل، التسويق، وتطوير العلامة التجارية لضمان النجاح والاستدامة في بيئة تنافسية."
+    },
+    {
+    "original": "Creating SWOT analysis",
+    "translated": "إعداد تحليل SWOT",
+    "description": "تحليل نقاط القوة والضعف والفرص والتهديدات لمساعدة الشركات الناشئة في وضع استراتيجيات فعالة للنمو."
+    },
+    {
+    "original": "Researching competitors",
+    "translated": "إجراء أبحاث عن المنافسين",
+    "description": "تحليل السوق لفهم استراتيجيات المنافسين، وتحديد نقاط التميز وفرص التحسين للشركة الناشئة."
+    },
+    {
+    "original": "Conducting market research",
+    "translated": "إجراء أبحاث السوق",
+    "description": "جمع وتحليل البيانات حول الجمهور المستهدف، واتجاهات السوق، والفرص المتاحة للشركات الناشئة."
+    },
+    {
+    "original": "Creating sales strategy",
+    "translated": "إعداد استراتيجية المبيعات",
+    "description": "وضع خطة لزيادة المبيعات تشمل استراتيجيات التسعير، التوزيع، واستهداف العملاء المحتملين."
+    },
+    {
+    "original": "Generating mission statement",
+    "translated": "إنشاء بيان المهمة",
+    "description": "صياغة بيان يحدد الغرض الأساسي للشركة الناشئة ويوضح أهدافها طويلة الأمد."
+    },
+    {
+    "original": "Generating financial projections",
+    "translated": "إعداد التوقعات المالية",
+    "description": "تقدير الإيرادات والتكاليف المستقبلية لمساعدة الشركات الناشئة على التخطيط المالي واتخاذ قرارات مستنيرة."
+    },
+    {
+    "original": "Creating business plan",
+    "translated": "إعداد خطة عمل",
+    "description": "تصميم وثيقة شاملة تحدد أهداف الشركة، نموذج العمل، والاستراتيجيات المالية والتسويقية."
+    },
+    {
+    "original": "Identifying target market",
+    "translated": "تحديد السوق المستهدف",
+    "description": "تحليل الفئات السكانية والشرائح التي من المرجح أن تستفيد من المنتج أو الخدمة المقدمة."
+    },
+    {
+    "original": "Identifying growth opportunities",
+    "translated": "تحديد فرص النمو",
+    "description": "تحليل الاتجاهات السوقية والفرص المتاحة لتوسيع نطاق الأعمال وتحقيق نمو مستدام."
+    },
+    {
+    "original": "Generating elevator pitch",
+    "translated": "إعداد عرض تقديمي سريع",
+    "description": "صياغة عرض تقديمي موجز يوضح فكرة المشروع الناشئ ويجذب انتباه المستثمرين المحتملين."
+    },
+    {
+    "original": "Crafting taglines",
+    "translated": "إنشاء شعارات تسويقية",
+    "description": "تصميم عبارات قصيرة وجذابة تعبر عن هوية العلامة التجارية وتساعد في تعزيز الوعي بها."
+    },
+    {
+    "original": "Naming products or company",
+    "translated": "تسمية المنتجات أو الشركات",
+    "description": "ابتكار أسماء فريدة وجذابة للشركات أو المنتجات بما يعكس هويتها وقيمها."
+    },
+    {
+    "original": "Designing packaging",
+    "translated": "تصميم التغليف",
+    "description": "إنشاء تصاميم تغليف جذابة وفعالة تعزز من قيمة المنتج وتلفت انتباه العملاء."
+    },
+    {
+    "original": "Creating logos",
+    "translated": "تصميم الشعارات",
+    "description": "إعداد شعارات مبتكرة تمثل هوية العلامة التجارية وتعزز التعرف عليها في السوق."
+    },
+    {
+    "original": "Developing brand identity",
+    "translated": "تطوير هوية العلامة التجارية",
+    "description": "إنشاء هوية بصرية واستراتيجية شاملة تعبر عن شخصية العلامة التجارية وقيمها الأساسية."
+    },
+    {
+    "original": "Crafting sales copy",
+    "translated": "كتابة نصوص مبيعات",
+    "description": "إعداد محتوى تسويقي مؤثر لإقناع العملاء بشراء المنتج أو الخدمة."
+    },
+    {
+    "original": "Conducting PR outreach",
+    "translated": "إجراء حملات العلاقات العامة",
+    "description": "التواصل مع وسائل الإعلام والمؤثرين لنشر أخبار الشركة وزيادة الوعي بالعلامة التجارية."
+    },
+    {
+    "original": "Writing email campaigns",
+    "translated": "كتابة حملات البريد الإلكتروني",
+    "description": "إعداد رسائل بريدية تسويقية فعالة للتواصل مع العملاء وتحفيزهم على التفاعل مع العلامة التجارية."
+    },
+    {
+    "original": "Creating social media content",
+    "translated": "إعداد محتوى لوسائل التواصل الاجتماعي",
+    "description": "تصميم منشورات تسويقية جذابة تعزز التفاعل مع الجمهور وتزيد من انتشار العلامة التجارية."
+    },
+    {
+    "original": "Identifying influencer partnerships",
+    "translated": "تحديد شراكات مع المؤثرين",
+    "description": "البحث عن المؤثرين المناسبين لإبرام شراكات ترويجية وزيادة الوصول إلى الجمهور المستهدف."
+    },
+    {
+    "original": "Creating lead generation strategy",
+    "translated": "إعداد استراتيجية توليد العملاء المحتملين",
+    "description": "وضع خطط لجذب العملاء المحتملين من خلال أساليب تسويقية فعالة مثل الإعلانات والمحتوى التفاعلي."
+    },
+    {
+    "original": "Designing digital ads",
+    "translated": "تصميم إعلانات رقمية",
+    "description": "إنشاء حملات إعلانية رقمية مخصصة لتعزيز التفاعل وزيادة المبيعات عبر الإنترنت."
+    },
+    {
+    "original": "Analyzing marketing metrics",
+    "translated": "تحليل مؤشرات الأداء التسويقي",
+    "description": "دراسة البيانات التسويقية لتقييم أداء الحملات وتحسين استراتيجيات التسويق المستقبلية."
+    },
+    {
+    "original": "Creating sales proposals",
+    "translated": "إعداد مقترحات المبيعات",
+    "description": "تصميم مقترحات مبيعات مهنية توضح قيمة المنتجات أو الخدمات للعملاء المحتملين بهدف إتمام الصفقات."
+    },
+    {
+    "original": "Creating sales presentations",
+    "translated": "إعداد عروض تقديمية للمبيعات",
+    "description": "تصميم عروض تقديمية مقنعة تعرض المنتجات أو الخدمات بطريقة تجذب اهتمام العملاء وتساعد في اتخاذ قرارات الشراء."
+    },
+    {
+    "original": "Conducting sales outreach",
+    "translated": "إجراء حملات تواصل للمبيعات",
+    "description": "التواصل مع العملاء المحتملين عبر البريد الإلكتروني أو المكالمات الهاتفية لتعريفهم بالمنتجات والخدمات المتاحة."
+    },
+    {
+    "original": "Developing customer relationships",
+    "translated": "بناء علاقات مع العملاء",
+    "description": "تعزيز العلاقات مع العملاء من خلال التفاعل المستمر وتقديم حلول مخصصة تزيد من ولائهم."
+    },
+    {
+    "original": "Negotiating contracts",
+    "translated": "التفاوض على العقود",
+    "description": "إجراء مفاوضات مع العملاء لضمان شروط عادلة ومربحة لكلا الطرفين قبل توقيع العقود."
+    },
+    {
+    "original": "Identifying sales leads",
+    "translated": "تحديد العملاء المحتملين",
+    "description": "البحث عن العملاء المهتمين بالمنتجات أو الخدمات وتحليل فرص تحويلهم إلى عملاء فعليين."
+    },
+    {
+    "original": "Managing sales pipeline",
+    "translated": "إدارة مسار المبيعات",
+    "description": "متابعة تقدم العملاء المحتملين عبر مراحل المبيعات المختلفة لضمان تحقيق الأهداف البيعية."
+    },
+    {
+    "original": "Creating sales scripts",
+    "translated": "إعداد نصوص مبيعات",
+    "description": "تصميم نصوص جاهزة لمندوبي المبيعات تساعدهم في تقديم العروض والإجابة على استفسارات العملاء بكفاءة."
+    },
+    {
+    "original": "Providing troubleshooting assistance",
+    "translated": "تقديم المساعدة في استكشاف الأخطاء وإصلاحها",
+    "description": "دعم العملاء في حل المشكلات التقنية المتعلقة بالمنتجات أو الخدمات لضمان تجربة سلسة."
+    },
+    {
+    "original": "Writing knowledge base articles",
+    "translated": "كتابة مقالات قاعدة المعرفة",
+    "description": "إعداد مقالات تعليمية وإرشادية لمساعدة العملاء في العثور على حلول للمشكلات الشائعة دون الحاجة إلى دعم مباشر."
+    },
+    {
+    "original": "Responding to customer inquiries",
+    "translated": "الرد على استفسارات العملاء",
+    "description": "التفاعل مع استفسارات العملاء عبر البريد الإلكتروني، الدردشة، أو الهاتف لتقديم معلومات دقيقة ودعم فعال."
+    },
+    {
+    "original": "Handling customer complaints",
+    "translated": "التعامل مع شكاوى العملاء",
+    "description": "معالجة المشكلات التي يواجهها العملاء بطريقة احترافية لضمان رضاهم وتعزيز ولائهم."
+    },
+    {
+    "original": "Managing support tickets",
+    "translated": "إدارة تذاكر الدعم الفني",
+    "description": "تنظيم وتتبع طلبات الدعم الفني لضمان حل المشكلات بسرعة وفعالية."
+    },
+    {
+    "original": "Creating product roadmaps",
+    "translated": "إعداد خرائط طريق المنتجات",
+    "description": "تخطيط استراتيجيات تطوير المنتجات على المدى الطويل لتحديد الميزات والتحسينات المستقبلية."
+    },
+    {
+    "original": "Writing product requirements",
+    "translated": "كتابة متطلبات المنتج",
+    "description": "إعداد وثائق تحدد الوظائف والمواصفات المطلوبة للمنتجات لضمان تحقيقها لمتطلبات المستخدمين."
+    },
+    {
+    "original": "Conducting usability testing",
+    "translated": "إجراء اختبارات قابلية الاستخدام",
+    "description": "اختبار المنتجات أو التطبيقات مع المستخدمين الفعليين لضمان تجربة استخدام سهلة وفعالة."
+    },
+    {
+    "original": "Designing user interfaces",
+    "translated": "تصميم واجهات المستخدم",
+    "description": "إنشاء تصميمات واجهات المستخدم لتقديم تجربة بصرية جذابة وسهلة الاستخدام للمنتجات الرقمية."
+    },
+    {
+    "original": "Developing minimum viable product",
+    "translated": "تطوير الحد الأدنى من المنتج القابل للتطبيق",
+    "description": "إنشاء نسخة مبسطة من المنتج تحتوي على الميزات الأساسية لاختبارها في السوق وجمع ردود الفعل."
+    },
+    {
+    "original": "Generating product feature ideas",
+    "translated": "توليد أفكار ميزات المنتجات",
+    "description": "اقتراح ميزات جديدة للمنتجات بناءً على تحليلات السوق واحتياجات العملاء."
+    },
+    {
+    "original": "Conducting user research",
+    "translated": "إجراء أبحاث المستخدمين",
+    "description": "جمع وتحليل البيانات حول سلوك المستخدمين واحتياجاتهم لتحسين تطوير المنتجات."
+    },
+    {
+    "original": "Creating product launch plan",
+    "translated": "إعداد خطة إطلاق المنتج",
+    "description": "وضع استراتيجية لإطلاق المنتجات الجديدة تتضمن التسويق، التوزيع، وإدارة توقعات العملاء."
+    },
+    {
+    "original": "Analyzing financial performance",
+    "translated": "تحليل الأداء المالي",
+    "description": "مراجعة وتقييم البيانات المالية للشركة لفهم الربحية، التكاليف، وأداء الاستثمار."
+    },
+    {
+    "original": "Conducting financial analysis",
+    "translated": "إجراء تحليل مالي",
+    "description": "تحليل البيانات المالية للتنبؤ بالاتجاهات، تقييم المخاطر، واتخاذ قرارات استراتيجية مالية."
+    },
+    {
+    "original": "Creating budget plans",
+    "translated": "إعداد خطط الميزانية",
+    "description": "تصميم ميزانية تفصيلية تشمل تقدير الإيرادات والنفقات لضمان التخطيط المالي الفعّال."
+    },
+    {
+    "original": "Managing cash flow",
+    "translated": "إدارة التدفق النقدي",
+    "description": "متابعة الإيرادات والمصروفات لضمان استقرار السيولة المالية واتخاذ قرارات استثمارية مدروسة."
+    },
+    {
+    "original": "Preparing tax documents",
+    "translated": "إعداد المستندات الضريبية",
+    "description": "جمع وإعداد البيانات المالية والوثائق المطلوبة للامتثال للضرائب ودفع المستحقات القانونية."
+    },
+    {
+    "original": "Managing intellectual property",
+    "translated": "إدارة الملكية الفكرية",
+    "description": "حماية حقوق الملكية الفكرية مثل براءات الاختراع، العلامات التجارية، وحقوق النشر لضمان الحقوق القانونية للشركة."
+    },
+    {
+    "original": "Creating privacy policy",
+    "translated": "إعداد سياسة الخصوصية",
+    "description": "صياغة سياسة تحمي بيانات العملاء وتضمن الامتثال للقوانين المتعلقة بحماية المعلومات الشخصية."
+    },
+    {
+    "original": "Drafting contracts",
+    "translated": "صياغة العقود",
+    "description": "إعداد العقود القانونية بين الأطراف المختلفة لضمان الشفافية وتحديد الالتزامات والحقوق."
+    },
+    {
+    "original": "Conducting trademark searches",
+    "translated": "إجراء بحث عن العلامات التجارية",
+    "description": "التحقق من توافر العلامات التجارية والتأكد من عدم تعارضها مع علامات أخرى مسجلة قانونيًا."
+    },
+    {
+    "original": "Managing employee records",
+    "translated": "إدارة سجلات الموظفين",
+    "description": "توثيق ومتابعة بيانات الموظفين، الحضور، الأداء، والعقود لضمان تنظيم الموارد البشرية."
+    },
+    {
+    "original": "Conducting background checks",
+    "translated": "إجراء الفحوصات الخلفية",
+    "description": "التحقق من خلفية المتقدمين للوظائف للتأكد من مؤهلاتهم وسجلهم المهني والأمني."
+    },
+    {
+    "original": "Creating job descriptions",
+    "translated": "إعداد توصيفات الوظائف",
+    "description": "تصميم توصيفات دقيقة لمتطلبات الوظائف والمسؤوليات لضمان توظيف المرشحين المناسبين."
+    },
+    {
+    "original": "Developing employee training",
+    "translated": "تطوير برامج تدريب الموظفين",
+    "description": "إعداد برامج تدريبية لتعزيز مهارات الموظفين وتحسين كفاءتهم في أداء مهامهم."
+    },
+    {
+    "original": "Identifying recruitment channels",
+    "translated": "تحديد قنوات التوظيف",
+    "description": "تحديد المنصات والاستراتيجيات المناسبة لجذب المرشحين المميزين لشغل الوظائف الشاغرة."
+    },
+    {
+    "original": "Conducting candidate assessments",
+    "translated": "إجراء تقييمات المرشحين",
+    "description": "تقييم مهارات وخبرات المرشحين للوظائف لضمان اختيار الأنسب لشغل المناصب المتاحة."
+    },
+    {
+    "original": "Conducting interviews",
+    "translated": "إجراء المقابلات الوظيفية",
+    "description": "إجراء مقابلات مع المرشحين لتقييم مهاراتهم وخبراتهم ومدى ملاءمتهم للوظيفة."
+    },
+    {
+    "original": "Handling job offers",
+    "translated": "إدارة عروض العمل",
+    "description": "تقديم عروض العمل للمرشحين المختارين والتفاوض حول الشروط لضمان توظيف ناجح."
+    },
+    {
+    "original": "Handling candidate rejections",
+    "translated": "إدارة رفض المرشحين",
+    "description": "إبلاغ المرشحين غير المؤهلين بطريقة احترافية للحفاظ على سمعة الشركة وتعزيز تجربة المرشحين."
+    },
+    {
+    "original": "Creating operational procedures",
+    "translated": "إعداد إجراءات التشغيل",
+    "description": "تصميم إجراءات تنظيمية لضمان تنفيذ العمليات التشغيلية بكفاءة ودقة."
+    },
+    {
+    "original": "Handling inventory management",
+    "translated": "إدارة المخزون",
+    "description": "متابعة عمليات التخزين والتوزيع لضمان توافر المنتجات وتجنب نقص أو فائض المخزون."
+    },
+    {
+    "original": "Creating production schedules",
+    "translated": "إعداد جداول الإنتاج",
+    "description": "تخطيط وتنظيم عمليات الإنتاج لضمان تحقيق الأهداف التشغيلية وفقًا للطلب."
+    },
+    {
+    "original": "Managing logistics",
+    "translated": "إدارة الخدمات اللوجستية",
+    "description": "تنظيم عمليات الشحن والتوزيع لضمان توصيل المنتجات للعملاء في الوقت المحدد وبأقل تكلفة ممكنة."
+    },
+    {
+    "original": "Managing supply chain",
+    "translated": "إدارة سلسلة التوريد",
+    "description": "تنسيق العمليات بين الموردين والشركات لضمان تدفق المواد الخام والمنتجات بكفاءة."
+    },
+    {
+    "original": "Managing vendor relationships",
+    "translated": "إدارة علاقات الموردين",
+    "description": "التواصل والتفاوض مع الموردين لضمان توفير المواد والخدمات بأسعار مناسبة وجودة عالية."
+    },
+    {
+    "original": "Generating reports",
+    "translated": "إعداد التقارير",
+    "description": "جمع وتحليل البيانات لإنشاء تقارير تفصيلية تساعد في اتخاذ القرارات الاستراتيجية."
+    },
+    {
+    "original": "Creating data visualizations",
+    "translated": "إنشاء تصورات بيانية للبيانات",
+    "description": "تصميم رسوم بيانية ومخططات توضيحية لعرض البيانات بطريقة سهلة الفهم واتخاذ قرارات مستنيرة."
+    },
+    {
+    "original": "Forecasting sales",
+    "translated": "التنبؤ بالمبيعات",
+    "description": "تحليل البيانات التاريخية والسوقية للتنبؤ باتجاهات المبيعات المستقبلية وتحديد فرص النمو."
+    },
+    {
+    "original": "Conducting data analysis",
+    "translated": "إجراء تحليل البيانات",
+    "description": "تحليل مجموعات البيانات لاستخراج رؤى قيمة تساعد في تحسين العمليات واتخاذ قرارات دقيقة."
+    },
+    {
+    "original": "Analyzing market trends",
+    "translated": "تحليل اتجاهات السوق",
+    "description": "مراقبة وتحليل التغيرات في السوق لفهم احتياجات العملاء وتوقع الاتجاهات المستقبلية."
+    },
+    {
+    "original": "Scheduling appointments",
+    "translated": "جدولة المواعيد",
+    "description": "تنظيم وحجز المواعيد لضمان تنفيذ الاجتماعات والمقابلات بكفاءة."
+    },
+    {
+    "original": "Transcribing audio recordings",
+    "translated": "تفريغ التسجيلات الصوتية",
+    "description": "تحويل المحتوى الصوتي إلى نص مكتوب لاستخدامه في التقارير أو المستندات الرسمية."
+    },
+    {
+    "original": "Conducting research",
+    "translated": "إجراء الأبحاث",
+    "description": "جمع وتحليل المعلومات من مصادر متعددة لدعم القرارات التجارية والاستراتيجية."
+    },
+    {
+    "original": "Managing email inbox",
+    "translated": "إدارة صندوق البريد الإلكتروني",
+    "description": "تنظيم وتصنيف رسائل البريد الإلكتروني للرد الفوري على الرسائل المهمة وتحسين كفاءة التواصل."
+    },
+    {
+    "original": "Handling travel arrangements",
+    "translated": "إدارة ترتيبات السفر",
+    "description": "تنظيم حجوزات السفر، الفنادق، والجداول الزمنية لضمان رحلات سلسة ومنظمة."
+    },
+    {
+    "original": "Creating expense reports",
+    "translated": "إعداد تقارير المصروفات",
+    "description": "توثيق النفقات وتحليلها لمراقبة الميزانية وضمان الامتثال المالي."
+    },
+    {
+    "original": "Managing task lists",
+    "translated": "إدارة قوائم المهام",
+    "description": "تنظيم وتتبع المهام لضمان تنفيذ العمل بكفاءة وفقًا للأولويات."
+    },
+    {
+    "original": "Creating meeting agendas",
+    "translated": "إعداد جداول أعمال الاجتماعات",
+    "description": "تنظيم موضوعات الاجتماعات لضمان مناقشة النقاط المهمة وتحقيق الأهداف المحددة."
+    },
+    {
+    "original": "Providing leadership coaching",
+    "translated": "تقديم تدريب على القيادة",
+    "description": "تطوير مهارات القيادة من خلال تقديم توجيه وإرشاد للقادة لتحسين أدائهم."
+    },
+    {
+    "original": "Managing conflict resolution",
+    "translated": "إدارة حل النزاعات",
+    "description": "معالجة النزاعات داخل بيئة العمل من خلال استراتيجيات فعالة تعزز التواصل والتفاهم."
+    },
+    {
+    "original": "Conducting team meetings",
+    "translated": "إجراء اجتماعات الفريق",
+    "description": "تنظيم اجتماعات فعالة لمناقشة التحديات والإنجازات وتحسين التعاون بين أعضاء الفريق."
+    },
+    {
+    "original": "Developing employee retention strategies",
+    "translated": "تطوير استراتيجيات الاحتفاظ بالموظفين",
+    "description": "تصميم خطط لزيادة رضا الموظفين وتقليل معدل دورانهم من خلال تحسين بيئة العمل والمزايا."
+    },
+    {
+    "original": "Setting team goals",
+    "translated": "تحديد أهداف الفريق",
+    "description": "وضع أهداف واضحة للفريق لزيادة الإنتاجية وتعزيز تحقيق النتائج المرجوة."
+    },
+    {
+    "original": "Creating company culture",
+    "translated": "بناء ثقافة الشركة",
+    "description": "وضع القيم والممارسات التي تعكس هوية الشركة وتساعد في بناء بيئة عمل إيجابية."
+    },
+    {
+    "original": "Conducting performance evaluations",
+    "translated": "إجراء تقييمات الأداء",
+    "description": "تقييم أداء الموظفين لتحديد نقاط القوة وفرص التحسين ودعم التطور المهني."
+    },
+    {
+    "original": "Developing team-building activities",
+    "translated": "تطوير أنشطة بناء الفريق",
+    "description": "تصميم أنشطة لتعزيز التعاون بين أعضاء الفريق وتحسين روح العمل الجماعي."
+    },
+    {
+    "original": "Providing customer updates",
+    "translated": "تقديم تحديثات للعملاء",
+    "description": "إبلاغ العملاء بالمستجدات خلال الأزمات لضمان الشفافية والاحتفاظ بثقتهم في الشركة."
+    },
+    {
+    "original": "Creating crisis management plan",
+    "translated": "إعداد خطة إدارة الأزمات",
+    "description": "وضع استراتيجيات للتعامل مع الأزمات وتقليل تأثيرها على العمليات التجارية وصورة الشركة."
+    },
+    {
+    "original": "Handling media inquiries",
+    "translated": "التعامل مع استفسارات وسائل الإعلام",
+    "description": "التواصل مع الصحافة والإعلام لتقديم المعلومات الرسمية وإدارة سمعة الشركة خلال الأزمات."
+    },
+    {
+    "original": "Communicating with stakeholders",
+    "translated": "التواصل مع أصحاب المصلحة",
+    "description": "إدارة التواصل مع المستثمرين، العملاء، والموظفين لضمان اتخاذ قرارات مستنيرة أثناء الأزمات."
+    },
+    {
+    "original": "Conducting job shadowing",
+    "translated": "تنظيم التدريب بالملاحظة",
+    "description": "تمكين الموظفين أو الطلاب من متابعة عمل محترفين في وظائف معينة لاكتساب خبرة عملية مباشرة."
+    },
+    {
+    "original": "Providing mentorship",
+    "translated": "تقديم الإرشاد المهني",
+    "description": "توجيه وتدريب الأفراد لمساعدتهم في تطوير مهاراتهم المهنية وتحقيق أهدافهم الوظيفية."
+    },
+    {
+    "original": "Providing job search strategies",
+    "translated": "تقديم استراتيجيات البحث عن عمل",
+    "description": "توجيه الباحثين عن عمل حول كيفية العثور على الفرص المناسبة وتحسين فرص التوظيف."
+    },
+    {
+    "original": "Creating career development plans",
+    "translated": "إعداد خطط تطوير المسار المهني",
+    "description": "تصميم خطط تساعد الأفراد على التقدم في حياتهم المهنية من خلال التدريب والتطوير."
+    },
+    {
+    "original": "Conducting mock interviews",
+    "translated": "إجراء مقابلات تجريبية",
+    "description": "تنظيم مقابلات تدريبية لمحاكاة بيئة المقابلات الحقيقية ومساعدة الأفراد على تحسين أدائهم."
+    },
+    {
+    "original": "Writing resumes",
+    "translated": "كتابة السير الذاتية",
+    "description": "إعداد سير ذاتية احترافية تسلط الضوء على مهارات وخبرات الأفراد لزيادة فرصهم في التوظيف."
+    },
+    {
+    "original": "Conducting leadership assessments",
+    "translated": "إجراء تقييمات القيادة",
+    "description": "تحليل مهارات القيادة لدى الأفراد لتحديد نقاط القوة وفرص التحسين."
+    },
+    {
+    "original": "Creating leadership development plans",
+    "translated": "إعداد خطط تطوير القيادة",
+    "description": "تصميم برامج تدريبية واستراتيجيات لتعزيز مهارات القيادة وزيادة كفاءة القادة."
+    },
+    {
+    "original": "Providing executive coaching",
+    "translated": "تقديم تدريب تنفيذي",
+    "description": "إرشاد وتدريب المديرين التنفيذيين لتحسين مهاراتهم القيادية وتعزيز أدائهم الإداري."
+    },
+    {
+    "original": "Developing succession plans",
+    "translated": "إعداد خطط التعاقب الوظيفي",
+    "description": "تصميم استراتيجيات لضمان استمرارية القيادة وتطوير موظفين مؤهلين لخلافة المناصب العليا."
+    },
+    {
+    "original": "Identifying project dependencies",
+    "translated": "تحديد تبعيات المشاريع",
+    "description": "تحليل العوامل المرتبطة بالمشاريع لضمان تنفيذها بكفاءة دون تأخير."
+    },
+    {
+    "original": "Creating project plans",
+    "translated": "إعداد خطط المشاريع",
+    "description": "تصميم خطط تفصيلية تحدد الأهداف، الموارد، والجداول الزمنية للمشاريع لضمان تنفيذها بنجاح."
+    },
+    {
+    "original": "Assigning tasks to team members",
+    "translated": "توزيع المهام على أعضاء الفريق",
+    "description": "تحديد مسؤوليات الفريق لضمان تنفيذ المشاريع بسلاسة وكفاءة."
+    },
+    {
+    "original": "Managing project budget",
+    "translated": "إدارة ميزانية المشروع",
+    "description": "مراقبة النفقات وضمان الالتزام بالميزانية لتحقيق الأهداف بدون تجاوز التكاليف المحددة."
+    },
+    {
+    "original": "Handling project risk assessment",
+    "translated": "إجراء تقييم المخاطر للمشاريع",
+    "description": "تحليل وتحديد المخاطر المحتملة للمشاريع ووضع خطط لتقليل آثارها السلبية."
+    },
+    {
+    "original": "Monitoring project performance",
+    "translated": "متابعة أداء المشروع",
+    "description": "تقييم تقدم المشروع لضمان تحقيق الأهداف وفقًا للجدول الزمني والميزانية المحددة."
+    },
+    {
+    "original": "Conducting project meetings",
+    "translated": "عقد اجتماعات المشاريع",
+    "description": "تنظيم اجتماعات دورية لمناقشة تقدم المشاريع، حل المشكلات، والتخطيط للخطوات القادمة."
+    },
+    {
+    "original": "Tracking project progress",
+    "translated": "متابعة تقدم المشاريع",
+    "description": "مراقبة مراحل التنفيذ لضمان سير المشروع وفقًا للجدول الزمني المحدد وتحقيق الأهداف المرجوة."
+    },
+    {
+    "original": "Developing networking strategies",
+    "translated": "تطوير استراتيجيات التواصل المهني",
+    "description": "تصميم استراتيجيات لتعزيز التواصل الفعال وبناء علاقات مهنية قوية مع الأشخاص في نفس المجال."
+    },
+    {
+    "original": "Identifying potential partnerships",
+    "translated": "تحديد الشراكات المحتملة",
+    "description": "البحث عن فرص تعاون مع أفراد أو شركات لتعزيز نمو الأعمال وتوسيع نطاق العمل."
+    },
+    {
+    "original": "Building professional relationships",
+    "translated": "بناء علاقات مهنية",
+    "description": "تعزيز التواصل مع المهنيين في نفس المجال لتبادل المعرفة وتوسيع فرص التعاون."
+    },
+    {
+    "original": "Identifying industry events",
+    "translated": "تحديد الفعاليات الصناعية",
+    "description": "البحث عن المؤتمرات والندوات وفعاليات الشبكات المهنية لحضورها والاستفادة منها."
+    },
+    {
+    "original": "Conducting informational interviews",
+    "translated": "إجراء مقابلات تعريفية",
+    "description": "إجراء مقابلات غير رسمية مع محترفين للحصول على رؤى وتوجيهات حول الصناعة أو المهن المستهدفة."
+    },
+    {
+    "original": "Creating idea generation processes",
+    "translated": "إنشاء عمليات توليد الأفكار",
+    "description": "وضع منهجيات تساعد في تطوير أفكار جديدة تدعم الابتكار وتحسين العمليات."
+    },
+    {
+    "original": "Developing innovation strategy",
+    "translated": "تطوير استراتيجية الابتكار",
+    "description": "وضع خطط واستراتيجيات لدعم الابتكار وتحفيز الأفكار الإبداعية داخل المؤسسة."
+    },
+    {
+    "original": "Identifying innovation opportunities",
+    "translated": "تحديد فرص الابتكار",
+    "description": "تحليل السوق والعمليات الداخلية لاكتشاف فرص جديدة لتحسين المنتجات أو الخدمات."
+    },
+    {
+    "original": "Handling innovation risk assessment",
+    "translated": "إجراء تقييم مخاطر الابتكار",
+    "description": "تحليل وتقييم المخاطر المحتملة المرتبطة بالمبادرات الابتكارية لتقليل التحديات المحتملة."
+    },
+    {
+    "original": "Implementing innovation initiatives",
+    "translated": "تنفيذ مبادرات الابتكار",
+    "description": "تطبيق الأفكار الابتكارية الجديدة داخل المؤسسة لضمان تحسين العمليات أو تطوير المنتجات."
+    },
+    {
+    "original": "Conducting innovation workshops",
+    "translated": "تنظيم ورش عمل الابتكار",
+    "description": "إجراء جلسات تدريبية وورش عمل لتعزيز التفكير الإبداعي وتشجيع الابتكار في بيئة العمل."
+    },
+    {
+    "original": "Creating productivity tools",
+    "translated": "إنشاء أدوات لزيادة الإنتاجية",
+    "description": "تصميم أدوات وبرامج تساعد في تحسين الكفاءة وتعزيز إدارة الوقت والمهام."
+    },
+    {
+    "original": "Providing time management techniques",
+    "translated": "تقديم تقنيات إدارة الوقت",
+    "description": "تطوير استراتيجيات لمساعدة الأفراد على تحسين إدارة وقتهم وزيادة إنتاجيتهم."
+    },
+    {
+    "original": "Managing distractions",
+    "translated": "إدارة مصادر التشتيت",
+    "description": "وضع استراتيجيات لتقليل المشتتات في بيئة العمل وتحسين التركيز والإنتاجية."
+    },
+    {
+    "original": "Handling email overload",
+    "translated": "إدارة البريد الإلكتروني المفرط",
+    "description": "تنظيم البريد الإلكتروني وتحسين استراتيجيات الرد لتجنب الإرهاق وتحسين الكفاءة."
+    },
+    {
+    "original": "Developing work-life balance strategies",
+    "translated": "تطوير استراتيجيات التوازن بين العمل والحياة",
+    "description": "تصميم حلول تساعد الأفراد على تحقيق توازن صحي بين حياتهم المهنية والشخصية."
+    },
+    {
+    "original": "Conducting productivity assessments",
+    "translated": "إجراء تقييمات الإنتاجية",
+    "description": "تحليل أداء الأفراد أو الفرق لتحديد مجالات التحسين وزيادة الكفاءة."
+    },
+    {
+    "original": "Providing wellness coaching",
+    "translated": "تقديم تدريب على العافية",
+    "description": "إرشاد الأفراد لتحسين صحتهم العقلية والجسدية من خلال تقنيات وأساليب فعالة."
+    },
+    {
+    "original": "Conducting wellness assessments",
+    "translated": "إجراء تقييمات العافية",
+    "description": "تحليل البيانات الصحية للموظفين لتطوير برامج دعم تعزز رفاهيتهم."
+    },
+    {
+    "original": "Managing wellness initiatives",
+    "translated": "إدارة مبادرات العافية",
+    "description": "تصميم وتنفيذ برامج صحية تدعم رفاهية الموظفين وتعزز بيئة العمل الصحية."
+    },
+    {
+    "original": "Providing wellness resources",
+    "translated": "توفير موارد العافية",
+    "description": "إتاحة أدوات ومصادر تدعم تحسين الصحة النفسية والجسدية للموظفين."
+    },
+    {
+    "original": "Conducting wellness surveys",
+    "translated": "إجراء استبيانات العافية",
+    "description": "جمع ملاحظات الموظفين حول برامج الصحة والعافية لتحسينها بناءً على احتياجاتهم."
+    },
+    {
+    "original": "Developing employee wellness program",
+    "translated": "تطوير برامج العافية للموظفين",
+    "description": "تصميم خطط لتعزيز صحة الموظفين من خلال برامج غذائية، رياضية، ودعم نفسي."
+    },
+    {
+    "original": "Ensuring compliance with wellness regulations",
+    "translated": "ضمان الامتثال للوائح العافية",
+    "description": "متابعة تطبيق القوانين الصحية في بيئة العمل لضمان التزام المؤسسة بمعايير الصحة والسلامة."
+    },
+    {
+    "original": "Providing employee communication",
+    "translated": "تقديم تواصل فعال مع الموظفين",
+    "description": "وضع استراتيجيات لتعزيز تواصل واضح وشفاف بين الإدارة والموظفين داخل المؤسسة."
+    },
+    {
+    "original": "Providing engagement training",
+    "translated": "تقديم تدريب لتعزيز تفاعل الموظفين",
+    "description": "تطوير برامج تدريبية تهدف إلى تحسين مشاركة الموظفين وزيادة اندماجهم في بيئة العمل."
+    },
+    {
+    "original": "Conducting engagement surveys",
+    "translated": "إجراء استبيانات لقياس تفاعل الموظفين",
+    "description": "جمع وتحليل آراء الموظفين حول بيئة العمل لتحديد مجالات التحسين وتعزيز رضاهم."
+    },
+    {
+    "original": "Developing employee engagement strategy",
+    "translated": "تطوير استراتيجية تفاعل الموظفين",
+    "description": "تصميم خطط لزيادة مشاركة الموظفين وتحفيزهم على تحقيق الأداء الأمثل."
+    },
+    {
+    "original": "Identifying employee engagement initiatives",
+    "translated": "تحديد مبادرات تفاعل الموظفين",
+    "description": "ابتكار وتنفيذ برامج لتعزيز انتماء الموظفين للشركة وتحسين تجربتهم الوظيفية."
+    },
+    {
+    "original": "Managing employee recognition programs",
+    "translated": "إدارة برامج تقدير الموظفين",
+    "description": "وضع وتنفيذ برامج تكريم وتحفيز الموظفين بناءً على أدائهم وإنجازاتهم."
+    },
+    {
+    "original": "Handling employee feedback",
+    "translated": "إدارة ملاحظات الموظفين",
+    "description": "جمع وتحليل تعليقات الموظفين لضمان تحسين بيئة العمل ومعالجة التحديات."
+    },
+    {
+    "original": "Identifying cultural initiatives",
+    "translated": "تحديد المبادرات الثقافية",
+    "description": "وضع مبادرات تعزز بيئة عمل شاملة تدعم التنوع والانتماء داخل المؤسسة."
+    },
+    {
+    "original": "Conducting culture assessments",
+    "translated": "إجراء تقييمات الثقافة المؤسسية",
+    "description": "تحليل بيئة العمل لتحديد مدى توافقها مع القيم المؤسسية واستراتيجيات التحسين الممكنة."
+    },
+    {
+    "original": "Handling cultural change management",
+    "translated": "إدارة التغيير الثقافي داخل المؤسسة",
+    "description": "توجيه المؤسسة خلال عمليات التحول الثقافي لضمان انتقال سلس وفعال للموظفين."
+    },
+    {
+    "original": "Developing company culture strategy",
+    "translated": "تطوير استراتيجية الثقافة المؤسسية",
+    "description": "تصميم خطط لتعزيز القيم الأساسية للمؤسسة وترسيخ بيئة عمل إيجابية."
+    },
+    {
+    "original": "Providing cultural training",
+    "translated": "تقديم تدريب ثقافي",
+    "description": "إعداد برامج تدريبية لتعزيز فهم الموظفين للثقافة المؤسسية وكيفية التعامل مع التنوع."
+    },
+    {
+    "original": "Ensuring compliance with cultural regulations",
+    "translated": "ضمان الامتثال للوائح الثقافية",
+    "description": "التأكد من أن ممارسات الشركة تتماشى مع القوانين والسياسات الثقافية المعتمدة."
+    },
+    {
+    "original": "Conducting focus groups",
+    "translated": "إجراء مجموعات نقاشية",
+    "description": "تنظيم جلسات نقاشية لفهم تفضيلات المستخدمين وجمع تعليقات حول المنتجات أو الخدمات."
+    },
+    {
+    "original": "Conducting beta testing",
+    "translated": "إجراء اختبارات بيتا",
+    "description": "اختبار المنتجات قبل إطلاقها بشكل رسمي لجمع ملاحظات المستخدمين وتحسين الجودة."
+    },
+    {
+    "original": "Conducting usability testing",
+    "translated": "إجراء اختبارات قابلية الاستخدام",
+    "description": "تقييم مدى سهولة استخدام المنتج من قبل العملاء وتحديد نقاط التحسين الممكنة."
+    },
+    {
+    "original": "Conducting A/B testing",
+    "translated": "إجراء اختبارات A/B",
+    "description": "مقارنة نسختين مختلفتين من المنتج أو المحتوى لتحديد أيهما أكثر فعالية في تحقيق الأهداف."
+    },
+    {
+    "original": "Analyzing testing results",
+    "translated": "تحليل نتائج الاختبارات",
+    "description": "تقييم البيانات المستخلصة من الاختبارات المختلفة لاستخلاص رؤى تساعد في تحسين المنتج."
+    },
+    {
+    "original": "Handling feedback collection",
+    "translated": "إدارة جمع الملاحظات",
+    "description": "تصميم وتنفيذ آليات فعالة لجمع ملاحظات العملاء حول المنتجات والخدمات."
+    },
+    {
+    "original": "Identifying sales trends",
+    "translated": "تحديد اتجاهات المبيعات",
+    "description": "تحليل بيانات المبيعات لاكتشاف الأنماط والتوجهات التي تساعد في اتخاذ قرارات تسويقية فعالة."
+    },
+    {
+    "original": "Conducting sales analytics assessments",
+    "translated": "إجراء تحليلات بيانات المبيعات",
+    "description": "تحليل أداء المبيعات لفهم العوامل المؤثرة واتخاذ قرارات مستنيرة لتحسين الإيرادات."
+    },
+    {
+    "original": "Conducting customer segmentation",
+    "translated": "إجراء تقسيم العملاء",
+    "description": "تقسيم قاعدة العملاء إلى مجموعات بناءً على سلوكياتهم واحتياجاتهم لتحسين استراتيجيات التسويق."
+    },
+    {
+    "original": "Creating sales dashboards",
+    "translated": "إعداد لوحات معلومات المبيعات",
+    "description": "تصميم تقارير ولوحات بيانات تفاعلية لمتابعة أداء المبيعات وتحليل الاتجاهات."
+    },
+    {
+    "original": "Analyzing sales performance",
+    "translated": "تحليل أداء المبيعات",
+    "description": "تقييم أداء فرق المبيعات واستراتيجيات البيع لتحديد نقاط التحسين وزيادة الإيرادات."
+    },
+    {
+    "original": "Conducting sales forecasting",
+    "translated": "إجراء توقعات المبيعات",
+    "description": "تحليل البيانات التاريخية للتنبؤ بمستويات المبيعات المستقبلية واتخاذ قرارات استراتيجية."
+    },
+    {
+    "original": "Conducting competitive analysis",
+    "translated": "إجراء تحليل تنافسي",
+    "description": "دراسة وتحليل استراتيجيات المنافسين لتحديد نقاط القوة والضعف واكتشاف فرص السوق."
+    },
+    {
+    "original": "Identifying growth opportunities",
+    "translated": "تحديد فرص النمو",
+    "description": "تحليل بيانات السوق والاتجاهات لتحديد فرص التوسع وزيادة الإيرادات."
+    },
+    {
+    "original": "Conducting business intelligence assessments",
+    "translated": "إجراء تقييمات الذكاء التجاري",
+    "description": "تحليل البيانات التجارية لتقديم رؤى تدعم اتخاذ القرارات الاستراتيجية للشركات."
+    },
+    {
+    "original": "Conducting industry research",
+    "translated": "إجراء أبحاث صناعية",
+    "description": "تحليل اتجاهات الصناعة وجمع البيانات لفهم السوق المستهدف والمنافسة."
+    },
+    {
+    "original": "Creating business intelligence dashboards",
+    "translated": "إعداد لوحات بيانات الذكاء التجاري",
+    "description": "تصميم لوحات معلومات تفاعلية توفر رؤى تحليلية لدعم قرارات الأعمال."
+    },
+    {
+    "original": "Analyzing market trends",
+    "translated": "تحليل اتجاهات السوق",
+    "description": "مراقبة وتحليل البيانات السوقية لاكتشاف التغيرات والتوجهات المستقبلية."
+    },
+    {
+    "original": "Conducting email marketing campaigns",
+    "translated": "تنفيذ حملات التسويق عبر البريد الإلكتروني",
+    "description": "إعداد وإدارة حملات بريد إلكتروني فعالة للتفاعل مع العملاء وزيادة المبيعات."
+    },
+    {
+    "original": "Handling email automation",
+    "translated": "إدارة أتمتة البريد الإلكتروني",
+    "description": "إعداد أنظمة تلقائية لإرسال الرسائل البريدية بناءً على تفاعل العملاء وسلوكهم."
+    },
+    {
+    "original": "Managing email lists",
+    "translated": "إدارة قوائم البريد الإلكتروني",
+    "description": "تنظيم القوائم البريدية لضمان استهداف العملاء المناسبين وتحقيق أقصى استفادة من الحملات."
+    },
+    {
+    "original": "Handling email deliverability",
+    "translated": "تحسين وصول البريد الإلكتروني",
+    "description": "ضمان وصول الرسائل البريدية إلى صناديق البريد الوارد للعملاء وتجنب التصنيف كرسائل غير مرغوب فيها."
+    },
+    {
+    "original": "Creating email templates",
+    "translated": "إنشاء قوالب بريد إلكتروني",
+    "description": "تصميم قوالب بريد إلكتروني احترافية قابلة للتخصيص لاستخدامها في الحملات التسويقية."
+    },
+    {
+    "original": "Analyzing email marketing metrics",
+    "translated": "تحليل مؤشرات أداء التسويق عبر البريد الإلكتروني",
+    "description": "دراسة معدل الفتح، النقرات، والتحويلات لفهم فعالية الحملات البريدية وتحسينها."
+    },
+    {
+    "original": "Managing mobile app development projects",
+    "translated": "إدارة مشاريع تطوير التطبيقات المحمولة",
+    "description": "تنسيق عمليات تطوير التطبيقات لضمان تحقيق الأهداف والجداول الزمنية المحددة."
+    },
+    {
+    "original": "Conducting mobile app testing",
+    "translated": "إجراء اختبارات التطبيقات المحمولة",
+    "description": "اختبار التطبيقات لضمان الأداء السلس وتجربة مستخدم ممتازة قبل الإطلاق."
+    },
+    {
+    "original": "Developing mobile app features",
+    "translated": "تطوير ميزات التطبيقات المحمولة",
+    "description": "تصميم وإضافة ميزات جديدة للتطبيقات لتحسين تجربة المستخدم وزيادة الوظائف."
+    },
+    {
+    "original": "Handling mobile app user feedback",
+    "translated": "إدارة ملاحظات مستخدمي التطبيقات المحمولة",
+    "description": "تحليل تعليقات المستخدمين لتحسين وظائف التطبيق وتجربة المستخدم."
+    },
+    {
+    "original": "Conducting user research for mobile apps",
+    "translated": "إجراء أبحاث المستخدمين لتطبيقات الهواتف المحمولة",
+    "description": "تحليل احتياجات المستخدمين وسلوكهم لتطوير تطبيقات تلبي توقعاتهم."
+    },
+    {
+    "original": "Designing mobile app interfaces",
+    "translated": "تصميم واجهات تطبيقات الهواتف المحمولة",
+    "description": "إعداد واجهات استخدام جذابة وسهلة الاستخدام لتعزيز تجربة المستخدم."
+    },
+    {
+    "original": "Designing web interfaces",
+    "translated": "تصميم واجهات الويب",
+    "description": "تصميم عناصر واجهة المستخدم لمواقع الويب لضمان تجربة مستخدم سلسة وجذابة."
+    },
+    {
+    "original": "Developing web design features",
+    "translated": "تطوير ميزات تصميم الويب",
+    "description": "إنشاء وتحسين عناصر التصميم لضمان تجربة بصرية ووظيفية محسنة لمواقع الويب."
+    },
+    {
+    "original": "Conducting user research for web design",
+    "translated": "إجراء أبحاث المستخدمين لتصميم الويب",
+    "description": "تحليل سلوك المستخدمين واحتياجاتهم لإنشاء تصميمات ويب محسنة وسهلة الاستخدام."
+    },
+    {
+    "original": "Managing web design projects",
+    "translated": "إدارة مشاريع تصميم الويب",
+    "description": "تنظيم وتنسيق عمليات تصميم مواقع الويب لضمان تحقيق الأهداف المطلوبة."
+    },
+    {
+    "original": "Conducting web usability testing",
+    "translated": "إجراء اختبارات قابلية استخدام الويب",
+    "description": "اختبار مواقع الويب لضمان تجربة مستخدم سلسة وخالية من المشاكل."
+    },
+    {
+    "original": "Handling web user feedback",
+    "translated": "إدارة ملاحظات مستخدمي الويب",
+    "description": "تحليل تعليقات المستخدمين لتحسين تصميم الويب وتجربة الاستخدام."
+    },
+    {
+    "original": "Handling public speaking anxiety",
+    "translated": "التعامل مع قلق التحدث أمام الجمهور",
+    "description": "تطوير استراتيجيات لتقليل التوتر وزيادة الثقة أثناء إلقاء العروض التقديمية والتحدث أمام الجمهور."
+    },
+    {
+    "original": "Developing public speaking skills",
+    "translated": "تطوير مهارات التحدث أمام الجمهور",
+    "description": "تحسين القدرات الخطابية وتعزيز مهارات الإلقاء والتواصل الفعال لجذب انتباه الجمهور."
+    },
+    {
+    "original": "Creating presentation materials",
+    "translated": "إعداد مواد العروض التقديمية",
+    "description": "تصميم شرائح وعروض مرئية جذابة تدعم الخطاب وتسهل توصيل الرسالة بوضوح."
+    },
+    {
+    "original": "Providing public speaking coaching",
+    "translated": "تقديم تدريب على التحدث أمام الجمهور",
+    "description": "إرشاد الأفراد لتعزيز مهارات التحدث وتحسين قدرتهم على التواصل بفعالية وثقة."
+    },
+    {
+    "original": "Creating content marketing strategy",
+    "translated": "إعداد استراتيجية التسويق بالمحتوى",
+    "description": "وضع خطة لإنشاء وتوزيع المحتوى التسويقي بهدف زيادة الوعي بالعلامة التجارية وجذب الجمهور المستهدف."
+    },
+    {
+    "original": "Analyzing content marketing metrics",
+    "translated": "تحليل مؤشرات أداء التسويق بالمحتوى",
+    "description": "مراجعة البيانات لتحديد مدى نجاح المحتوى في تحقيق الأهداف التسويقية وتحسين استراتيجياته."
+    },
+    {
+    "original": "Handling content",
+    "translated": "إدارة المحتوى",
+    "description": "تنظيم وإنشاء المحتوى التسويقي لضمان اتساقه مع أهداف العلامة التجارية ورسالته."
+    },
+    {
+    "original": "Developing content marketing materials",
+    "translated": "إعداد مواد التسويق بالمحتوى",
+    "description": "إنشاء محتوى متنوع مثل المقالات، المدونات، والمرئيات لدعم الاستراتيجية التسويقية."
+    },
+    {
+    "original": "Conducting content marketing campaigns",
+    "translated": "تنفيذ حملات التسويق بالمحتوى",
+    "description": "إطلاق حملات محتوى تستهدف الجمهور المناسب لتحقيق التفاعل وزيادة الولاء للعلامة التجارية."
+    },
+    {
+    "original": "Conducting content audits",
+    "translated": "إجراء مراجعات المحتوى",
+    "description": "تحليل المحتوى الحالي لتحديد الفجوات وفرص التحسين وضمان توافقه مع الأهداف التسويقية."
+    },
+    {
+    "original": "Conducting content performance analysis",
+    "translated": "تحليل أداء المحتوى",
+    "description": "مراجعة أداء المحتوى من حيث التفاعل والمشاركة والتأثير على الجمهور المستهدف."
+    },
+    {
+    "original": "Developing content creation processes",
+    "translated": "تطوير عمليات إنشاء المحتوى",
+    "description": "تصميم آليات فعالة لإنتاج المحتوى بجودة عالية وتحقيق استمرارية في النشر."
+    },
+    {
+    "original": "Managing content calendars",
+    "translated": "إدارة جداول المحتوى",
+    "description": "تنظيم مواعيد نشر المحتوى والتخطيط المسبق للحملات لضمان تنفيذ استراتيجية تسويقية متكاملة."
+    },
+    {
+    "original": "Optimizing content for SEO",
+    "translated": "تحسين المحتوى لمحركات البحث",
+    "description": "تعديل المحتوى لزيادة فرص ظهوره في نتائج البحث وتحقيق أعلى معدلات وصول ممكنة."
+    },
+    {
+    "original": "Planning video shoots",
+    "translated": "التخطيط لجلسات تصوير الفيديو",
+    "description": "إعداد خطط إنتاج الفيديوهات من تحديد المواقع، السيناريوهات، والمعدات اللازمة."
+    },
+    {
+    "original": "Creating video content",
+    "translated": "إنتاج محتوى فيديو",
+    "description": "إعداد مقاطع فيديو إبداعية تخدم الأهداف التسويقية أو التعليمية للعلامة التجارية."
+    },
+    {
+    "original": "Conducting video editing",
+    "translated": "تحرير الفيديوهات",
+    "description": "تحسين جودة الفيديوهات عبر التعديل، المؤثرات، وضبط الإضاءة والصوت لتحقيق أفضل تجربة مشاهدة."
+    },
+    {
+    "original": "Handling video feedback",
+    "translated": "إدارة ملاحظات الفيديو",
+    "description": "جمع وتحليل ردود الفعل حول الفيديوهات لتحسين جودتها وملاءمتها للجمهور المستهدف."
+    },
+    {
+    "original": "Managing video production projects",
+    "translated": "إدارة مشاريع إنتاج الفيديو",
+    "description": "تنظيم عمليات إنتاج الفيديو بدءًا من التخطيط وحتى النشر لضمان جودة عالية وتوافق مع الأهداف."
+    },
+    {
+    "original": "Developing video production strategy",
+    "translated": "تطوير استراتيجية إنتاج الفيديو",
+    "description": "وضع خطة شاملة لإنتاج محتوى مرئي يعزز الهوية البصرية للعلامة التجارية ويحقق تفاعلًا أكبر."
+    },
+    {
+    "original": "Planning podcast episodes",
+    "translated": "التخطيط لحلقات البودكاست",
+    "description": "وضع جدول زمني لحلقات البودكاست، تحديد المواضيع، واختيار الضيوف لضمان محتوى جذاب ومتسق."
+    },
+    {
+    "original": "Creating podcast content",
+    "translated": "إعداد محتوى البودكاست",
+    "description": "تطوير سيناريوهات الحلقات، كتابة النصوص، وإنشاء محتوى يناسب جمهور المستمعين المستهدف."
+    },
+    {
+    "original": "Conducting podcast editing",
+    "translated": "تحرير البودكاست",
+    "description": "تنقية الصوت، إزالة الضوضاء، وإضافة المؤثرات لضمان تجربة استماع احترافية."
+    },
+    {
+    "original": "Developing podcast production strategy",
+    "translated": "تطوير استراتيجية إنتاج البودكاست",
+    "description": "وضع خطة متكاملة تشمل الإنتاج، التسويق، والتوزيع لضمان نجاح البودكاست وزيادة عدد المستمعين."
+    },
+    {
+    "original": "Managing podcast production projects",
+    "translated": "إدارة مشاريع إنتاج البودكاست",
+    "description": "تنظيم عمليات تسجيل الحلقات، تحريرها، والترويج لها لضمان تحقيق الأهداف المطلوبة."
+    },
+    {
+    "original": "Handling podcast feedback",
+    "translated": "إدارة ملاحظات المستمعين للبودكاست",
+    "description": "تحليل ردود الفعل من المستمعين لتحسين جودة الحلقات وتقديم محتوى أكثر جاذبية."
+    },
+    {
+    "original": "Managing event feedback",
+    "translated": "إدارة ملاحظات الفعاليات",
+    "description": "جمع وتحليل آراء الحضور حول الفعالية لاستخدامها في تحسين التجارب المستقبلية."
+    },
+    {
+    "original": "Developing event budgets",
+    "translated": "إعداد ميزانيات الفعاليات",
+    "description": "تخطيط التكاليف وتخصيص الموارد لضمان تنظيم الفعالية ضمن الميزانية المحددة."
+    },
+    {
+    "original": "Identifying event venues",
+    "translated": "تحديد أماكن الفعاليات",
+    "description": "البحث عن أماكن مناسبة لاستضافة الفعاليات بما يتماشى مع طبيعة الحدث والجمهور المستهدف."
+    },
+    {
+    "original": "Planning corporate events",
+    "translated": "تخطيط الفعاليات المؤسسية",
+    "description": "تنظيم الفعاليات الخاصة بالشركات مثل المؤتمرات، ورش العمل، واجتماعات العمل لتعزيز العلامة التجارية."
+    },
+    {
+    "original": "Conducting event marketing",
+    "translated": "تنفيذ حملات تسويقية للفعاليات",
+    "description": "إعداد استراتيجيات تسويقية لجذب الحضور وزيادة الوعي بالحدث عبر مختلف القنوات."
+    },
+    {
+    "original": "Managing event logistics",
+    "translated": "إدارة الخدمات اللوجستية للفعاليات",
+    "description": "تنسيق الجوانب اللوجستية مثل النقل، التجهيزات التقنية، وإدارة التسجيلات لضمان نجاح الفعالية."
+    },
+    {
+    "original": "Handling event registrations",
+    "translated": "إدارة تسجيلات الفعاليات",
+    "description": "تنظيم عملية التسجيل للحضور، إدارة بيانات المشاركين، والتأكد من سير العملية بسلاسة."
+    },
+    {
+    "original": "Developing localization training",
+    "translated": "إعداد برامج تدريب التوطين",
+    "description": "تصميم برامج تدريبية لضمان توافق المنتجات والخدمات مع الأسواق والثقافات المحلية."
+    },
+    {
+    "original": "Handling localization project management",
+    "translated": "إدارة مشاريع التوطين",
+    "description": "تنظيم عمليات الترجمة والتكييف الثقافي للمحتوى لضمان تفاعل الجمهور المستهدف معه."
+    },
+    {
+    "original": "Ensuring compliance with localization regulations",
+    "translated": "ضمان الامتثال للوائح التوطين",
+    "description": "التحقق من توافق عمليات التوطين مع القوانين والمعايير المحلية لكل سوق مستهدف."
+    },
+    {
+    "original": "Identifying localization opportunities",
+    "translated": "تحديد فرص التوطين",
+    "description": "تحليل الأسواق المستهدفة لاكتشاف إمكانيات توسيع نطاق المنتجات والخدمات."
+    },
+    {
+    "original": "Conducting localization assessments",
+    "translated": "إجراء تقييمات التوطين",
+    "description": "تحليل كفاءة التوطين الحالي وتقديم توصيات لتحسين التكيف مع الثقافة المحلية."
+    },
+    {
+    "original": "Identifying potential influencers",
+    "translated": "تحديد المؤثرين المحتملين",
+    "description": "البحث عن المؤثرين المناسبين للتعاون معهم بهدف الترويج للعلامة التجارية وزيادة الوعي بها."
+    },
+    {
+    "original": "Ensuring compliance with influencer marketing regulations",
+    "translated": "ضمان الامتثال لقوانين التسويق عبر المؤثرين",
+    "description": "مراجعة حملات المؤثرين لضمان توافقها مع القوانين والإرشادات الإعلانية المعتمدة."
+    },
+    {
+    "original": "Analyzing influencer marketing metrics",
+    "translated": "تحليل مؤشرات أداء التسويق عبر المؤثرين",
+    "description": "مراجعة معدلات التفاعل، الوصول، والتحويلات لتقييم فعالية الحملات التسويقية مع المؤثرين."
+    },
+    {
+    "original": "Managing influencer relationships",
+    "translated": "إدارة علاقات المؤثرين",
+    "description": "تنسيق التعاون مع المؤثرين، التفاوض على العقود، وضمان تحقيق أهداف الحملات المشتركة."
+    },
+    {
+    "original": "Developing influencer marketing campaigns",
+    "translated": "تطوير حملات التسويق عبر المؤثرين",
+    "description": "تصميم حملات متكاملة بالتعاون مع المؤثرين لتعزيز التفاعل مع الجمهور المستهدف."
+    },
+    {
+    "original": "Conducting influencer outreach",
+    "translated": "تنفيذ استراتيجيات التواصل مع المؤثرين",
+    "description": "التواصل مع المؤثرين وبناء شراكات تسويقية لتعزيز العلامة التجارية وزيادة الوعي بها."
+    },
+    {
+    "original": "Real Estate",
+    "translated": "العقارات",
+    "description": "يشمل قطاع العقارات كل ما يتعلق بشراء وبيع وتأجير وإدارة الممتلكات السكنية والتجارية. يتضمن أيضًا تحليل السوق، استراتيجيات التسويق العقاري، تقييم العقارات، وتقديم الاستشارات الاستثمارية لزيادة العائد على الاستثمار. يمكن استخدام استراتيجيات التسويق الرقمي وحملات البريد الإلكتروني والجولات الافتراضية لجذب المشترين والمستأجرين المحتملين."
+    },
+    {
+    "original": "Writing tenant performance reviews",
+    "translated": "كتابة تقارير أداء المستأجرين",
+    "description": "إعداد تقارير تقييم أداء المستأجرين بناءً على الالتزام بالعقد، سلوكهم، ومدى حفاظهم على العقار."
+    },
+    {
+    "original": "Creating rental agreement addendums",
+    "translated": "إعداد ملاحق عقود الإيجار",
+    "description": "إضافة بنود جديدة أو تعديلات على عقود الإيجار لضمان وضوح الالتزامات بين المالك والمستأجر."
+    },
+    {
+    "original": "Developing move-in checklists",
+    "translated": "إعداد قوائم فحص الانتقال إلى العقار",
+    "description": "إنشاء قوائم فحص للمستأجرين الجدد لضمان استلام العقار بحالة جيدة وتوثيق حالته قبل السكن."
+    },
+    {
+    "original": "Creating tenant move-out letters",
+    "translated": "إعداد خطابات مغادرة المستأجرين",
+    "description": "كتابة خطابات رسمية للمستأجرين توضح تفاصيل إنهاء العقد وإجراءات تسليم العقار."
+    },
+    {
+    "original": "Developing maintenance request forms",
+    "translated": "إعداد نماذج طلبات الصيانة",
+    "description": "تصميم نماذج لطلبات الصيانة لتسهيل تقديم المستأجرين لطلبات الإصلاحات وضمان المتابعة السريعة."
+    },
+    {
+    "original": "Developing property budget reports",
+    "translated": "إعداد تقارير ميزانية العقارات",
+    "description": "تحليل التكاليف والإيرادات العقارية لتحديد الميزانية المطلوبة للصيانة والإدارة."
+    },
+    {
+    "original": "Developing tenant screening criteria",
+    "translated": "وضع معايير تقييم المستأجرين",
+    "description": "تحديد معايير اختيار المستأجرين لضمان التعاقد مع مستأجرين موثوقين وأصحاب سجل إيجاري جيد."
+    },
+    {
+    "original": "Developing lease assignment agreements",
+    "translated": "إعداد اتفاقيات تحويل عقود الإيجار",
+    "description": "صياغة اتفاقيات لنقل عقد الإيجار من مستأجر لآخر مع تحديد الشروط القانونية اللازمة."
+    },
+    {
+    "original": "Developing tenant satisfaction surveys",
+    "translated": "إعداد استبيانات رضا المستأجرين",
+    "description": "تصميم استبيانات لقياس رضا المستأجرين عن الخدمات المقدمة وتحسين تجربة السكن لديهم."
+    },
+    {
+    "original": "Creating sublease agreements",
+    "translated": "إعداد اتفاقيات التأجير الفرعي",
+    "description": "صياغة عقود تأجير فرعية تسمح للمستأجرين بإعادة تأجير العقار لطرف آخر بشروط واضحة."
+    },
+    {
+    "original": "Creating property emergency procedures",
+    "translated": "إعداد إجراءات الطوارئ العقارية",
+    "description": "وضع خطط استجابة للطوارئ مثل الحرائق أو الأعطال المفاجئة لضمان سلامة المستأجرين."
+    },
+    {
+    "original": "Developing tenant lease expiration schedules",
+    "translated": "إعداد جداول انتهاء عقود الإيجار",
+    "description": "تنظيم وتتبع مواعيد انتهاء عقود الإيجار لتجنب أي تأخير أو تجديد غير مخطط له."
+    },
+    {
+    "original": "Writing rental agreement amendments",
+    "translated": "كتابة تعديلات عقود الإيجار",
+    "description": "تعديل العقود الحالية لإضافة شروط جديدة أو تحديث البنود بناءً على الاتفاق بين الطرفين."
+    },
+    {
+    "original": "Writing tenant retention surveys",
+    "translated": "إعداد استبيانات الاحتفاظ بالمستأجرين",
+    "description": "تصميم استبيانات لفهم أسباب بقاء المستأجرين أو مغادرتهم وتحسين استراتيجيات الاحتفاظ بهم."
+    },
+    {
+    "original": "Writing lease termination letters",
+    "translated": "كتابة خطابات إنهاء عقد الإيجار",
+    "description": "إعداد خطابات رسمية للمستأجرين توضح شروط وإجراءات إنهاء عقد الإيجار بطريقة قانونية."
+    },
+    {
+    "original": "Creating property income reports",
+    "translated": "إعداد تقارير دخل العقارات",
+    "description": "تحليل الإيرادات العقارية وتقديم تقارير مالية توضح العوائد والأداء المالي للعقار."
+    },
+    {
+    "original": "Developing rental payment reminder emails",
+    "translated": "إعداد رسائل تذكير بدفع الإيجار",
+    "description": "تصميم رسائل بريد إلكتروني تلقائية لتذكير المستأجرين بمواعيد سداد الإيجار وتجنب التأخير."
+    },
+    {
+    "original": "Creating tenant move-in packets",
+    "translated": "إعداد حزم انتقال المستأجرين",
+    "description": "تحضير مستندات ودلائل إرشادية للمستأجرين الجدد تتضمن معلومات حول العقار وسياسات الإيجار."
+    },
+    {
+    "original": "Writing tenant welcome letters",
+    "translated": "كتابة خطابات ترحيب بالمستأجرين",
+    "description": "إعداد رسائل ترحيبية للمستأجرين الجدد تتضمن إرشادات الإقامة والمعلومات الأساسية عن العقار."
+    },
+    {
+    "original": "Creating property investment presentations",
+    "translated": "إعداد عروض تقديمية للاستثمار العقاري",
+    "description": "تصميم عروض توضيحية للمستثمرين تتناول الفرص الاستثمارية المحتملة والمزايا العقارية."
+    },
+    {
+    "original": "Creating tenant retention strategies",
+    "translated": "تطوير استراتيجيات الاحتفاظ بالمستأجرين",
+    "description": "وضع خطط للحفاظ على المستأجرين من خلال تحسين الخدمات وتقديم حوافز للبقاء."
+    },
+    {
+    "original": "Developing lease negotiation scripts",
+    "translated": "إعداد نصوص تفاوض عقود الإيجار",
+    "description": "إنشاء سيناريوهات لمساعدة الملاك أو مديري العقارات على التفاوض بشأن شروط الإيجار بفعالية."
+    },
+    {
+    "original": "Writing property inspection checklists",
+    "translated": "إعداد قوائم فحص العقارات",
+    "description": "تصميم قوائم فحص تفصيلية لضمان تقييم حالة العقار قبل وبعد فترة الإيجار."
+    },
+    {
+    "original": "Developing tenant reward and recognition programs",
+    "translated": "تطوير برامج مكافآت وتقدير المستأجرين",
+    "description": "تصميم مبادرات لمكافأة المستأجرين الملتزمين لتعزيز رضاهم وزيادة ولائهم."
+    },
+    {
+    "original": "Writing property inspection reports",
+    "translated": "كتابة تقارير فحص العقارات",
+    "description": "إعداد تقارير تفصيلية توضح حالة العقار والمشكلات التي تحتاج إلى صيانة أو إصلاح."
+    },
+    {
+    "original": "Writing tenant eviction notices",
+    "translated": "إعداد إخطارات إخلاء المستأجرين",
+    "description": "كتابة إخطارات قانونية تطلب من المستأجرين مغادرة العقار بناءً على شروط العقد."
+    },
+    {
+    "original": "Writing tenant contact information sheets",
+    "translated": "إعداد نماذج بيانات اتصال المستأجرين",
+    "description": "تصميم نماذج تحتوي على معلومات الاتصال الأساسية للمستأجرين لتسهيل التواصل الإداري."
+    },
+    {
+    "original": "Creating property repair request forms",
+    "translated": "إعداد نماذج طلب إصلاح العقارات",
+    "description": "تصميم نماذج لتمكين المستأجرين من تقديم طلبات الصيانة بسهولة وبشكل منظم."
+    },
+    {
+    "original": "Writing tenant lease renewal letters",
+    "translated": "إعداد خطابات تجديد عقد الإيجار",
+    "description": "كتابة خطابات رسمية تدعو المستأجرين لتجديد عقد الإيجار مع تفاصيل الشروط الجديدة."
+    },
+    {
+    "original": "Writing property insurance claims",
+    "translated": "إعداد مطالبات تأمين العقارات",
+    "description": "كتابة مطالبات تأمين رسمية للإبلاغ عن الأضرار والمطالبة بتغطية الإصلاحات وفقًا للوثائق التأمينية."
+    },
+    {
+    "original": "Writing property descriptions",
+    "translated": "كتابة أوصاف العقارات",
+    "description": "إعداد أوصاف تسويقية للعقارات تبرز الميزات الرئيسية وتجذب المشترين أو المستأجرين المحتملين."
+    },
+    {
+    "original": "Writing security deposit refund letters",
+    "translated": "كتابة خطابات استرداد التأمين",
+    "description": "إعداد خطابات رسمية توضح تفاصيل استرداد التأمين عند مغادرة المستأجرين وفقًا للعقد."
+    },
+    {
+    "original": "Writing property performance reports",
+    "translated": "إعداد تقارير أداء العقارات",
+    "description": "تحليل أداء العقارات من حيث الإشغال، الإيرادات، والمصروفات لتقديم رؤية واضحة عن الربحية."
+    },
+    {
+    "original": "Creating lease renewal offers",
+    "translated": "إعداد عروض تجديد عقود الإيجار",
+    "description": "تصميم عروض تحفيزية للمستأجرين لتشجيعهم على تجديد عقود الإيجار بشروط مميزة."
+    },
+    {
+    "original": "Creating tenant lease renewal offers",
+    "translated": "إعداد عروض تجديد عقود الإيجار للمستأجرين",
+    "description": "تصميم عروض جذابة للمستأجرين تشمل مزايا إضافية أو شروط محسنة لتشجيعهم على تجديد العقود."
+    },
+    {
+    "original": "Developing property maintenance schedules",
+    "translated": "إعداد جداول صيانة العقارات",
+    "description": "إنشاء جداول زمنية دورية للصيانة الوقائية للعقارات لضمان الحفاظ على جودتها وتقليل التكاليف طويلة الأجل."
+    },
+    {
+    "original": "Creating move-out checklists",
+    "translated": "إعداد قوائم فحص عند مغادرة المستأجرين",
+    "description": "تصميم قوائم فحص تحدد المتطلبات والإجراءات التي يجب على المستأجرين اتباعها عند إخلاء العقار."
+    },
+    {
+    "original": "Developing lease agreements",
+    "translated": "إعداد اتفاقيات الإيجار",
+    "description": "صياغة عقود إيجار واضحة وشاملة تتضمن جميع البنود القانونية التي تحكم العلاقة بين المالك والمستأجر."
+    },
+    {
+    "original": "Writing tenant rules and regulations",
+    "translated": "إعداد قواعد ولوائح المستأجرين",
+    "description": "وضع قائمة بالقوانين والإرشادات التي يجب على المستأجرين اتباعها للحفاظ على النظام داخل العقار."
+    },
+    {
+    "original": "Creating lease renewal letters",
+    "translated": "إعداد خطابات تجديد عقود الإيجار",
+    "description": "كتابة خطابات رسمية تدعو المستأجرين لتجديد عقودهم مع تفاصيل الشروط والتعديلات الجديدة إن وجدت."
+    },
+    {
+    "original": "Creating tenant satisfaction reports",
+    "translated": "إعداد تقارير رضا المستأجرين",
+    "description": "تحليل بيانات رضا المستأجرين حول الخدمات المقدمة لتحديد مجالات التحسين وزيادة معدلات الاحتفاظ بهم."
+    },
+    {
+    "original": "Developing property turnover checklists",
+    "translated": "إعداد قوائم تسليم واستلام العقارات",
+    "description": "تصميم قوائم تساعد في توثيق حالة العقار عند انتقال المستأجرين لضمان عملية انتقال سلسة."
+    },
+    {
+    "original": "Creating rent increase notices",
+    "translated": "إعداد إشعارات زيادة الإيجار",
+    "description": "كتابة إشعارات رسمية توضح للمستأجرين أسباب وتفاصيل أي زيادة في الإيجار وفقًا للعقد والسياسات."
+    },
+    {
+    "original": "Creating tenant screening questionnaires",
+    "translated": "إعداد استبيانات فحص المستأجرين",
+    "description": "تصميم استبيانات لتقييم المستأجرين المحتملين بناءً على معايير مثل القدرة المالية وسجل الإيجار."
+    },
+    {
+    "original": "Writing property expense reports",
+    "translated": "إعداد تقارير مصاريف العقارات",
+    "description": "تحليل وتوثيق التكاليف المرتبطة بإدارة العقارات، بما في ذلك الصيانة، الضرائب، والمصاريف التشغيلية."
+    },
+    {
+    "original": "Developing property insurance policies",
+    "translated": "إعداد سياسات تأمين العقارات",
+    "description": "وضع خطط تأمين شاملة لحماية العقارات من المخاطر المحتملة مثل الأضرار الطبيعية أو الحوادث."
+    },
+    {
+    "original": "Writing lease termination offers",
+    "translated": "إعداد عروض إنهاء عقد الإيجار",
+    "description": "تصميم خطابات رسمية تقدم للمستأجرين عند إنهاء العقد مع توضيح الشروط والإجراءات المتبعة."
+    },
+    {
+    "original": "Developing property investment analyses",
+    "translated": "إعداد تحليلات الاستثمار العقاري",
+    "description": "تحليل العوائد والمخاطر المرتبطة بالاستثمارات العقارية لمساعدة المستثمرين في اتخاذ قرارات مستنيرة."
+    },
+    {
+    "original": "Crafting property performance dashboards",
+    "translated": "تصميم لوحات معلومات أداء العقارات",
+    "description": "إنشاء لوحات معلومات تفاعلية تعرض بيانات أداء العقارات مثل معدلات الإشغال، الإيرادات، والمصروفات."
+    },
+    {
+    "original": "Conducting property appraisals",
+    "translated": "إجراء تقييمات العقارات",
+    "description": "تحليل وتحديد القيمة السوقية للعقارات بناءً على الموقع، الحالة، والاتجاهات السوقية الحالية."
+    },
+    {
+    "original": "Writing competitor analyses",
+    "translated": "إعداد تحليلات المنافسين",
+    "description": "تقييم أداء الشركات العقارية المنافسة لفهم نقاط القوة والضعف والاستفادة منها في تحسين الاستراتيجيات."
+    },
+    {
+    "original": "Creating SWOT analyses",
+    "translated": "إعداد تحليلات SWOT",
+    "description": "تحليل نقاط القوة والضعف، الفرص والتهديدات للعقارات أو المشاريع العقارية لتطوير استراتيجيات فعالة."
+    },
+    {
+    "original": "Writing comparative market analyses (CMAs)",
+    "translated": "إعداد تحليلات السوق المقارنة (CMA)",
+    "description": "تحليل أسعار العقارات المماثلة في السوق لتحديد القيمة العادلة لعقار معين."
+    },
+    {
+    "original": "Developing market segmentation reports",
+    "translated": "إعداد تقارير تقسيم السوق",
+    "description": "تقسيم السوق العقاري إلى فئات مستهدفة بناءً على عوامل مثل الموقع، الدخل، واحتياجات المشترين المحتملين."
+    },
+    {
+    "original": "Crafting market opportunity maps",
+    "translated": "إنشاء خرائط فرص السوق",
+    "description": "تصميم خرائط تحدد المناطق ذات الإمكانات الاستثمارية العالية بناءً على بيانات السوق والطلب."
+    },
+    {
+    "original": "Creating competitive market analyses",
+    "translated": "إعداد تحليلات السوق التنافسية",
+    "description": "تحليل المنافسة العقارية لتحديد الفجوات وفرص التوسع في السوق."
+    },
+    {
+    "original": "Developing property scorecards",
+    "translated": "إعداد بطاقات تقييم العقارات",
+    "description": "تصميم نماذج تقييم تعكس معايير أداء العقارات مثل الجودة، العوائد، ومستوى الصيانة."
+    },
+    {
+    "original": "Analyzing market trends",
+    "translated": "تحليل اتجاهات السوق",
+    "description": "مراقبة وتحليل البيانات العقارية لتحديد التغيرات المستقبلية واتجاهات الطلب والعرض."
+    },
+    {
+    "original": "Writing feasibility studies",
+    "translated": "إعداد دراسات الجدوى",
+    "description": "تقييم الجوانب المالية والفنية للسوق لتحديد جدوى الاستثمارات العقارية الجديدة."
+    },
+    {
+    "original": "Creating lease analyses",
+    "translated": "إعداد تحليلات الإيجار",
+    "description": "تحليل بيانات الإيجارات لمقارنة العقارات المشابهة وتحديد الأسعار التنافسية."
+    },
+    {
+    "original": "Developing demographic profiles",
+    "translated": "إعداد ملفات تعريف ديموغرافية",
+    "description": "تحليل بيانات السكان لتحديد الجمهور المستهدف واحتياجاته في السوق العقاري."
+    },
+    {
+    "original": "Conducting property inspections",
+    "translated": "إجراء فحوصات العقارات",
+    "description": "إجراء عمليات تفتيش شاملة للعقارات لتقييم حالتها وتحديد أي مشكلات تحتاج إلى إصلاح."
+    },
+    {
+    "original": "Developing market reports",
+    "translated": "إعداد تقارير السوق",
+    "description": "إعداد تقارير تحليلية شاملة تعرض بيانات واتجاهات السوق العقاري لمساعدة المستثمرين وأصحاب القرار."
+    },
+    {
+    "original": "Writing market penetration analyses",
+    "translated": "إعداد تحليلات اختراق السوق",
+    "description": "تحليل مدى قدرة العقارات أو المشاريع العقارية على الدخول إلى السوق وكسب الحصة السوقية المستهدفة."
+    },
+    {
+    "original": "Writing site selection analyses",
+    "translated": "إعداد تحليلات اختيار المواقع",
+    "description": "تقييم المواقع المحتملة للاستثمار العقاري بناءً على العوامل الجغرافية، الاقتصادية، والديموغرافية."
+    },
+    {
+    "original": "Developing property supply forecasts",
+    "translated": "إعداد توقعات المعروض العقاري",
+    "description": "تحليل البيانات السوقية لتوقع حجم العقارات المتاحة في المستقبل بناءً على العرض والطلب."
+    },
+    {
+    "original": "Creating investment analyses",
+    "translated": "إعداد تحليلات الاستثمار",
+    "description": "تحليل العوائد والمخاطر للاستثمارات العقارية لمساعدة المستثمرين في اتخاذ قرارات مدروسة."
+    },
+    {
+    "original": "Creating property demand forecasts",
+    "translated": "إعداد توقعات الطلب العقاري",
+    "description": "توقع مستوى الطلب المستقبلي على العقارات بناءً على الاتجاهات السكانية والاقتصادية."
+    },
+    {
+    "original": "Writing due diligence reports",
+    "translated": "إعداد تقارير العناية الواجبة",
+    "description": "إجراء تحليل شامل للعقارات والمشاريع لضمان الامتثال القانوني والجدوى الاستثمارية."
+    },
+    {
+    "original": "Writing economic analysis reports",
+    "translated": "إعداد تقارير التحليل الاقتصادي",
+    "description": "تحليل العوامل الاقتصادية المؤثرة على سوق العقارات، مثل التضخم، النمو الاقتصادي، وأسعار الفائدة."
+    },
+    {
+    "original": "Writing market updates",
+    "translated": "إعداد تحديثات السوق",
+    "description": "توفير تقارير منتظمة حول آخر المستجدات في السوق العقاري لمساعدة المستثمرين في اتخاذ قرارات مستنيرة."
+    },
+    {
+    "original": "Developing property valuations",
+    "translated": "إعداد تقييمات العقارات",
+    "description": "تحديد القيمة السوقية للعقارات بناءً على تحليل البيانات والمقارنات مع العقارات المماثلة."
+    },
+    {
+    "original": "Creating market sizing reports",
+    "translated": "إعداد تقارير حجم السوق",
+    "description": "تحليل حجم السوق العقاري وتحديد الفرص الاستثمارية المتاحة بناءً على بيانات العرض والطلب."
+    },
+    {
+    "original": "Writing introduction emails",
+    "translated": "كتابة رسائل بريد إلكتروني تعريفية",
+    "description": "إعداد رسائل بريد إلكتروني ترحيبية لتعريف العملاء المحتملين بالخدمات أو المنتجات وتعزيز فرص التواصل."
+    },
+    {
+    "original": "Creating lead capture pages",
+    "translated": "إنشاء صفحات جمع العملاء المحتملين",
+    "description": "تصميم صفحات مخصصة لجذب العملاء المحتملين وتحفيزهم على تقديم بيانات الاتصال الخاصة بهم."
+    },
+    {
+    "original": "Writing lead conversion scripts",
+    "translated": "كتابة نصوص تحويل العملاء المحتملين",
+    "description": "إعداد سيناريوهات مقنعة تساعد على تحويل العملاء المحتملين إلى عملاء فعليين من خلال رسائل تسويقية مستهدفة."
+    },
+    {
+    "original": "Creating lead magnet content",
+    "translated": "إعداد محتوى مغناطيس العملاء المحتملين",
+    "description": "تصميم محتوى مجاني قيّم، مثل الأدلة والتقارير، لجذب العملاء المحتملين مقابل الحصول على بياناتهم."
+    },
+    {
+    "original": "Writing lead nurture content",
+    "translated": "كتابة محتوى رعاية العملاء المحتملين",
+    "description": "إنشاء محتوى يساعد على بناء علاقات طويلة الأمد مع العملاء المحتملين وتحفيزهم على التفاعل مع العلامة التجارية."
+    },
+    {
+    "original": "Developing lead qualification forms",
+    "translated": "إعداد نماذج تأهيل العملاء المحتملين",
+    "description": "تصميم استمارات لجمع البيانات المهمة التي تحدد مدى جاهزية العملاء المحتملين للشراء."
+    },
+    {
+    "original": "Responding to online inquiries",
+    "translated": "الرد على استفسارات العملاء عبر الإنترنت",
+    "description": "إدارة التفاعل مع العملاء من خلال الرد السريع على استفساراتهم في منصات التواصل أو البريد الإلكتروني."
+    },
+    {
+    "original": "Developing lead scoring criteria",
+    "translated": "تطوير معايير تقييم العملاء المحتملين",
+    "description": "وضع نظام لتصنيف العملاء المحتملين بناءً على احتمالية تحويلهم إلى عملاء فعليين."
+    },
+    {
+    "original": "Writing content upgrades for lead generation",
+    "translated": "كتابة تحسينات المحتوى لجذب العملاء المحتملين",
+    "description": "تطوير محتوى إضافي مميز يجذب العملاء المحتملين ويساهم في زيادة التفاعل معهم."
+    },
+    {
+    "original": "Developing chatbot scripts for lead generation",
+    "translated": "إعداد نصوص روبوتات المحادثة لجذب العملاء المحتملين",
+    "description": "تصميم سيناريوهات محادثة تلقائية لجذب العملاء المحتملين وتحفيزهم على اتخاذ إجراء."
+    },
+    {
+    "original": "Writing exit intent pop-ups",
+    "translated": "كتابة نوافذ منبثقة لنوايا المغادرة",
+    "description": "تصميم نوافذ منبثقة تظهر عند محاولة المستخدم مغادرة الموقع لتقديم عروض محفزة تمنعه من المغادرة."
+    },
+    {
+    "original": "Crafting lookalike audience campaigns",
+    "translated": "إعداد حملات استهداف الجماهير المشابهة",
+    "description": "إنشاء حملات إعلانية تستهدف المستخدمين الذين يشبهون العملاء الحاليين بناءً على البيانات التحليلية."
+    },
+    {
+    "original": "Developing LinkedIn outreach templates",
+    "translated": "إعداد قوالب تواصل عبر لينكد إن",
+    "description": "تصميم رسائل تواصل احترافية مخصصة لجذب العملاء المحتملين وبناء العلاقات عبر لينكد إن."
+    },
+    {
+    "original": "Writing follow-up text messages",
+    "translated": "كتابة رسائل نصية للمتابعة",
+    "description": "إعداد رسائل متابعة قصيرة وفعالة للحفاظ على التواصل مع العملاء المحتملين وتشجيعهم على اتخاذ إجراء."
+    },
+    {
+    "original": "Creating webinar registration pages",
+    "translated": "إنشاء صفحات تسجيل في الندوات الإلكترونية",
+    "description": "تصميم صفحات مخصصة لتسجيل الحضور في الندوات الإلكترونية وتعزيز تفاعل الجمهور."
+    },
+    {
+    "original": "Crafting email subject lines",
+    "translated": "إعداد عناوين رسائل البريد الإلكتروني",
+    "description": "إنشاء عناوين جذابة لرسائل البريد الإلكتروني تساعد في زيادة معدل الفتح والتفاعل."
+    },
+    {
+    "original": "Writing social media ad copy",
+    "translated": "كتابة نصوص إعلانات وسائل التواصل الاجتماعي",
+    "description": "إعداد نصوص إعلانية قصيرة وجذابة مخصصة للحملات التسويقية على منصات التواصل الاجتماعي."
+    },
+    {
+    "original": "Creating custom audience campaigns",
+    "translated": "إعداد حملات مخصصة للجمهور المستهدف",
+    "description": "تصميم حملات إعلانية موجهة للجماهير المحددة بناءً على بيانات العملاء وسلوكهم الشرائي."
+    },
+    {
+    "original": "Developing lead magnets",
+    "translated": "تطوير مغناطيس العملاء المحتملين",
+    "description": "إنشاء محتوى قيم أو عروض حصرية لجذب العملاء المحتملين وتحفيزهم على مشاركة بياناتهم."
+    },
+    {
+    "original": "Developing landing pages",
+    "translated": "تطوير صفحات الهبوط",
+    "description": "تصميم صفحات مخصصة لاستقبال العملاء المحتملين وتحفيزهم على اتخاذ إجراء محدد."
+    },
+    {
+    "original": "Creating retargeting campaigns",
+    "translated": "إعداد حملات إعادة الاستهداف",
+    "description": "تصميم حملات تسويقية تستهدف الزوار السابقين للموقع أو المتفاعلين مع العلامة التجارية بهدف إعادة جذبهم وتحويلهم إلى عملاء."
+    },
+    {
+    "original": "Writing lead follow-up emails",
+    "translated": "كتابة رسائل متابعة للعملاء المحتملين",
+    "description": "إعداد رسائل بريد إلكتروني مخصصة لمتابعة العملاء المحتملين وتعزيز فرص التحويل."
+    },
+    {
+    "original": "Crafting lead generation surveys",
+    "translated": "إعداد استبيانات لجذب العملاء المحتملين",
+    "description": "تصميم استبيانات تفاعلية لجمع بيانات العملاء المحتملين وتحليل اهتماماتهم واحتياجاتهم."
+    },
+    {
+    "original": "Qualifying leads",
+    "translated": "تأهيل العملاء المحتملين",
+    "description": "تحليل العملاء المحتملين بناءً على معايير محددة لتحديد مدى جاهزيتهم للشراء."
+    },
+    {
+    "original": "Writing ad copy for remarketing ads",
+    "translated": "كتابة نصوص إعلانية لحملات إعادة التسويق",
+    "description": "إعداد محتوى إعلاني جذاب يستهدف العملاء الذين تفاعلوا مسبقًا مع العلامة التجارية لإعادتهم إلى مسار الشراء."
+    },
+    {
+    "original": "Developing remarketing strategy plans",
+    "translated": "تطوير خطط استراتيجيات إعادة التسويق",
+    "description": "وضع خطط تسويقية لإعادة استهداف العملاء المحتملين باستخدام بيانات التفاعل السابقة."
+    },
+    {
+    "original": "Conducting follow-up calls",
+    "translated": "إجراء مكالمات متابعة",
+    "description": "التواصل مع العملاء المحتملين عبر الهاتف لتعزيز العلاقة وتحفيزهم على اتخاذ الإجراء المطلوب."
+    },
+    {
+    "original": "Creating email drip campaigns",
+    "translated": "إعداد حملات البريد الإلكتروني بالتنقيط",
+    "description": "تصميم سلسلة من رسائل البريد الإلكتروني المرسلة تلقائيًا لمتابعة العملاء المحتملين بمرور الوقت."
+    },
+    {
+    "original": "Creating video ads for social media",
+    "translated": "إنشاء إعلانات فيديو لمنصات التواصل الاجتماعي",
+    "description": "تصميم فيديوهات إعلانية قصيرة تستهدف العملاء المحتملين عبر وسائل التواصل الاجتماعي لزيادة التفاعل والتحويلات."
+    },
+    {
+    "original": "Generating referral requests",
+    "translated": "إنشاء طلبات إحالة العملاء",
+    "description": "تشجيع العملاء الحاليين على إحالة أصدقائهم وعائلاتهم إلى العلامة التجارية من خلال برامج الإحالة."
+    },
+    {
+    "original": "Writing sales scripts",
+    "translated": "كتابة نصوص المبيعات",
+    "description": "إعداد نصوص مخصصة لفرق المبيعات تساعدهم في توجيه المحادثات وإقناع العملاء بالشراء."
+    },
+    {
+    "original": "Developing closing strategies",
+    "translated": "تطوير استراتيجيات إتمام الصفقات",
+    "description": "إنشاء تقنيات متقدمة لمساعدة فرق المبيعات على إغلاق الصفقات بفعالية وزيادة معدلات التحويل."
+    },
+    {
+    "original": "Creating sales performance metrics",
+    "translated": "إعداد مقاييس أداء المبيعات",
+    "description": "تطوير مؤشرات قياس أداء المبيعات مثل معدل التحويل، متوسط حجم الصفقة، ومدة دورة المبيعات."
+    },
+    {
+    "original": "Writing downsell scripts",
+    "translated": "كتابة نصوص العروض البديلة",
+    "description": "إعداد نصوص مبيعات مخصصة لتقديم خيارات أقل تكلفة للعملاء الذين قد يرفضون العروض الأساسية."
+    },
+    {
+    "original": "Crafting customer advocacy programs",
+    "translated": "تصميم برامج دعم العملاء",
+    "description": "إنشاء برامج تشجع العملاء الحاليين على الترويج للعلامة التجارية والمساهمة في زيادة المبيعات عبر التوصيات."
+    },
+    {
+    "original": "Crafting objection-handling scripts",
+    "translated": "إعداد نصوص معالجة اعتراضات العملاء",
+    "description": "تطوير نصوص مخصصة تساعد فرق المبيعات في التعامل مع اعتراضات العملاء وإزالة الشكوك أثناء عملية البيع."
+    },
+    {
+    "original": "Writing sales operations manuals",
+    "translated": "إعداد أدلة تشغيل المبيعات",
+    "description": "تصميم أدلة تفصيلية لفرق المبيعات تتضمن العمليات والإجراءات التي تضمن تحقيق أعلى كفاءة."
+    },
+    {
+    "original": "Crafting sales proposals",
+    "translated": "إعداد عروض البيع",
+    "description": "كتابة عروض مبيعات احترافية توضح الفوائد والحلول المقدمة للعملاء المحتملين."
+    },
+    {
+    "original": "Crafting sales enablement content",
+    "translated": "إعداد محتوى تمكين المبيعات",
+    "description": "إنشاء مواد تعليمية وداعمة لفرق المبيعات تساعدهم في تحقيق نتائج أفضل وزيادة معدلات النجاح."
+    },
+    {
+    "original": "Creating win-back campaigns",
+    "translated": "إعداد حملات استعادة العملاء",
+    "description": "تصميم حملات تستهدف العملاء السابقين لإعادة جذبهم وتشجيعهم على التعامل مجددًا مع العلامة التجارية."
+    },
+    {
+    "original": "Developing sales training programs",
+    "translated": "تطوير برامج تدريب المبيعات",
+    "description": "إعداد دورات وبرامج تدريبية لتعزيز مهارات فرق المبيعات وتحسين أدائهم."
+    },
+    {
+    "original": "Writing sales territory plans",
+    "translated": "إعداد خطط توزيع المبيعات",
+    "description": "تصميم استراتيجيات توزيع المبيعات حسب المناطق الجغرافية لضمان تحقيق أقصى تغطية للسوق المستهدف."
+    },
+    {
+    "original": "Creating counter-offer letters",
+    "translated": "إعداد خطابات عروض مضادة",
+    "description": "كتابة خطابات رسمية تقدم للعملاء المحتملين كعروض بديلة لجذبهم وإتمام الصفقة."
+    },
+    {
+    "original": "Writing inspection responses",
+    "translated": "إعداد ردود تقارير الفحص",
+    "description": "كتابة ردود احترافية على تقارير فحص المنتجات أو العقارات، مع تقديم حلول مناسبة للمشكلات المحددة."
+    },
+    {
+    "original": "Developing sales forecasting models",
+    "translated": "تطوير نماذج التنبؤ بالمبيعات",
+    "description": "إنشاء نماذج تحليلية تعتمد على البيانات لتوقع حجم المبيعات المستقبلية واتخاذ قرارات استراتيجية دقيقة."
+    },
+    {
+    "original": "Creating purchase agreements",
+    "translated": "إعداد اتفاقيات الشراء",
+    "description": "تصميم عقود الشراء الرسمية التي تحدد شروط وأحكام عمليات البيع والشراء بين الأطراف المختلفة."
+    },
+    {
+    "original": "Writing offer letters",
+    "translated": "كتابة خطابات العروض",
+    "description": "إعداد خطابات رسمية توضح تفاصيل العروض المقدمة للعملاء المحتملين بشكل احترافي وجذاب."
+    },
+    {
+    "original": "Developing sales compensation plans",
+    "translated": "إعداد خطط التعويضات للمبيعات",
+    "description": "وضع أنظمة تحفيزية لفرق المبيعات تعتمد على الأداء لزيادة الإنتاجية وتحفيزهم على تحقيق الأهداف."
+    },
+    {
+    "original": "Writing negotiation emails",
+    "translated": "كتابة رسائل البريد الإلكتروني للمفاوضات",
+    "description": "إعداد رسائل احترافية لدعم عمليات التفاوض وتحقيق أفضل الشروط الممكنة في الصفقات التجارية."
+    },
+    {
+    "original": "Developing upsell scripts",
+    "translated": "إعداد نصوص البيع الإضافي",
+    "description": "تصميم نصوص مبيعات مخصصة لاقتراح منتجات أو خدمات إضافية تعزز من قيمة الصفقة للعميل."
+    },
+    {
+    "original": "Writing project contingency plans",
+    "translated": "إعداد خطط الطوارئ للمشاريع",
+    "description": "تطوير استراتيجيات وخطط بديلة لضمان استمرار المشروع في حالة حدوث مخاطر أو تحديات غير متوقعة."
+    },
+    {
+    "original": "Developing employee contracts",
+    "translated": "إعداد عقود الموظفين",
+    "description": "صياغة عقود العمل الرسمية التي تحدد الشروط والأحكام بين الشركة والموظفين لضمان الامتثال القانوني."
+    },
+    {
+    "original": "Creating project plans",
+    "translated": "إعداد خطط المشاريع",
+    "description": "تصميم خطط تفصيلية توضح الأهداف، المهام، الموارد، والجداول الزمنية لإدارة المشروع بفعالية."
+    },
+    {
+    "original": "Writing training manuals",
+    "translated": "إعداد أدلة التدريب",
+    "description": "إنشاء كتيبات تدريبية تحتوي على تعليمات وإرشادات لمساعدة الموظفين في تحسين مهاراتهم وأدائهم."
+    },
+    {
+    "original": "Creating standard operating procedures (SOPs)",
+    "translated": "إعداد إجراءات التشغيل القياسية (SOPs)",
+    "description": "توثيق العمليات والإجراءات الموحدة لضمان تنفيذ المهام وفقًا للمعايير المحددة داخل المؤسسة."
+    },
+    {
+    "original": "Writing meeting summaries",
+    "translated": "إعداد ملخصات الاجتماعات",
+    "description": "تلخيص النقاط الرئيسية والقرارات المتخذة خلال الاجتماعات لتسهيل المتابعة والتنفيذ."
+    },
+    {
+    "original": "Developing project charters",
+    "translated": "إعداد مواثيق المشاريع",
+    "description": "وضع وثيقة رسمية تحدد أهداف المشروع، نطاقه، والمسؤوليات لضمان التنفيذ المنظم."
+    },
+    {
+    "original": "Crafting status update reports",
+    "translated": "إعداد تقارير تحديث الحالة",
+    "description": "إنشاء تقارير دورية توضح مدى تقدم المشروع، التحديات، والخطوات القادمة."
+    },
+    {
+    "original": "Creating project performance metrics",
+    "translated": "تحديد مقاييس أداء المشاريع",
+    "description": "وضع مؤشرات قياس الأداء لتقييم مدى نجاح المشروع وتحقيق الأهداف المرجوة."
+    },
+    {
+    "original": "Writing project budgets",
+    "translated": "إعداد ميزانيات المشاريع",
+    "description": "تصميم خطط مالية تحدد التكاليف التقديرية والموارد المالية المطلوبة لتنفيذ المشروع بنجاح."
+    },
+    {
+    "original": "Developing meeting minutes",
+    "translated": "إعداد محاضر الاجتماعات",
+    "description": "توثيق تفاصيل الاجتماعات بما يشمل النقاشات، القرارات، والإجراءات المتفق عليها."
+    },
+    {
+    "original": "Developing employee handbooks",
+    "translated": "إعداد أدلة الموظفين",
+    "description": "إنشاء أدلة تحتوي على السياسات والإجراءات التي توضح للموظفين حقوقهم وواجباتهم داخل الشركة."
+    },
+    {
+    "original": "Writing meeting agendas",
+    "translated": "إعداد جداول أعمال الاجتماعات",
+    "description": "تصميم أجندات الاجتماعات التي تحدد المواضيع التي سيتم مناقشتها لضمان تنظيم الفعالية."
+    },
+    {
+    "original": "Creating project timelines",
+    "translated": "إعداد الجداول الزمنية للمشاريع",
+    "description": "تحديد المدد الزمنية لكل مرحلة من المشروع لضمان سير العمل وفقًا للخطة المحددة."
+    },
+    {
+    "original": "Crafting project milestone summaries",
+    "translated": "إعداد ملخصات إنجازات المشاريع",
+    "description": "توثيق المراحل المهمة التي تم تحقيقها في المشروع لإبراز التقدم المحرز."
+    },
+    {
+    "original": "Developing issue management plans",
+    "translated": "إعداد خطط إدارة المشكلات",
+    "description": "تصميم استراتيجيات للتعامل مع المشكلات المحتملة أثناء تنفيذ المشروع لضمان استمراريته."
+    },
+    {
+    "original": "Generating thank-you notes",
+    "translated": "إعداد رسائل شكر",
+    "description": "إنشاء رسائل شكر احترافية لإظهار التقدير للعملاء أو الموظفين أو الشركاء."
+    },
+    {
+    "original": "Writing change management plans",
+    "translated": "إعداد خطط إدارة التغيير",
+    "description": "تصميم استراتيجيات تهدف إلى تسهيل عمليات التغيير داخل المؤسسة بطريقة سلسة وفعالة."
+    },
+    {
+    "original": "Writing project communication plans",
+    "translated": "إعداد خطط التواصل للمشاريع",
+    "description": "وضع خطط تحدد طرق وأدوات التواصل بين أعضاء فريق المشروع وأصحاب المصلحة."
+    },
+    {
+    "original": "Creating expense reports",
+    "translated": "إعداد تقارير المصاريف",
+    "description": "تحليل وتوثيق التكاليف التي تم إنفاقها خلال المشروع لضمان الشفافية المالية."
+    },
+    {
+    "original": "Developing project closeout reports",
+    "translated": "إعداد تقارير إغلاق المشاريع",
+    "description": "توثيق الأداء النهائي للمشروع، الدروس المستفادة، والتوصيات للمشاريع المستقبلية."
+    },
+    {
+    "original": "Creating resource allocation plans",
+    "translated": "إعداد خطط تخصيص الموارد",
+    "description": "توزيع الموارد البشرية والمادية لضمان تحقيق أقصى كفاءة في تنفيذ المشروع."
+    },
+    {
+    "original": "Creating progress reports",
+    "translated": "إعداد تقارير التقدم",
+    "description": "إعداد تقارير توضح مدى التقدم في تنفيذ المشروع والتحديات التي تم التغلب عليها."
+    },
+    {
+    "original": "Writing resource utilization reports",
+    "translated": "إعداد تقارير استخدام الموارد",
+    "description": "تحليل كيفية استخدام الموارد المختلفة في المشروع لتحديد فرص التحسين."
+    },
+    {
+    "original": "Developing project scope documents",
+    "translated": "إعداد وثائق نطاق المشروع",
+    "description": "تحديد الأهداف والحدود الرئيسية للمشروع لضمان وضوح المهام والمسؤوليات."
+    },
+    {
+    "original": "Writing project proposals",
+    "translated": "إعداد مقترحات المشاريع",
+    "description": "تصميم وثائق تفصيلية تعرض فكرة المشروع، الأهداف، والتكاليف المطلوبة للموافقة عليه."
+    },
+    {
+    "original": "Writing follow-up emails",
+    "translated": "كتابة رسائل متابعة البريد الإلكتروني",
+    "description": "إعداد رسائل إلكترونية لمتابعة العملاء، الشركاء، أو الموظفين لضمان تنفيذ المهام المطلوبة."
+    },
+    {
+    "original": "Creating to-do lists",
+    "translated": "إعداد قوائم المهام",
+    "description": "تصميم قوائم بالمهام اليومية أو الأسبوعية لمساعدة الفرق على تنظيم أعمالهم بفعالية."
+    },
+    {
+    "original": "Writing performance reviews",
+    "translated": "إعداد تقييمات الأداء",
+    "description": "كتابة تقييمات دورية لأداء الموظفين لتحديد نقاط القوة وفرص التحسين."
+    },
+    {
+    "original": "Developing project risk assessments",
+    "translated": "إعداد تقييمات مخاطر المشاريع",
+    "description": "تحليل المخاطر المحتملة للمشروع ووضع استراتيجيات للتعامل معها لضمان تحقيق النجاح."
+    },
+    {
+    "original": "Writing property descriptions",
+    "translated": "كتابة أوصاف العقارات",
+    "description": "إعداد أوصاف جذابة للعقارات تبرز المزايا الرئيسية وتساعد في جذب المشترين أو المستأجرين المحتملين."
+    },
+    {
+    "original": "Creating website content",
+    "translated": "إنشاء محتوى المواقع الإلكترونية",
+    "description": "تطوير محتوى رقمي فعال يشمل صفحات الموقع، المدونات، والعروض الترويجية لتعزيز وجود العلامة التجارية على الإنترنت."
+    },
+    {
+    "original": "Generating sales scripts",
+    "translated": "إعداد نصوص المبيعات",
+    "description": "كتابة نصوص مقنعة لمساعدة فرق المبيعات في التعامل مع العملاء المحتملين وتحقيق المزيد من التحويلات."
+    },
+    {
+    "original": "Developing marketing strategy plans",
+    "translated": "إعداد خطط استراتيجيات التسويق",
+    "description": "تصميم استراتيجيات تسويقية شاملة تشمل القنوات الرقمية والتقليدية لتحقيق أهداف العلامة التجارية."
+    },
+    {
+    "original": "Creating brand awareness campaigns",
+    "translated": "إعداد حملات تعزيز الوعي بالعلامة التجارية",
+    "description": "تصميم حملات تسويقية تهدف إلى زيادة الوعي بالعلامة التجارية وتحسين تفاعل الجمهور معها."
+    },
+    {
+    "original": "Writing case studies",
+    "translated": "كتابة دراسات الحالة",
+    "description": "إعداد دراسات تفصيلية تعرض نجاحات المنتجات أو الخدمات، مدعومة بالبيانات والشهادات الحقيقية من العملاء."
+    },
+    {
+    "original": "Crafting advertising slogans",
+    "translated": "إنشاء شعارات إعلانية",
+    "description": "تطوير شعارات تسويقية مبتكرة وجذابة تعزز من هوية العلامة التجارية وتساعد في جذب العملاء."
+    },
+    {
+    "original": "Crafting seller personas",
+    "translated": "إنشاء شخصيات البائعين المستهدفين",
+    "description": "تحليل وتحديد مواصفات الفئات المستهدفة من البائعين لمساعدتهم في تحقيق المزيد من المبيعات."
+    },
+    {
+    "original": "Generating social media posts",
+    "translated": "إنشاء منشورات لوسائل التواصل الاجتماعي",
+    "description": "إعداد محتوى جذاب وفعال لمنصات التواصل الاجتماعي لتعزيز التفاعل وزيادة المتابعين."
+    },
+    {
+    "original": "Creating press releases",
+    "translated": "إعداد البيانات الصحفية",
+    "description": "كتابة بيانات صحفية احترافية للإعلان عن المنتجات الجديدة أو الأخبار المهمة للعلامة التجارية."
+    },
+    {
+    "original": "Writing buyer personas",
+    "translated": "إعداد شخصيات المشترين المستهدفين",
+    "description": "تحليل الفئات المستهدفة من المشترين لفهم احتياجاتهم وسلوكهم الشرائي لإنشاء حملات تسويقية أكثر فعالية."
+    },
+    {
+    "original": "Writing value proposition statements",
+    "translated": "كتابة بيانات القيمة المقترحة",
+    "description": "إعداد جمل توضيحية تبرز القيمة الفريدة للمنتج أو الخدمة التي تجعلها مميزة عن المنافسين."
+    },
+    {
+    "original": "Developing SEO content",
+    "translated": "إعداد محتوى محسن لمحركات البحث (SEO)",
+    "description": "كتابة محتوى متوافق مع معايير تحسين محركات البحث لزيادة ظهور الموقع في نتائج البحث."
+    },
+    {
+    "original": "Writing marketing copy for online ads",
+    "translated": "كتابة نصوص إعلانية للإعلانات الرقمية",
+    "description": "إعداد محتوى إعلاني قصير وجذاب للإعلانات الرقمية على محركات البحث ووسائل التواصل الاجتماعي."
+    },
+    {
+    "original": "Writing property highlight sheets",
+    "translated": "إعداد أوراق مميزة للعقارات",
+    "description": "إنشاء مستندات تبرز الميزات الفريدة للعقارات لجذب المشترين المحتملين."
+    },
+    {
+    "original": "Generating video scripts",
+    "translated": "كتابة نصوص الفيديو",
+    "description": "إعداد سيناريوهات للفيديوهات التسويقية التي تعرض المنتجات أو الخدمات بطريقة جذابة."
+    },
+    {
+    "original": "Developing brand messaging",
+    "translated": "تطوير رسائل العلامة التجارية",
+    "description": "تصميم رسائل تسويقية موحدة تعكس هوية العلامة التجارية وتعزز مكانتها في السوق."
+    },
+    {
+    "original": "Creating lead magnets",
+    "translated": "إعداد مغناطيس العملاء المحتملين",
+    "description": "تصميم محتوى مجاني قيم مثل الأدلة والتقارير لجذب العملاء المحتملين وتحفيزهم على التفاعل مع العلامة التجارية."
+    },
+    {
+    "original": "Crafting open house invitations",
+    "translated": "إعداد دعوات لحفلات المنازل المفتوحة",
+    "description": "كتابة دعوات احترافية لجذب العملاء المحتملين لزيارة العقارات المعروضة للبيع أو الإيجار."
+    },
+    {
+    "original": "Creating Google Ads copy",
+    "translated": "كتابة نصوص إعلانات Google",
+    "description": "إعداد نصوص فعالة لإعلانات Google لزيادة معدل النقرات والتحويلات."
+    },
+    {
+    "original": "Developing virtual tour scripts",
+    "translated": "إعداد نصوص الجولات الافتراضية",
+    "description": "كتابة سيناريوهات مخصصة للجولات العقارية الافتراضية التي تمنح العملاء تجربة واقعية عن بعد."
+    },
+    {
+    "original": "Developing email campaigns",
+    "translated": "إعداد حملات البريد الإلكتروني",
+    "description": "تصميم حملات تسويقية عبر البريد الإلكتروني لتعزيز التواصل مع العملاء وزيادة المبيعات."
+    },
+    {
+    "original": "Creating flyers & brochures",
+    "translated": "إعداد المنشورات والكتيبات التسويقية",
+    "description": "تصميم مواد دعائية مثل الفلايرات والكتيبات لتعزيز الحملات التسويقية."
+    },
+    {
+    "original": "Writing marketing emails",
+    "translated": "كتابة رسائل البريد الإلكتروني التسويقية",
+    "description": "إعداد رسائل بريد إلكتروني جذابة تهدف إلى زيادة التفاعل مع العملاء وتعزيز العلامة التجارية."
+    },
+    {
+    "original": "Writing blog posts",
+    "translated": "كتابة مقالات المدونات",
+    "description": "إعداد مقالات تسويقية غنية بالمعلومات تساعد في تحسين محركات البحث وزيادة الوعي بالعلامة التجارية."
+    },
+    {
+    "original": "Creating client retention campaigns",
+    "translated": "إعداد حملات الاحتفاظ بالعملاء",
+    "description": "تصميم استراتيجيات تسويقية تهدف إلى تعزيز ولاء العملاء وتحفيزهم على الاستمرار في التعامل مع العلامة التجارية."
+    },
+    {
+    "original": "Developing client onboarding content",
+    "translated": "إعداد محتوى تأهيل العملاء الجدد",
+    "description": "إنشاء مواد ترحيبية وإرشادية لمساعدة العملاء الجدد على فهم المنتجات أو الخدمات المقدمة والاستفادة منها بفعالية."
+    },
+    {
+    "original": "Developing client retention metrics",
+    "translated": "تطوير مؤشرات قياس الاحتفاظ بالعملاء",
+    "description": "إعداد معايير تحليلية تساعد في قياس مدى رضا العملاء ومستوى التفاعل معهم بمرور الوقت."
+    },
+    {
+    "original": "Developing feedback surveys",
+    "translated": "إعداد استبيانات ملاحظات العملاء",
+    "description": "تصميم استبيانات لقياس تجربة العملاء وجمع ملاحظاتهم لتحسين الخدمات والمنتجات."
+    },
+    {
+    "original": "Creating satisfaction surveys",
+    "translated": "إعداد استبيانات رضا العملاء",
+    "description": "تطوير استبيانات تهدف إلى قياس مدى رضا العملاء عن الخدمات المقدمة وتحليل بياناتهم لاتخاذ قرارات تحسينية."
+    },
+    {
+    "original": "Writing goodbye letters",
+    "translated": "كتابة رسائل وداع للعملاء",
+    "description": "إعداد رسائل احترافية تودع العملاء بطريقة إيجابية وتشجعهم على العودة مستقبلاً."
+    },
+    {
+    "original": "Creating welcome packets",
+    "translated": "إعداد حزم ترحيبية للعملاء",
+    "description": "تصميم مواد ترحيبية تتضمن معلومات أساسية حول الخدمات المقدمة وكيفية الاستفادة منها."
+    },
+    {
+    "original": "Creating client outreach content",
+    "translated": "إعداد محتوى تواصل مع العملاء",
+    "description": "تصميم محتوى يساعد في التواصل المستمر مع العملاء وتعزيز علاقتهم بالعلامة التجارية."
+    },
+    {
+    "original": "Writing introductory letters",
+    "translated": "كتابة رسائل تعريفية",
+    "description": "إعداد رسائل تعريفية احترافية لشرح الخدمات أو المنتجات الجديدة للعملاء المحتملين."
+    },
+    {
+    "original": "Creating customer feedback surveys",
+    "translated": "إعداد استبيانات آراء العملاء",
+    "description": "تصميم استبيانات لجمع ملاحظات العملاء حول المنتجات أو الخدمات لتحسين جودة الأداء."
+    },
+    {
+    "original": "Writing customer satisfaction follow-up emails",
+    "translated": "كتابة رسائل متابعة رضا العملاء",
+    "description": "إعداد رسائل بريد إلكتروني لمتابعة العملاء بعد استخدام المنتج أو الخدمة لمعرفة مدى رضاهم."
+    },
+    {
+    "original": "Crafting customer loyalty campaigns",
+    "translated": "إعداد حملات ولاء العملاء",
+    "description": "تصميم حملات تسويقية تهدف إلى مكافأة العملاء المخلصين وتحفيزهم على الاستمرار في التعامل مع العلامة التجارية."
+    },
+    {
+    "original": "Writing client performance reports",
+    "translated": "إعداد تقارير أداء العملاء",
+    "description": "تحليل بيانات العملاء وإعداد تقارير توضح مدى تفاعلهم مع المنتجات والخدمات المقدمة."
+    },
+    {
+    "original": "Writing client testimonials",
+    "translated": "كتابة شهادات العملاء",
+    "description": "إعداد شهادات موثوقة من العملاء توضح تجاربهم الإيجابية مع العلامة التجارية وتعزز المصداقية."
+    },
+    {
+    "original": "Writing complaint response emails",
+    "translated": "كتابة رسائل بريد إلكتروني للرد على الشكاوى",
+    "description": "إعداد رسائل احترافية للرد على شكاوى العملاء بطريقة فعالة تحافظ على رضاهم وتعزز الثقة في الخدمة."
+    },
+    {
+    "original": "Writing testimonial requests",
+    "translated": "كتابة طلبات الشهادات التوصيفية",
+    "description": "إعداد رسائل تطلب من العملاء مشاركة تجاربهم الإيجابية مع المنتجات أو الخدمات لزيادة المصداقية وجذب عملاء جدد."
+    },
+    {
+    "original": "Creating upsell campaigns",
+    "translated": "إعداد حملات البيع الإضافي",
+    "description": "تصميم حملات تسويقية تستهدف العملاء الحاليين بعروض مميزة لمنتجات أو خدمات ذات قيمة أعلى."
+    },
+    {
+    "original": "Crafting referral requests",
+    "translated": "إعداد طلبات الإحالة",
+    "description": "إنشاء طلبات تشجع العملاء الحاليين على إحالة أصدقائهم وعائلاتهم للاستفادة من العروض والخدمات."
+    },
+    {
+    "original": "Crafting client engagement strategies",
+    "translated": "تطوير استراتيجيات تفاعل العملاء",
+    "description": "وضع خطط تسويقية تهدف إلى زيادة تفاعل العملاء مع العلامة التجارية وتعزيز علاقتهم بها."
+    },
+    {
+    "original": "Developing cross-sell campaigns",
+    "translated": "إعداد حملات البيع المتقاطع",
+    "description": "تصميم حملات ترويجية تقترح منتجات أو خدمات مكملة للعروض الحالية لزيادة متوسط قيمة الطلبات."
+    },
+    {
+    "original": "Developing referral programs",
+    "translated": "إعداد برامج الإحالة",
+    "description": "تصميم برامج تشجع العملاء على إحالة معارفهم مقابل مكافآت أو عروض خاصة."
+    },
+    {
+    "original": "Creating client satisfaction reports",
+    "translated": "إعداد تقارير رضا العملاء",
+    "description": "تحليل بيانات العملاء لإعداد تقارير توضح مدى رضاهم عن الخدمات المقدمة."
+    },
+    {
+    "original": "Developing customer feedback metrics",
+    "translated": "إعداد مقاييس ملاحظات العملاء",
+    "description": "تصميم معايير تحليلية لقياس مدى رضا العملاء وتقييم تجربتهم مع العلامة التجارية."
+    },
+    {
+    "original": "Developing customer experience scripts",
+    "translated": "إعداد نصوص تجربة العملاء",
+    "description": "تصميم سيناريوهات مخصصة لتوجيه فرق الدعم والمبيعات في تحسين تجربة العملاء."
+    },
+    {
+    "original": "Writing client win-back scripts",
+    "translated": "كتابة نصوص استعادة العملاء",
+    "description": "إعداد نصوص مخصصة لإعادة جذب العملاء السابقين وتحفيزهم على العودة للتعامل مع العلامة التجارية."
+    },
+    {
+    "original": "Developing net promoter score (NPS) surveys",
+    "translated": "إعداد استبيانات مؤشر صافي المروجين (NPS)",
+    "description": "تصميم استبيانات تقيس مدى استعداد العملاء للتوصية بالعلامة التجارية بناءً على تجربتهم."
+    },
+    {
+    "original": "Writing client service agreements",
+    "translated": "كتابة اتفاقيات خدمة العملاء",
+    "description": "إعداد وثائق توضح الشروط والأحكام الخاصة بتقديم الخدمات للحفاظ على الشفافية والوضوح."
+    },
+    {
+    "original": "Crafting loyalty program content",
+    "translated": "إعداد محتوى برامج الولاء",
+    "description": "إنشاء محتوى ترويجي يشرح مزايا وبرامج الولاء للعملاء الحاليين والمحتملين."
+    },
+    {
+    "original": "Developing thank-you notes",
+    "translated": "إعداد رسائل شكر",
+    "description": "كتابة رسائل شكر مخصصة لإظهار التقدير للعملاء وتعزيز علاقتهم بالعلامة التجارية."
+    },
+    {
+    "original": "Crafting client education content",
+    "translated": "إعداد محتوى تثقيفي للعملاء",
+    "description": "إنشاء مواد تعليمية تساعد العملاء على فهم كيفية استخدام المنتجات أو الخدمات بفعالية."
+    },
+    
   ]
 }
