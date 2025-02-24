@@ -3791,5 +3791,770 @@
     "translated": "إجراء أبحاث حول وجهات السفر",
     "description": "تحليل الوجهات السياحية من حيث المناخ، الأمان، والأنشطة المتاحة لمساعدة المسافرين في اختيار الأنسب لهم."
     },
+    {
+    "original": "Customer Support",
+    "translated": "دعم العملاء",
+    "description": "دعم العملاء هو تقديم المساعدة والإرشاد للمستخدمين لحل المشكلات والاستفسارات المتعلقة بالمنتجات أو الخدمات. يشمل ذلك الرد على الأسئلة، تقديم الحلول التقنية، إدارة الشكاوى، وتحسين تجربة العملاء من خلال تقديم دعم سريع وفعال عبر قنوات متعددة مثل البريد الإلكتروني، الدردشة المباشرة، ووسائل التواصل الاجتماعي."
+    },
+    {
+    "original": "Generating product descriptions",
+    "translated": "إنشاء أوصاف المنتجات",
+    "description": "كتابة أوصاف تفصيلية للمنتجات تبرز ميزاتها وفوائدها لجذب العملاء وزيادة المبيعات."
+    },
+    {
+    "original": "Creating video tutorials for products",
+    "translated": "إعداد دروس فيديو تعليمية للمنتجات",
+    "description": "إنتاج مقاطع فيديو توضيحية تشرح كيفية استخدام المنتجات لتحسين تجربة العملاء."
+    },
+    {
+    "original": "Creating FAQs for products",
+    "translated": "إعداد قسم الأسئلة الشائعة للمنتجات",
+    "description": "تصميم قوائم بالأسئلة الأكثر شيوعًا حول المنتج مع إجابات واضحة لمساعدة العملاء في العثور على المعلومات بسهولة."
+    },
+    {
+    "original": "Providing technical specifications",
+    "translated": "تقديم المواصفات التقنية",
+    "description": "إعداد مستندات تفصيلية توضح الخصائص التقنية للمنتجات لضمان فهم المستخدمين لها."
+    },
+    {
+    "original": "Generating product usage instructions",
+    "translated": "إعداد تعليمات استخدام المنتجات",
+    "description": "تصميم أدلة إرشادية توضح كيفية استخدام المنتجات بطريقة فعالة وآمنة."
+    },
+    {
+    "original": "Generating product release notes",
+    "translated": "إعداد ملاحظات إصدار المنتجات",
+    "description": "كتابة تقارير توضح التحديثات الجديدة للمنتجات وما تم تحسينه أو إضافته."
+    },
+    {
+    "original": "Providing product recommendations",
+    "translated": "تقديم توصيات المنتجات",
+    "description": "اقتراح منتجات مناسبة للعملاء بناءً على احتياجاتهم وتفضيلاتهم السابقة."
+    },
+    {
+    "original": "Generating product manuals",
+    "translated": "إعداد أدلة المستخدم للمنتجات",
+    "description": "تصميم كتيبات تعليمية توضح طريقة تركيب واستخدام المنتجات بشكل مفصل."
+    },
+    {
+    "original": "Creating installation instructions",
+    "translated": "إعداد تعليمات التثبيت",
+    "description": "كتابة خطوات واضحة لتركيب وتثبيت المنتجات بطريقة صحيحة وآمنة."
+    },
+    {
+    "original": "Generating comparison charts",
+    "translated": "إنشاء جداول مقارنة المنتجات",
+    "description": "إعداد جداول مقارنة تسلط الضوء على الفروقات بين المنتجات المختلفة لمساعدة العملاء في اتخاذ قرارات مستنيرة."
+    },
+    {
+    "original": "Creating upsell and cross-sell recommendations",
+    "translated": "إعداد توصيات البيع الإضافي والتكميلي",
+    "description": "اقتراح منتجات إضافية أو مكملة لزيادة قيمة سلة الشراء وتعزيز المبيعات."
+    },
+    {
+    "original": "Creating sales scripts",
+    "translated": "إعداد نصوص المبيعات",
+    "description": "كتابة نصوص جاهزة لفرق المبيعات لمساعدتهم في تقديم المنتجات وإقناع العملاء بشرائها."
+    },
+    {
+    "original": "Generating product bundle offers",
+    "translated": "إنشاء عروض حزم المنتجات",
+    "description": "تصميم عروض بيع تجمع بين عدة منتجات بأسعار مخفضة لزيادة قيمة المبيعات."
+    },
+    {
+    "original": "Creating holiday and seasonal promotion",
+    "translated": "إعداد العروض الترويجية للمواسم والعطلات",
+    "description": "تصميم حملات ترويجية خاصة بالأعياد والمواسم لزيادة المبيعات خلال الفترات المستهدفة."
+    },
+    {
+    "original": "Generating promotional product images",
+    "translated": "إعداد صور ترويجية للمنتجات",
+    "description": "تصميم صور احترافية وجذابة تستخدم في الإعلانات والعروض الترويجية للمنتجات."
+    },
+    {
+    "original": "Generating sales leads",
+    "translated": "توليد عملاء محتملين للمبيعات",
+    "description": "البحث عن عملاء جدد وتجميع بياناتهم لدعم جهود المبيعات والتواصل معهم."
+    },
+    {
+    "original": "Generating promotional emails",
+    "translated": "إعداد رسائل بريد إلكتروني ترويجية",
+    "description": "كتابة رسائل تسويقية مصممة لزيادة التفاعل والمبيعات عبر البريد الإلكتروني."
+    },
+    {
+    "original": "Creating event-specific promotions",
+    "translated": "إعداد عروض ترويجية خاصة بالفعاليات",
+    "description": "تصميم حملات ترويجية تستهدف أحداث وفعاليات محددة لتعزيز المبيعات."
+    },
+    {
+    "original": "Creating discount codes",
+    "translated": "إعداد أكواد الخصم",
+    "description": "تصميم أكواد خصم يمكن استخدامها في العروض الترويجية لجذب العملاء وتحفيز الشراء."
+    },
+    {
+    "original": "Creating marketing copy",
+    "translated": "كتابة نصوص تسويقية",
+    "description": "إعداد محتوى إعلاني وتسويقي يعزز من جاذبية المنتجات ويزيد من نسبة التحويل."
+    },
+    {
+    "original": "Tracking and analyzing customer data to provide targeted solutions",
+    "translated": "تتبع وتحليل بيانات العملاء لتقديم حلول مستهدفة",
+    "description": "تحليل بيانات المكالمات والتفاعلات لفهم احتياجات العملاء وتقديم حلول مخصصة تعزز تجربتهم."
+    },
+    {
+    "original": "Generating phone campaigns to promote products or services",
+    "translated": "إعداد حملات هاتفية للترويج للمنتجات أو الخدمات",
+    "description": "تصميم وتنفيذ حملات تسويقية عبر الهاتف لزيادة الوعي بالعلامة التجارية وتحفيز المبيعات."
+    },
+    {
+    "original": "Handling customer returns and refunds over the phone",
+    "translated": "معالجة عمليات الإرجاع واسترداد الأموال عبر الهاتف",
+    "description": "تقديم المساعدة للعملاء في إرجاع المنتجات ومعالجة طلبات الاسترداد بسرعة وكفاءة."
+    },
+    {
+    "original": "Providing promotional discounts and offers over the phone",
+    "translated": "تقديم خصومات وعروض ترويجية عبر الهاتف",
+    "description": "إبلاغ العملاء بالعروض الترويجية والخصومات الخاصة لتحفيز عمليات الشراء."
+    },
+    {
+    "original": "Generating phone templates to ensure consistent messaging",
+    "translated": "إعداد قوالب المكالمات لضمان اتساق الرسائل",
+    "description": "تصميم نصوص موحدة لضمان تقديم رسائل واضحة ومتسقة أثناء المكالمات الهاتفية مع العملاء."
+    },
+    {
+    "original": "Generating weekly phone reports for insights and improvement",
+    "translated": "إعداد تقارير أسبوعية للمكالمات لاستخلاص الرؤى وتحسين الأداء",
+    "description": "تحليل بيانات المكالمات الهاتفية أسبوعيًا لتحديد اتجاهات العملاء وتحسين جودة الخدمة."
+    },
+    {
+    "original": "Handling escalated customer issues and complaints over the phone",
+    "translated": "التعامل مع شكاوى العملاء والمشكلات المعقدة عبر الهاتف",
+    "description": "معالجة المشكلات الحساسة والشكاوى المعقدة بحلول فعالة واحترافية لضمان رضا العملاء."
+    },
+    {
+    "original": "Addressing shipping and delivery issues over the phone",
+    "translated": "معالجة مشكلات الشحن والتوصيل عبر الهاتف",
+    "description": "مساعدة العملاء في تتبع شحناتهم وحل مشكلات التأخير أو التوصيل الخاطئ بسرعة."
+    },
+    {
+    "original": "Offering account management and security support over the phone",
+    "translated": "تقديم دعم لإدارة الحسابات والأمان عبر الهاتف",
+    "description": "مساعدة العملاء في تحديث بيانات حساباتهم، تأمينها، واستعادة الوصول في حالة المشاكل الأمنية."
+    },
+    {
+    "original": "Creating scripts for complex issues and inquiries",
+    "translated": "إعداد نصوص لمواجهة المشكلات المعقدة والاستفسارات",
+    "description": "تصميم نصوص متخصصة لمساعدة ممثلي الدعم في التعامل مع الاستفسارات الفنية المعقدة."
+    },
+    {
+    "original": "Offering payment and billing support over the phone",
+    "translated": "تقديم دعم الفوترة والمدفوعات عبر الهاتف",
+    "description": "مساعدة العملاء في فهم الفواتير، معالجة المدفوعات، وحل المشكلات المتعلقة بالرسوم."
+    },
+    {
+    "original": "Generating phone analytics to track call performance and trends",
+    "translated": "تحليل بيانات المكالمات الهاتفية لتتبع الأداء والاتجاهات",
+    "description": "جمع وتحليل بيانات المكالمات لفهم جودة الخدمة وتحسين تجربة العملاء."
+    },
+    {
+    "original": "Creating onboarding phone conversations for new customers",
+    "translated": "إعداد محادثات هاتفية للترحيب بالعملاء الجدد",
+    "description": "تصميم مكالمات ترحيبية لتقديم معلومات أساسية عن المنتج أو الخدمة الجديدة للعملاء الجدد."
+    },
+    {
+    "original": "Handling product warranty and repair issues over the phone",
+    "translated": "التعامل مع مشكلات الضمان والصيانة عبر الهاتف",
+    "description": "إرشاد العملاء حول تغطية الضمان، إجراءات الصيانة، وكيفية تقديم طلبات الإصلاح."
+    },
+    {
+    "original": "Moderating inappropriate or abusive phone conversations",
+    "translated": "إدارة المحادثات الهاتفية غير اللائقة أو المسيئة",
+    "description": "التعامل مع العملاء الصعبين بلباقة وإيقاف أي تفاعل غير لائق وفقًا لسياسات الشركة."
+    },
+    {
+    "original": "Creating phone logs for tracking and reporting purposes",
+    "translated": "إعداد سجلات المكالمات لأغراض التتبع والتقارير",
+    "description": "تسجيل تفاصيل المكالمات لضمان تتبع البيانات وتحليل أداء الدعم الهاتفي."
+    },
+    {
+    "original": "Handling phone complaints with empathy and effective solution",
+    "translated": "معالجة شكاوى العملاء عبر الهاتف بتعاطف وحلول فعالة",
+    "description": "الاستماع بإنصات لشكاوى العملاء وتقديم حلول تلبي احتياجاتهم بفعالية."
+    },
+    {
+    "original": "Managing phone queues and handling high volume call periods",
+    "translated": "إدارة طوابير المكالمات وفترات الازدحام الهاتفي",
+    "description": "تنظيم تدفق المكالمات أثناء أوقات الذروة لضمان استجابة سريعة وفعالة."
+    },
+    {
+    "original": "Providing personalized product recommendations and upsells over the phone",
+    "translated": "تقديم توصيات مخصصة وبيع إضافي عبر الهاتف",
+    "description": "اقتراح منتجات مكملة أو ترقيات مخصصة بناءً على احتياجات العميل."
+    },
+    {
+    "original": "Generating automated responses for common issues and inquiries",
+    "translated": "إعداد ردود تلقائية للمشكلات الشائعة والاستفسارات",
+    "description": "تصميم ردود جاهزة لأسئلة العملاء المتكررة لتحسين سرعة الاستجابة."
+    },
+    {
+    "original": "Providing personalized product advice and recommendations",
+    "translated": "تقديم استشارات مخصصة للمنتجات",
+    "description": "مساعدة العملاء في اختيار المنتجات التي تناسب احتياجاتهم عبر استشارات شخصية."
+    },
+    {
+    "original": "Offering customer retention and loyalty support over the phone",
+    "translated": "تقديم دعم الاحتفاظ بالعملاء وبرامج الولاء عبر الهاتف",
+    "description": "التواصل مع العملاء لتعزيز ولائهم من خلال العروض الحصرية والحوافز."
+    },
+    {
+    "original": "Troubleshooting technical problems over the phone",
+    "translated": "حل المشكلات التقنية عبر الهاتف",
+    "description": "إرشاد العملاء خلال خطوات استكشاف الأخطاء وإصلاحها لضمان تشغيل المنتجات بكفاءة."
+    },
+    {
+    "original": "Offering guidance and solutions for website or app issues over the phone",
+    "translated": "تقديم حلول لمشكلات الموقع الإلكتروني أو التطبيق عبر الهاتف",
+    "description": "مساعدة العملاء في حل المشكلات التقنية المتعلقة بالموقع الإلكتروني أو التطبيق لضمان تجربة استخدام سلسة."
+    },
+    {
+    "original": "Providing product education and training over the phone",
+    "translated": "تقديم تدريب وتعليم حول المنتجات عبر الهاتف",
+    "description": "إرشاد العملاء حول كيفية استخدام المنتجات بفعالية من خلال مكالمات توجيهية."
+    },
+    {
+    "original": "Providing personalized solutions and recommendations over the phone",
+    "translated": "تقديم حلول وتوصيات مخصصة عبر الهاتف",
+    "description": "تحليل احتياجات العملاء واقتراح حلول مصممة خصيصًا لتلبية متطلباتهم."
+    },
+    {
+    "original": "Generating quick, concise responses over the phone",
+    "translated": "إعداد ردود سريعة وموجزة عبر الهاتف",
+    "description": "تقديم ردود مختصرة وفعالة لضمان تجربة تواصل سلسة وسريعة مع العملاء."
+    },
+    {
+    "original": "Creating and delivering effective phone support training",
+    "translated": "إعداد وتقديم تدريب فعال لدعم العملاء عبر الهاتف",
+    "description": "تطوير مواد تدريبية لمساعدة فرق الدعم الهاتفي على تحسين مهارات التواصل وحل المشكلات."
+    },
+    {
+    "original": "Providing instant phone support for urgent issues",
+    "translated": "تقديم دعم فوري عبر الهاتف للمشكلات العاجلة",
+    "description": "الاستجابة السريعة للمكالمات الطارئة وحل المشكلات الملحة لضمان رضا العملاء."
+    },
+    {
+    "original": "Providing customer feedback surveys over the phone",
+    "translated": "إجراء استبيانات رضا العملاء عبر الهاتف",
+    "description": "جمع ملاحظات العملاء حول الخدمة أو المنتج لتحسين جودة الدعم والتجربة العامة."
+    },
+    {
+    "original": "Offering personalized product advice",
+    "translated": "تقديم استشارات مخصصة حول المنتجات",
+    "description": "مساعدة العملاء من خلال الدردشة بتقديم توصيات مخصصة حول المنتجات بناءً على احتياجاتهم وتفضيلاتهم."
+    },
+    {
+    "original": "Analyzing chat data to improve responses",
+    "translated": "تحليل بيانات الدردشة لتحسين الردود",
+    "description": "استخدام البيانات المستخلصة من الدردشات السابقة لتحسين جودة الاستجابات وزيادة رضا العملاء."
+    },
+    {
+    "original": "Providing customer insights through chat",
+    "translated": "تقديم تحليلات حول العملاء من خلال الدردشة",
+    "description": "جمع وتحليل بيانات الدردشة لفهم سلوك العملاء وتقديم تجربة دعم محسّنة."
+    },
+    {
+    "original": "Creating chat scripts for common issues",
+    "translated": "إعداد نصوص دردشة للمشكلات الشائعة",
+    "description": "تصميم ردود جاهزة للأسئلة المتكررة لتسريع الاستجابة وتحسين تجربة العملاء."
+    },
+    {
+    "original": "Increasing chat engagement and satisfaction",
+    "translated": "زيادة التفاعل والرضا عبر الدردشة",
+    "description": "تطوير استراتيجيات تفاعلية لجعل تجربة الدردشة أكثر جاذبية وكفاءة."
+    },
+    {
+    "original": "Building customer trust and loyalty through chat support",
+    "translated": "بناء الثقة والولاء لدى العملاء من خلال دعم الدردشة",
+    "description": "تقديم دعم شخصي وسريع يعزز ثقة العملاء ويزيد من ولائهم للعلامة التجارية."
+    },
+    {
+    "original": "Managing chat presence across channels",
+    "translated": "إدارة تواجد الدردشة عبر القنوات المختلفة",
+    "description": "تنسيق الدردشة بين مختلف المنصات لضمان استجابة سريعة ومتسقة للعملاء."
+    },
+    {
+    "original": "Creating chat workflows for faster resolution",
+    "translated": "إعداد تدفقات عمل الدردشة لحل المشكلات بسرعة",
+    "description": "تصميم أنظمة دردشة منظمة تساعد في تسريع حل المشكلات وتقديم دعم فعال."
+    },
+    {
+    "original": "Resolving customer issues efficiently",
+    "translated": "حل مشكلات العملاء بفعالية",
+    "description": "استخدام استراتيجيات الدردشة لحل مشكلات العملاء بسرعة وكفاءة لضمان رضاهم."
+    },
+    {
+    "original": "Monitoring chat conversations",
+    "translated": "مراقبة محادثات الدردشة",
+    "description": "متابعة المحادثات المباشرة لضمان الامتثال للمعايير وتحسين جودة الدعم."
+    },
+    {
+    "original": "Utilizing chat feedback to improve overall experience",
+    "translated": "استخدام ملاحظات الدردشة لتحسين التجربة العامة",
+    "description": "تحليل ردود العملاء عبر الدردشة لتحسين الخدمات والاستجابة لاحتياجاتهم."
+    },
+    {
+    "original": "Managing chatbot and virtual assistant performance",
+    "translated": "إدارة أداء روبوتات الدردشة والمساعدين الافتراضيين",
+    "description": "تحليل وتحديث أداء أنظمة الدردشة الآلية لضمان استجابات دقيقة وسريعة."
+    },
+    {
+    "original": "Moderating inappropriate chat messages",
+    "translated": "إدارة وحذف الرسائل غير اللائقة في الدردشة",
+    "description": "مراقبة المحادثات لمنع المحتوى غير المناسب وضمان بيئة تواصل محترمة."
+    },
+    {
+    "original": "Collaborating with other support teams",
+    "translated": "التعاون مع فرق الدعم الأخرى",
+    "description": "تنسيق الجهود بين فرق الدعم المختلفة لتحسين تجربة العملاء عبر جميع القنوات."
+    },
+    {
+    "original": "Providing training and guidelines for chat support",
+    "translated": "تقديم تدريب وإرشادات لدعم الدردشة",
+    "description": "إعداد مواد تدريبية للفرق لتقديم دعم دردشة احترافي وفعال."
+    },
+    {
+    "original": "Generating weekly chat reports",
+    "translated": "إعداد تقارير أسبوعية حول الدردشة",
+    "description": "تحليل بيانات الدردشة وإعداد تقارير لتقييم الأداء وتحسين الخدمات."
+    },
+    {
+    "original": "Providing instant chat support",
+    "translated": "تقديم دعم فوري عبر الدردشة",
+    "description": "تقديم استجابات سريعة في الوقت الفعلي لمعالجة استفسارات العملاء فورًا."
+    },
+    {
+    "original": "Handling chat support crises in real-time",
+    "translated": "إدارة أزمات دعم الدردشة في الوقت الفعلي",
+    "description": "التعامل مع الحالات الطارئة عبر الدردشة بفعالية لضمان استمرارية الخدمة."
+    },
+    {
+    "original": "Generating customized chat responses",
+    "translated": "إنشاء ردود دردشة مخصصة",
+    "description": "إعداد ردود مخصصة تتناسب مع احتياجات كل عميل لضمان تجربة شخصية ومميزة."
+    },
+    {
+    "original": "Generating email templates for faster response",
+    "translated": "إنشاء قوالب بريد إلكتروني للاستجابة السريعة",
+    "description": "إعداد رسائل بريد إلكتروني جاهزة للمساعدة في الرد السريع على استفسارات العملاء وتحسين كفاءة الدعم."
+    },
+    {
+    "original": "Handling shipping and delivery issues",
+    "translated": "معالجة مشكلات الشحن والتوصيل",
+    "description": "مساعدة العملاء في تتبع شحناتهم وحل مشكلات التأخير أو الأخطاء في عمليات التوصيل عبر البريد الإلكتروني."
+    },
+    {
+    "original": "Offering guidance for online security issues",
+    "translated": "تقديم إرشادات حول مشكلات الأمان عبر الإنترنت",
+    "description": "إرشاد العملاء حول كيفية حماية حساباتهم من الاحتيال والتصيد الإلكتروني لضمان أمان بياناتهم."
+    },
+    {
+    "original": "Analyzing customer behavior",
+    "translated": "تحليل سلوك العملاء",
+    "description": "استخدام بيانات البريد الإلكتروني لفهم أنماط تفاعل العملاء وتحسين استراتيجيات التسويق والدعم."
+    },
+    {
+    "original": "Generating holiday-specific email campaigns",
+    "translated": "إعداد حملات بريد إلكتروني خاصة بالمواسم والعطلات",
+    "description": "تصميم رسائل تسويقية موجهة للعطلات والمواسم لزيادة التفاعل والمبيعات."
+    },
+    {
+    "original": "Moderating inappropriate email messages",
+    "translated": "إدارة وحذف الرسائل غير اللائقة في البريد الإلكتروني",
+    "description": "مراقبة البريد الوارد وتصفيته لضمان بيئة تواصل احترافية وخالية من المحتوى غير المناسب."
+    },
+    {
+    "original": "Providing email training and guidelines",
+    "translated": "تقديم تدريب وإرشادات لاستخدام البريد الإلكتروني",
+    "description": "إعداد مواد تدريبية لمساعدة فرق الدعم على تحسين استجابات البريد الإلكتروني."
+    },
+    {
+    "original": "Handling email complaints with empathy",
+    "translated": "التعامل مع شكاوى البريد الإلكتروني بتعاطف",
+    "description": "معالجة شكاوى العملاء عبر البريد الإلكتروني بأسلوب لبق وحلول فعالة لضمان رضاهم."
+    },
+    {
+    "original": "Providing personalized product recommendations",
+    "translated": "تقديم توصيات مخصصة للمنتجات عبر البريد الإلكتروني",
+    "description": "اقتراح منتجات ملائمة لكل عميل بناءً على تفضيلاته وسجل مشترياته."
+    },
+    {
+    "original": "Creating scripts for common issues",
+    "translated": "إعداد نصوص بريد إلكتروني للمشكلات الشائعة",
+    "description": "تصميم ردود جاهزة للمساعدة في معالجة الاستفسارات الشائعة بسرعة وكفاءة."
+    },
+    {
+    "original": "Providing personalized solutions",
+    "translated": "تقديم حلول مخصصة عبر البريد الإلكتروني",
+    "description": "تحليل احتياجات العملاء وتقديم استجابات مخصصة لمشكلاتهم عبر البريد الإلكتروني."
+    },
+    {
+    "original": "Generating quick response emails",
+    "translated": "إعداد رسائل بريد إلكتروني للاستجابة السريعة",
+    "description": "تصميم قوالب ردود بريد إلكتروني مختصرة وفعالة لتقليل وقت الاستجابة وزيادة رضا العملاء."
+    },
+    {
+    "original": "Generating email analytics for trends analysis",
+    "translated": "تحليل بيانات البريد الإلكتروني لاستخراج الاتجاهات",
+    "description": "استخدام تحليلات البريد الإلكتروني لتقييم الأداء وتحسين استراتيجيات التواصل مع العملاء."
+    },
+    {
+    "original": "Responding to lost password emails",
+    "translated": "الرد على رسائل استعادة كلمة المرور",
+    "description": "مساعدة العملاء في استعادة الوصول إلى حساباتهم من خلال إرشادات إعادة تعيين كلمة المرور."
+    },
+    {
+    "original": "Handling customer returns and refunds",
+    "translated": "إدارة عمليات إرجاع المنتجات واسترداد الأموال",
+    "description": "مساعدة العملاء في إجراءات إرجاع المنتجات ومعالجة طلبات استرداد الأموال بسرعة."
+    },
+    {
+    "original": "Addressing billing and payment issues",
+    "translated": "معالجة مشكلات الفواتير والمدفوعات",
+    "description": "تقديم الدعم للعملاء في حل مشكلات الدفع، الفواتير، والتكاليف غير المتوقعة."
+    },
+    {
+    "original": "Providing customized product advice",
+    "translated": "تقديم استشارات مخصصة حول المنتجات",
+    "description": "إرسال توصيات شخصية للعملاء عبر البريد الإلكتروني لمساعدتهم في اتخاذ قرارات الشراء."
+    },
+    {
+    "original": "Handling product recalls and warranty issues",
+    "translated": "إدارة استدعاء المنتجات ومشكلات الضمان",
+    "description": "إبلاغ العملاء حول استدعاءات المنتجات أو تفاصيل الضمان لحل المشكلات المتعلقة بها."
+    },
+    {
+    "original": "Providing promotional discounts through email",
+    "translated": "تقديم خصومات ترويجية عبر البريد الإلكتروني",
+    "description": "إرسال عروض وخصومات حصرية للعملاء عبر البريد الإلكتروني لتعزيز المبيعات."
+    },
+    {
+    "original": "Generating weekly email reports for insights",
+    "translated": "إعداد تقارير بريد إلكتروني أسبوعية لاستخلاص الرؤى",
+    "description": "تحليل بيانات البريد الإلكتروني لتقييم الأداء والتعرف على فرص التحسين."
+    },
+    {
+    "original": "Offering customer retention and loyalty support",
+    "translated": "تقديم دعم الاحتفاظ بالعملاء وبرامج الولاء",
+    "description": "إرسال رسائل بريد إلكتروني مخصصة لتعزيز ولاء العملاء من خلال العروض والحوافز."
+    },
+    {
+    "original": "Creating email logs for tracking purposes",
+    "translated": "إعداد سجلات البريد الإلكتروني لأغراض التتبع",
+    "description": "حفظ وتتبع جميع التفاعلات عبر البريد الإلكتروني لضمان استمرارية الخدمة وتحليل الأداء."
+    },
+    {
+    "original": "Handling email inquiries and questions",
+    "translated": "معالجة استفسارات العملاء عبر البريد الإلكتروني",
+    "description": "الرد على استفسارات العملاء وتقديم المعلومات اللازمة بشكل احترافي وسريع."
+    },
+    {
+    "original": "Creating onboarding emails for new users",
+    "translated": "إعداد رسائل ترحيب للعملاء الجدد",
+    "description": "تصميم رسائل بريد إلكتروني توضح للعملاء الجدد كيفية استخدام المنتج أو الخدمة."
+    },
+    {
+    "original": "Troubleshooting product issues",
+    "translated": "استكشاف مشكلات المنتجات وإصلاحها",
+    "description": "مساعدة العملاء في حل المشكلات الفنية عبر البريد الإلكتروني من خلال تقديم إرشادات واضحة."
+    },
+    {
+    "original": "Offering account management support",
+    "translated": "تقديم دعم إدارة الحسابات",
+    "description": "مساعدة العملاء في تحديث بيانات حساباتهم، استعادة الوصول، وإدارة إعداداتهم."
+    },
+    {
+    "original": "Offering technical support and solutions",
+    "translated": "تقديم دعم فني وحلول للمشكلات",
+    "description": "مساعدة العملاء في حل المشكلات التقنية عبر البريد الإلكتروني لضمان تجربة استخدام سلسة."
+    },
+    {
+    "original": "Providing customer feedback surveys",
+    "translated": "إرسال استبيانات رضا العملاء",
+    "description": "إعداد استبيانات البريد الإلكتروني لجمع ملاحظات العملاء وتحسين جودة الخدمة."
+    },
+    {
+    "original": "Providing technical support",
+    "translated": "تقديم الدعم الفني",
+    "description": "مساعدة العملاء في حل المشكلات التقنية المتعلقة بالمنتجات أو الخدمات لضمان تجربة استخدام سلسة."
+    },
+    {
+    "original": "Creating customer feedback surveys",
+    "translated": "إعداد استبيانات ملاحظات العملاء",
+    "description": "تصميم استبيانات لجمع آراء العملاء حول المنتجات أو الخدمات بهدف تحسين جودتها."
+    },
+    {
+    "original": "Generating customer testimonials",
+    "translated": "إعداد شهادات العملاء",
+    "description": "جمع وتنسيق آراء العملاء الإيجابية لعرضها في المواد التسويقية وزيادة الثقة في العلامة التجارية."
+    },
+    {
+    "original": "Handling customer account issues",
+    "translated": "معالجة مشكلات حسابات العملاء",
+    "description": "مساعدة العملاء في استعادة الوصول إلى حساباتهم أو تحديث بياناتهم أو حل أي مشاكل تتعلق بها."
+    },
+    {
+    "original": "Handling customer inquiries",
+    "translated": "الرد على استفسارات العملاء",
+    "description": "الإجابة على أسئلة العملاء حول المنتجات، الخدمات، أو أي استفسارات أخرى لضمان تجربة سلسة."
+    },
+    {
+    "original": "Providing account management support",
+    "translated": "تقديم دعم إدارة الحسابات",
+    "description": "مساعدة العملاء في إدارة حساباتهم، تغيير الإعدادات، والتحكم في بياناتهم الشخصية."
+    },
+    {
+    "original": "Providing customer support for products",
+    "translated": "تقديم دعم العملاء للمنتجات",
+    "description": "مساعدة العملاء في فهم كيفية استخدام المنتجات، حل المشكلات التقنية، وتقديم حلول فعالة."
+    },
+    {
+    "original": "Handling customer complaints",
+    "translated": "معالجة شكاوى العملاء",
+    "description": "التعامل مع شكاوى العملاء بحلول فعالة وسريعة لضمان رضاهم وتحسين تجربة الخدمة."
+    },
+    {
+    "original": "Generating customer satisfaction reports",
+    "translated": "إعداد تقارير رضا العملاء",
+    "description": "تحليل آراء العملاء وإعداد تقارير توضح مستوى رضاهم عن المنتجات والخدمات المقدمة."
+    },
+    {
+    "original": "Generating support articles",
+    "translated": "إعداد مقالات دعم العملاء",
+    "description": "كتابة مقالات إرشادية حول كيفية استخدام المنتجات، استكشاف الأخطاء وإصلاحها، والإجابة عن الأسئلة الشائعة."
+    },
+    {
+    "original": "Generating shipping notifications",
+    "translated": "إعداد إشعارات الشحن",
+    "description": "إرسال تحديثات تلقائية للعملاء حول حالة شحن طلباتهم، بما في ذلك أرقام التتبع ومواعيد التسليم المتوقعة."
+    },
+    {
+    "original": "Resolving order issues",
+    "translated": "حل مشكلات الطلبات",
+    "description": "التعامل مع المشكلات المتعلقة بالطلبات مثل التأخير، الشحنات المفقودة، أو الأخطاء في المنتجات لضمان رضا العملاء."
+    },
+    {
+    "original": "Providing return instructions",
+    "translated": "تقديم تعليمات الإرجاع",
+    "description": "إرشاد العملاء حول كيفية إرجاع المنتجات، بما في ذلك المتطلبات والخطوات اللازمة لاستكمال العملية بنجاح."
+    },
+    {
+    "original": "Generating refund confirmations",
+    "translated": "إعداد تأكيدات استرداد الأموال",
+    "description": "إرسال رسائل تأكيد للعملاء حول معالجة طلبات استرداد الأموال وحالة المبالغ المستردة."
+    },
+    {
+    "original": "Handling return requests",
+    "translated": "معالجة طلبات الإرجاع",
+    "description": "إدارة عمليات إرجاع المنتجات من العملاء، التحقق من الحالات، والموافقة على عمليات الإرجاع وفقًا لسياسات الشركة."
+    },
+    {
+    "original": "Generating order cancelation confirmations",
+    "translated": "إعداد تأكيدات إلغاء الطلب",
+    "description": "إرسال إشعارات تلقائية للعملاء تؤكد إلغاء طلباتهم وتوضيح أي خطوات لاحقة."
+    },
+    {
+    "original": "Handling order payment issues",
+    "translated": "معالجة مشكلات دفع الطلبات",
+    "description": "التعامل مع مشكلات الدفع مثل المعاملات الفاشلة، التحقق من المدفوعات، وحل النزاعات المالية."
+    },
+    {
+    "original": "Generating order confirmations",
+    "translated": "إعداد تأكيدات الطلبات",
+    "description": "إرسال رسائل تأكيد الطلب إلى العملاء تحتوي على تفاصيل الطلب، حالة الدفع، ومعلومات الشحن."
+    },
+    {
+    "original": "Creating legal documents",
+    "translated": "إعداد المستندات القانونية",
+    "description": "تصميم وصياغة مستندات قانونية مثل العقود، الاتفاقيات، وسياسات الشركة لضمان الامتثال القانوني."
+    },
+    {
+    "original": "Generating company vision and mission statements",
+    "translated": "إعداد رؤية ورسالة الشركة",
+    "description": "تحديد وصياغة الرؤية والرسالة الخاصة بالشركة لتوجيه استراتيجيات العمل وتحقيق الأهداف طويلة الأجل."
+    },
+    {
+    "original": "Creating internal knowledge base articles",
+    "translated": "إعداد مقالات قاعدة المعرفة الداخلية",
+    "description": "تصميم محتوى إرشادي شامل لمساعدة الموظفين في الوصول إلى المعلومات الأساسية بسرعة وكفاءة."
+    },
+    {
+    "original": "Creating company culture documents",
+    "translated": "إعداد مستندات ثقافة الشركة",
+    "description": "وضع إرشادات وقيم توضح ثقافة العمل داخل الشركة لتعزيز بيئة إيجابية ومنتجة."
+    },
+    {
+    "original": "Generating safety guidelines",
+    "translated": "إعداد إرشادات السلامة",
+    "description": "وضع لوائح وإجراءات السلامة لضمان بيئة عمل آمنة وتقليل المخاطر المحتملة."
+    },
+    {
+    "original": "Creating employee handbooks",
+    "translated": "إعداد كتيبات الموظفين",
+    "description": "تصميم دليل شامل يحتوي على السياسات والإجراءات الأساسية لمساعدة الموظفين في فهم حقوقهم وواجباتهم."
+    },
+    {
+    "original": "Generating internal policy documents",
+    "translated": "إعداد مستندات السياسات الداخلية",
+    "description": "صياغة سياسات وإجراءات داخلية لتنظيم العمليات داخل الشركة وضمان الامتثال للقوانين."
+    },
+    {
+    "original": "Generating onboarding documents",
+    "translated": "إعداد مستندات تأهيل الموظفين الجدد",
+    "description": "تصميم مواد تساعد الموظفين الجدد على فهم بيئة العمل والسياسات والإجراءات الخاصة بالشركة."
+    },
+    {
+    "original": "Generating training material for customer support",
+    "translated": "إعداد مواد تدريبية لدعم العملاء",
+    "description": "تصميم مواد تعليمية تشمل إرشادات التعامل مع العملاء وحلول للمشكلات الشائعة لتحسين مستوى الدعم."
+    },
+    {
+    "original": "Providing chatbot and VA training for new users",
+    "translated": "تقديم تدريب على روبوتات الدردشة والمساعدين الافتراضيين للمستخدمين الجدد",
+    "description": "إعداد برامج تدريبية للمستخدمين الجدد لتمكينهم من استخدام روبوتات الدردشة والمساعدين الافتراضيين بكفاءة."
+    },
+    {
+    "original": "Creating virtual assistants for appointment scheduling",
+    "translated": "إنشاء مساعدين افتراضيين لجدولة المواعيد",
+    "description": "تصميم مساعد افتراضي يساعد المستخدمين في حجز المواعيد وإدارتها تلقائيًا."
+    },
+    {
+    "original": "Updating chatbot and VA content for accuracy",
+    "translated": "تحديث محتوى روبوتات الدردشة والمساعدين الافتراضيين لضمان الدقة",
+    "description": "تحسين المحتوى والإجابات التي تقدمها روبوتات الدردشة والمساعدون الافتراضيون لتقديم معلومات دقيقة ومحدثة."
+    },
+    {
+    "original": "Handling chatbot inquiries for billing support",
+    "translated": "معالجة استفسارات الفواتير عبر روبوتات الدردشة",
+    "description": "إعداد روبوتات الدردشة لمعالجة الاستفسارات المتعلقة بالفواتير والمدفوعات بطريقة تلقائية."
+    },
+    {
+    "original": "Providing chatbot and VA training for language support",
+    "translated": "تقديم تدريب على روبوتات الدردشة والمساعدين الافتراضيين لدعم اللغات",
+    "description": "إعداد روبوتات الدردشة والمساعدين الافتراضيين لدعم لغات متعددة وتحسين تجربة المستخدمين الدوليين."
+    },
+    {
+    "original": "Optimizing chatbot and virtual assistant performance for speed",
+    "translated": "تحسين أداء روبوتات الدردشة والمساعدين الافتراضيين للسرعة",
+    "description": "تحسين سرعة الاستجابات لضمان تجربة مستخدم سلسة وسريعة عند التفاعل مع الروبوتات."
+    },
+    {
+    "original": "Generating chatbot responses for order tracking inquiries",
+    "translated": "إنشاء ردود روبوتات الدردشة لاستفسارات تتبع الطلبات",
+    "description": "إعداد ردود تلقائية لمساعدة العملاء في تتبع طلباتهم عبر روبوتات الدردشة."
+    },
+    {
+    "original": "Designing chatbots for user feedback and survey support",
+    "translated": "تصميم روبوتات دردشة لدعم استطلاعات الرأي وتعليقات المستخدمين",
+    "description": "إنشاء روبوتات دردشة لجمع ملاحظات العملاء وإجراء استطلاعات حول المنتجات والخدمات."
+    },
+    {
+    "original": "Creating chatbots for lead generation and qualification",
+    "translated": "إنشاء روبوتات دردشة لتوليد العملاء المحتملين وتأهيلهم",
+    "description": "تصميم روبوتات دردشة لجمع بيانات العملاء المحتملين وتصنيفهم بناءً على مدى استعدادهم للشراء."
+    },
+    {
+    "original": "Generating virtual assistant responses for travel planning inquiries",
+    "translated": "إعداد ردود المساعد الافتراضي لاستفسارات تخطيط السفر",
+    "description": "تمكين المساعدين الافتراضيين من تقديم توصيات للسفر، بما في ذلك حجوزات الفنادق والرحلات الجوية."
+    },
+    {
+    "original": "Handling virtual assistant inquiries for restaurant reservations",
+    "translated": "معالجة استفسارات حجوزات المطاعم عبر المساعد الافتراضي",
+    "description": "تصميم مساعدين افتراضيين لمساعدة المستخدمين في حجز المطاعم والتوصية بأفضل الأماكن."
+    },
+    {
+    "original": "Updating chatbot and VA content for new products",
+    "translated": "تحديث محتوى روبوتات الدردشة والمساعدين الافتراضيين للمنتجات الجديدة",
+    "description": "إضافة معلومات جديدة حول المنتجات المحدثة لضمان تقديم استجابات دقيقة للمستخدمين."
+    },
+    {
+    "original": "Generating chatbot responses for shipping inquiries",
+    "translated": "إعداد ردود روبوتات الدردشة لاستفسارات الشحن",
+    "description": "إعداد إجابات تلقائية لمساعدة العملاء في تتبع شحناتهم ومعرفة مواعيد التسليم."
+    },
+    {
+    "original": "Handling chatbot inquiries for returns and refunds",
+    "translated": "معالجة استفسارات الإرجاع واسترداد الأموال عبر روبوتات الدردشة",
+    "description": "تمكين روبوتات الدردشة من إرشاد العملاء حول سياسات الإرجاع واسترداد الأموال."
+    },
+    {
+    "original": "Generating chatbot responses for technical inquiries",
+    "translated": "إنشاء ردود روبوتات الدردشة للاستفسارات التقنية",
+    "description": "تصميم استجابات تلقائية لمساعدة المستخدمين في استكشاف الأخطاء الفنية وإصلاحها."
+    },
+    {
+    "original": "Optimizing chatbot and virtual assistant performance for accuracy",
+    "translated": "تحسين دقة روبوتات الدردشة والمساعدين الافتراضيين",
+    "description": "ضبط وتحسين الاستجابات لضمان تقديم إجابات دقيقة وموثوقة للمستخدمين."
+    },
+    {
+    "original": "Designing chatbots for FAQ support",
+    "translated": "تصميم روبوتات دردشة لدعم الأسئلة الشائعة",
+    "description": "إنشاء روبوتات دردشة للإجابة تلقائيًا عن الأسئلة الأكثر تكرارًا لمساعدة المستخدمين بسرعة."
+    },
+    {
+    "original": "Handling virtual assistant inquiries for product support",
+    "translated": "معالجة استفسارات دعم المنتجات عبر المساعد الافتراضي",
+    "description": "إعداد مساعدين افتراضيين للإجابة على استفسارات العملاء حول كيفية استخدام المنتجات."
+    },
+    {
+    "original": "Creating virtual assistants for financial advice and planning",
+    "translated": "إنشاء مساعدين افتراضيين لتقديم استشارات مالية وتخطيط الميزانية",
+    "description": "تصميم مساعدين افتراضيين يساعدون المستخدمين في التخطيط المالي وإدارة الميزانية الشخصية."
+    },
+    {
+    "original": "Updating chatbot and VA content for promotions",
+    "translated": "تحديث محتوى روبوتات الدردشة والمساعدين الافتراضيين للعروض الترويجية",
+    "description": "إضافة عروض وخصومات جديدة لضمان تقديم معلومات دقيقة للعملاء عبر الروبوتات."
+    },
+    {
+    "original": "Generating virtual assistant responses for account inquiries",
+    "translated": "إعداد ردود المساعد الافتراضي لاستفسارات الحسابات",
+    "description": "تمكين المساعد الافتراضي من مساعدة العملاء في إدارة حساباتهم واستعادة بياناتهم."
+    },
+    {
+    "original": "Designing chatbots for sales support",
+    "translated": "تصميم روبوتات دردشة لدعم المبيعات",
+    "description": "إنشاء روبوتات دردشة لمساعدة العملاء في اختيار المنتجات وتقديم توصيات شرائية."
+    },
+    {
+    "original": "Generating virtual assistant responses for investment inquiries",
+    "translated": "إعداد ردود المساعد الافتراضي لاستفسارات الاستثمار",
+    "description": "تمكين المساعد الافتراضي من تقديم معلومات حول الفرص الاستثمارية وإدارة المحافظ المالية."
+    },
+    {
+    "original": "Handling chatbot inquiries for product recommendations",
+    "translated": "معالجة استفسارات توصيات المنتجات عبر روبوتات الدردشة",
+    "description": "إعداد روبوتات دردشة لتقديم توصيات مخصصة بناءً على تفضيلات العملاء."
+    },
+    {
+    "original": "Providing chatbot and VA training on complex issues",
+    "translated": "تقديم تدريب على روبوتات الدردشة والمساعدين الافتراضيين للقضايا المعقدة",
+    "description": "إعداد روبوتات ومساعدين افتراضيين لمعالجة الاستفسارات المعقدة وتقديم حلول دقيقة."
+    },
+    {
+    "original": "Optimizing chatbot and virtual assistant performance for personalization",
+    "translated": "تحسين تخصيص روبوتات الدردشة والمساعدين الافتراضيين",
+    "description": "تحسين تجربة المستخدم من خلال تقديم استجابات مخصصة بناءً على تفضيلاته وسلوكه."
+    },
+    {
+    "original": "Creating virtual assistants for customer onboarding",
+    "translated": "إنشاء مساعدين افتراضيين لتوجيه العملاء الجدد",
+    "description": "إعداد مساعدين افتراضيين لمساعدة المستخدمين في فهم المنتجات والخدمات الجديدة."
+    },
+    {
+    "original": "Generating chatbot responses for warranty inquiries",
+    "translated": "إعداد ردود روبوتات الدردشة لاستفسارات الضمان",
+    "description": "تمكين روبوتات الدردشة من تقديم معلومات حول سياسات الضمان وتغطية المنتجات."
+    },
   ]
 }
