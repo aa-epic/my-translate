@@ -6746,6 +6746,1125 @@
     "translated": "إعداد محتوى تثقيفي للعملاء",
     "description": "إنشاء مواد تعليمية تساعد العملاء على فهم كيفية استخدام المنتجات أو الخدمات بفعالية."
     },
-    
+    {
+    "original": "Productivity",
+    "translated": "الإنتاجية",
+    "description": "يركز مجال الإنتاجية على تحسين إدارة الوقت، تنظيم المهام، وزيادة الكفاءة الشخصية والمهنية. يشمل تقنيات مثل تحديد الأولويات، أتمتة العمليات، تقليل التشتت، واستخدام الأدوات الرقمية لتعزيز الأداء. يمكن تطبيق استراتيجيات الإنتاجية في بيئة العمل أو الحياة اليومية لتحسين الإنجاز وتقليل الإجهاد، مثل التخطيط اليومي، تقنيات بومودورو، وإدارة البريد الإلكتروني بفعالية."
+    },
+    {
+    "original": "Suggest educational technology",
+    "translated": "اقتراح تقنيات التعليم",
+    "description": "تقديم توصيات حول الأدوات والتقنيات الحديثة التي تساعد في تحسين تجربة التعلم مثل التطبيقات التعليمية والمنصات الرقمية."
+    },
+    {
+    "original": "Provide academic support",
+    "translated": "تقديم الدعم الأكاديمي",
+    "description": "مساعدة الطلاب والمعلمين في تحسين الأداء الأكاديمي من خلال توفير موارد تعليمية وإرشادات دراسية."
+    },
+    {
+    "original": "Analyze educational needs",
+    "translated": "تحليل الاحتياجات التعليمية",
+    "description": "تقييم متطلبات التعليم للطلاب أو المؤسسات التعليمية لتحديد استراتيجيات التحسين المناسبة."
+    },
+    {
+    "original": "Recommend educational programs",
+    "translated": "اقتراح البرامج التعليمية",
+    "description": "تقديم توصيات حول البرامج الأكاديمية أو التدريبية المناسبة لتطوير مهارات الطلاب أو المهنيين."
+    },
+    {
+    "original": "Suggest skill-building exercises",
+    "translated": "اقتراح تمارين تنمية المهارات",
+    "description": "تقديم أنشطة وتمارين موجهة تساعد في تطوير المهارات الشخصية والمهنية."
+    },
+    {
+    "original": "Help plan study schedule",
+    "translated": "المساعدة في تخطيط جدول دراسي",
+    "description": "إنشاء جداول دراسية فعالة تساعد الطلاب على تنظيم وقتهم وزيادة إنتاجيتهم الأكاديمية."
+    },
+    {
+    "original": "Analyze educational goals",
+    "translated": "تحليل الأهداف التعليمية",
+    "description": "تحديد وتحليل الأهداف الأكاديمية للطلاب لضمان تحقيق نتائج تعليمية فعالة."
+    },
+    {
+    "original": "Analyze learning styles",
+    "translated": "تحليل أنماط التعلم",
+    "description": "تقييم أساليب التعلم المختلفة لكل فرد لمساعدته في اختيار الطريقة الأنسب له."
+    },
+    {
+    "original": "Recommend extracurricular activities",
+    "translated": "اقتراح أنشطة لا منهجية",
+    "description": "تقديم توصيات حول الأنشطة التي تساعد في تعزيز التعلم والتطوير الشخصي خارج الصفوف الدراسية."
+    },
+    {
+    "original": "Provide educational resources",
+    "translated": "توفير موارد تعليمية",
+    "description": "إتاحة مواد تعليمية مثل الكتب، المقالات، والفيديوهات لمساعدة الطلاب على التعلم الفعال."
+    },
+    {
+    "original": "Recommend learning strategies",
+    "translated": "اقتراح استراتيجيات التعلم",
+    "description": "تقديم استراتيجيات فعالة تساعد في تحسين القدرة على استيعاب المعلومات والتعلم بشكل أسرع."
+    },
+    {
+    "original": "Provide test-taking tips",
+    "translated": "تقديم نصائح لاجتياز الاختبارات",
+    "description": "مشاركة نصائح وتقنيات لمساعدة الطلاب على تحسين أدائهم في الاختبارات."
+    },
+    {
+    "original": "Help with educational planning",
+    "translated": "المساعدة في التخطيط التعليمي",
+    "description": "تقديم استراتيجيات وخطط تعليمية للطلاب أو المؤسسات لتحقيق أهداف أكاديمية محددة."
+    },
+    {
+    "original": "Provide educational feedback",
+    "translated": "تقديم ملاحظات تعليمية",
+    "description": "تقييم الأداء التعليمي للطلاب أو البرامج الأكاديمية وتقديم ملاحظات لتحسين الأداء."
+    },
+    {
+    "original": "Suggest study techniques",
+    "translated": "اقتراح تقنيات الدراسة",
+    "description": "تقديم طرق فعالة تساعد الطلاب على تحسين فهمهم واستيعابهم للمواد الدراسية."
+    },
+    {
+    "original": "Analyze personality types",
+    "translated": "تحليل أنماط الشخصية",
+    "description": "تقييم شخصيات الأفراد لفهم سلوكياتهم وتقديم نصائح لتحسين تواصلهم مع الآخرين."
+    },
+    {
+    "original": "Analyze relationship patterns",
+    "translated": "تحليل أنماط العلاقات",
+    "description": "دراسة طبيعة العلاقات الشخصية لفهم نقاط القوة والضعف والعمل على تحسينها."
+    },
+    {
+    "original": "Recommend self-reflection techniques",
+    "translated": "اقتراح تقنيات التأمل الذاتي",
+    "description": "توفير أساليب تساعد الأفراد على التفكير في تجاربهم وتطوير فهمهم لأنفسهم."
+    },
+    {
+    "original": "Suggest healthy relationship habits",
+    "translated": "اقتراح عادات لعلاقات صحية",
+    "description": "تقديم نصائح تساعد في بناء علاقات صحية ومستدامة بين الأفراد."
+    },
+    {
+    "original": "Suggest ways to deepen connections",
+    "translated": "اقتراح طرق لتعميق العلاقات",
+    "description": "تقديم استراتيجيات لتعزيز التواصل الفعّال وبناء علاقات أقوى."
+    },
+    {
+    "original": "Help navigate relationship challenges",
+    "translated": "المساعدة في التعامل مع تحديات العلاقات",
+    "description": "تقديم حلول ونصائح للتعامل مع المشكلات التي قد تواجه الأفراد في علاقاتهم الشخصية أو المهنية."
+    },
+    {
+    "original": "Help improve social skills",
+    "translated": "المساعدة في تحسين المهارات الاجتماعية",
+    "description": "تقديم نصائح وتقنيات لتعزيز الثقة بالنفس وتحسين التفاعل الاجتماعي مع الآخرين."
+    },
+    {
+    "original": "Help resolve conflicts",
+    "translated": "المساعدة في حل النزاعات",
+    "description": "تقديم استراتيجيات فعالة لحل الخلافات الشخصية أو المهنية بطريقة بناءة وتعزيز التواصل الفعّال."
+    },
+    {
+    "original": "Analyze relationship goals",
+    "translated": "تحليل أهداف العلاقات",
+    "description": "تقييم الأهداف والتوقعات في العلاقات الشخصية للمساعدة في بناء علاقات صحية ومستدامة."
+    },
+    {
+    "original": "Suggest communication strategies",
+    "translated": "اقتراح استراتيجيات التواصل",
+    "description": "تقديم أساليب وتقنيات لتحسين مهارات التواصل وتعزيز الفهم المتبادل بين الأفراد."
+    },
+    {
+    "original": "Provide resources for friendship building",
+    "translated": "توفير موارد لبناء الصداقات",
+    "description": "تقديم نصائح وأدوات تساعد في تكوين صداقات جديدة وتعزيز العلاقات الاجتماعية."
+    },
+    {
+    "original": "Recommend couples therapy",
+    "translated": "التوصية بعلاج الأزواج",
+    "description": "اقتراح برامج واستشارات علاجية لمساعدة الأزواج على تحسين علاقتهم وحل النزاعات."
+    },
+    {
+    "original": "Provide feedback on relationships",
+    "translated": "تقديم ملاحظات حول العلاقات",
+    "description": "تحليل العلاقات الشخصية وتقديم ملاحظات بنّاءة لتحسينها وتعزيزها."
+    },
+    {
+    "original": "Suggest date ideas",
+    "translated": "اقتراح أفكار للمواعيد الرومانسية",
+    "description": "تقديم أفكار مبتكرة لمواعيد رومانسية تساعد في تقوية الروابط بين الأزواج."
+    },
+    {
+    "original": "Provide relationship advice",
+    "translated": "تقديم نصائح للعلاقات",
+    "description": "تقديم إرشادات لتحسين العلاقات الشخصية والعاطفية وتعزيز التفاهم المتبادل."
+    },
+    {
+    "original": "Help solve parenting challenges",
+    "translated": "المساعدة في حل تحديات التربية",
+    "description": "تقديم حلول عملية للتعامل مع تحديات تربية الأطفال وتعزيز مهارات الأبوة والأمومة."
+    },
+    {
+    "original": "Recommend child enrichment activities",
+    "translated": "اقتراح أنشطة إثرائية للأطفال",
+    "description": "تقديم أفكار لأنشطة تعليمية وترفيهية تساعد في تطوير مهارات الأطفال وتعزيز نموهم."
+    },
+    {
+    "original": "Suggest healthy family habits",
+    "translated": "اقتراح عادات أسرية صحية",
+    "description": "تقديم نصائح حول كيفية بناء بيئة أسرية إيجابية وتعزيز العادات الصحية بين أفراد الأسرة."
+    },
+    {
+    "original": "Provide resources for family building",
+    "translated": "توفير موارد لتعزيز الروابط الأسرية",
+    "description": "إتاحة أدوات واستراتيجيات لدعم التواصل الفعّال بين أفراد العائلة وتعزيز العلاقات الأسرية."
+    },
+    {
+    "original": "Analyze child development",
+    "translated": "تحليل نمو الطفل",
+    "description": "تقييم مراحل نمو الأطفال وفهم احتياجاتهم العاطفية والاجتماعية والتعليمية."
+    },
+    {
+    "original": "Analyze parenting goals",
+    "translated": "تحليل أهداف الأبوة والأمومة",
+    "description": "مساعدة الآباء في تحديد أهداف تربوية واضحة لتحقيق تربية سليمة ومتوازنة."
+    },
+    {
+    "original": "Suggest family outing ideas",
+    "translated": "اقتراح أفكار للخروج العائلي",
+    "description": "تقديم أفكار مبتكرة لأنشطة ترفيهية للعائلات لتعزيز التواصل والاستمتاع بالوقت المشترك."
+    },
+    {
+    "original": "Analyze parenting styles",
+    "translated": "تحليل أنماط التربية",
+    "description": "تقييم أساليب التربية المختلفة ومساعدة الآباء في اختيار النهج الأنسب لأطفالهم."
+    },
+    {
+    "original": "Suggest child discipline strategies",
+    "translated": "اقتراح استراتيجيات تهذيب الأطفال",
+    "description": "تقديم أساليب فعالة لمساعدة الآباء على تعليم أطفالهم السلوكيات الصحيحة بأساليب تربوية إيجابية."
+    },
+    {
+    "original": "Provide feedback on parenting",
+    "translated": "تقديم ملاحظات حول التربية",
+    "description": "تحليل أساليب التربية وتقديم ملاحظات بناءة لمساعدة الآباء في تحسين علاقتهم بأطفالهم."
+    },
+    {
+    "original": "Help navigate family conflicts",
+    "translated": "المساعدة في حل النزاعات الأسرية",
+    "description": "تقديم استراتيجيات لحل النزاعات بين أفراد العائلة وتعزيز التواصل الفعّال."
+    },
+    {
+    "original": "Recommend family therapy",
+    "translated": "التوصية بالعلاج الأسري",
+    "description": "اقتراح برامج استشارية وجلسات علاجية لمساعدة العائلات في تحسين العلاقات الأسرية."
+    },
+    {
+    "original": "Help improve parenting skills",
+    "translated": "المساعدة في تحسين مهارات الأبوة والأمومة",
+    "description": "تقديم نصائح وإرشادات لمساعدة الآباء على تحسين قدراتهم في تربية الأطفال بطريقة إيجابية."
+    },
+    {
+    "original": "Suggest ways to deepen family bonds",
+    "translated": "اقتراح طرق لتعزيز الروابط الأسرية",
+    "description": "تقديم أفكار لتعزيز التفاعل والتواصل بين أفراد الأسرة وبناء علاقات قوية ومستدامة."
+    },
+    {
+    "original": "Provide parenting advice",
+    "translated": "تقديم نصائح للأبوة والأمومة",
+    "description": "توفير إرشادات للآباء حول كيفية التعامل مع الأطفال بطريقة إيجابية وتربوية."
+    },
+    {
+    "original": "Provide beauty advice",
+    "translated": "تقديم نصائح جمالية",
+    "description": "إعطاء نصائح حول العناية بالبشرة، المكياج، وتصفيف الشعر لتعزيز الجمال الطبيعي."
+    },
+    {
+    "original": "Help with skin care routine",
+    "translated": "المساعدة في روتين العناية بالبشرة",
+    "description": "تقديم إرشادات لإنشاء روتين فعال للعناية بالبشرة بناءً على نوعها واحتياجاتها."
+    },
+    {
+    "original": "Analyze beauty and fashion goals",
+    "translated": "تحليل أهداف الجمال والموضة",
+    "description": "تقييم الأهداف الجمالية لكل شخص وتقديم نصائح لتحقيق مظهر متناسق وعصري."
+    },
+    {
+    "original": "Suggest accessory choices",
+    "translated": "اقتراح اختيارات الإكسسوارات",
+    "description": "تقديم توصيات حول الإكسسوارات المناسبة لكل مناسبة، مثل الحقائب، الساعات، والمجوهرات لتعزيز المظهر العام."
+    },
+    {
+    "original": "Suggest fashion styles",
+    "translated": "اقتراح أنماط الموضة",
+    "description": "تقديم نصائح حول أنماط الملابس المناسبة بناءً على شكل الجسم والمناسبات المختلفة."
+    },
+    {
+    "original": "Analyze fashion trends",
+    "translated": "تحليل اتجاهات الموضة",
+    "description": "تقييم أحدث صيحات الموضة ومساعدة الأفراد على تطبيقها بطرق تناسب أسلوبهم الشخصي."
+    },
+    {
+    "original": "Provide feedback on style",
+    "translated": "تقديم ملاحظات حول الأناقة",
+    "description": "تحليل وتقييم أسلوب الملابس وتقديم اقتراحات لتحسين المظهر الشخصي وتعزيز الثقة بالنفس."
+    },
+    {
+    "original": "Suggest body care products",
+    "translated": "اقتراح منتجات العناية بالجسم",
+    "description": "تقديم توصيات حول مستحضرات العناية بالبشرة والجسم بناءً على نوع البشرة والاحتياجات الشخصية."
+    },
+    {
+    "original": "Suggest hair and makeup looks",
+    "translated": "اقتراح إطلالات الشعر والمكياج",
+    "description": "تقديم أفكار لتصفيف الشعر وأساليب المكياج المناسبة للمناسبات المختلفة وأنواع البشرة."
+    },
+    {
+    "original": "Help build a fashion wardrobe",
+    "translated": "المساعدة في بناء خزانة أزياء متكاملة",
+    "description": "إعداد دليل لاختيار قطع الملابس الأساسية التي تناسب مختلف المناسبات وتوفير إطلالات متعددة."
+    },
+    {
+    "original": "Suggest healthy beauty habits",
+    "translated": "اقتراح عادات جمالية صحية",
+    "description": "تقديم نصائح للحفاظ على جمال البشرة والشعر من خلال روتين صحي ومتوازن."
+    },
+    {
+    "original": "Recommend beauty products",
+    "translated": "التوصية بمنتجات التجميل",
+    "description": "اقتراح مستحضرات تجميل موثوقة تتناسب مع نوع البشرة ومتطلبات العناية الشخصية."
+    },
+    {
+    "original": "Analyze personal style",
+    "translated": "تحليل الأسلوب الشخصي",
+    "description": "تقييم نمط الملابس والمظهر العام لتقديم اقتراحات تناسب شخصية الفرد وأسلوبه."
+    },
+    {
+    "original": "Recommend self-care techniques",
+    "translated": "التوصية بتقنيات العناية الذاتية",
+    "description": "تقديم نصائح حول الاسترخاء، العناية بالبشرة، والعادات الصحية لتعزيز الشعور بالراحة والثقة."
+    },
+    {
+    "original": "Provide fashion tips for occasions",
+    "translated": "تقديم نصائح للموضة حسب المناسبات",
+    "description": "اقتراح ملابس وإكسسوارات مناسبة لحضور الحفلات، الاجتماعات الرسمية، والمناسبات اليومية."
+    },
+    {
+    "original": "Help find a pet sitter",
+    "translated": "المساعدة في العثور على جليس للحيوانات الأليفة",
+    "description": "تقديم إرشادات لاختيار الشخص المناسب لرعاية الحيوانات الأليفة أثناء غياب المالك."
+    },
+    {
+    "original": "Recommend pet training exercises",
+    "translated": "التوصية بتمارين تدريب الحيوانات الأليفة",
+    "description": "اقتراح تمارين تدريبية تساعد في تحسين سلوك الحيوانات الأليفة وتعزيز استجابتها للأوامر."
+    },
+    {
+    "original": "Suggest pet adoption resources",
+    "translated": "اقتراح موارد تبني الحيوانات الأليفة",
+    "description": "توفير معلومات حول مراكز التبني والجمعيات التي تهدف إلى إيجاد منازل جديدة للحيوانات."
+    },
+    {
+    "original": "Provide pet care advice",
+    "translated": "تقديم نصائح للعناية بالحيوانات الأليفة",
+    "description": "تقديم إرشادات حول التغذية، النظافة، والأنشطة المناسبة للحفاظ على صحة الحيوانات الأليفة."
+    },
+    {
+    "original": "Provide pet news and trends",
+    "translated": "تقديم أخبار واتجاهات رعاية الحيوانات الأليفة",
+    "description": "مشاركة أحدث المعلومات حول صحة الحيوانات الأليفة، اتجاهات التدريب، وأفضل المنتجات المتوفرة."
+    },
+    {
+    "original": "Recommend pet products",
+    "translated": "التوصية بمنتجات الحيوانات الأليفة",
+    "description": "اقتراح أغذية، ألعاب، وإكسسوارات تناسب احتياجات الحيوانات الأليفة المختلفة."
+    },
+    {
+    "original": "Suggest pet-friendly activities",
+    "translated": "اقتراح أنشطة مناسبة للحيوانات الأليفة",
+    "description": "تقديم أفكار لأنشطة ترفيهية يمكن ممارستها مع الحيوانات الأليفة لتعزيز التفاعل والمرح."
+    },
+    {
+    "original": "Analyze pet behavior",
+    "translated": "تحليل سلوك الحيوانات الأليفة",
+    "description": "تقييم أنماط السلوك لدى الحيوانات الأليفة وتقديم نصائح لتحسين التفاعل والتدريب."
+    },
+    {
+    "original": "Suggest grooming techniques",
+    "translated": "اقتراح تقنيات العناية بالحيوانات الأليفة",
+    "description": "تقديم نصائح حول كيفية العناية بفرو وصحة الحيوانات الأليفة للحفاظ على مظهرها ونظافتها."
+    },
+    {
+    "original": "Analyze pet health",
+    "translated": "تحليل صحة الحيوانات الأليفة",
+    "description": "تقديم تقييمات حول الحالة الصحية للحيوانات الأليفة ومتى يجب زيارة الطبيب البيطري."
+    },
+    {
+    "original": "Provide feedback on pet care",
+    "translated": "تقديم ملاحظات حول رعاية الحيوانات الأليفة",
+    "description": "تحليل أساليب العناية بالحيوانات الأليفة وتقديم توصيات لتحسين جودة الرعاية."
+    },
+    {
+    "original": "Analyze pet care goals",
+    "translated": "تحليل أهداف رعاية الحيوانات الأليفة",
+    "description": "مساعدة المالكين في وضع أهداف واضحة للعناية بحيواناتهم الأليفة وتحسين رفاهيتها."
+    },
+    {
+    "original": "Suggest pet nutrition",
+    "translated": "اقتراح خطط تغذية للحيوانات الأليفة",
+    "description": "تقديم توصيات حول النظام الغذائي المناسب لكل نوع من الحيوانات الأليفة بناءً على احتياجاتها الصحية."
+    },
+    {
+    "original": "Suggest healthy pet habits",
+    "translated": "اقتراح عادات صحية للحيوانات الأليفة",
+    "description": "تقديم نصائح تساعد في تحسين صحة وسلوك الحيوانات الأليفة من خلال التغذية والرعاية السليمة."
+    },
+    {
+    "original": "Help with pet training",
+    "translated": "المساعدة في تدريب الحيوانات الأليفة",
+    "description": "تقديم تقنيات تدريب فعالة لمساعدة أصحاب الحيوانات الأليفة في تحسين سلوكهم وتعزيز استجابتهم للأوامر."
+    },
+    {
+    "original": "Suggest healthy work from home habits",
+    "translated": "اقتراح عادات صحية للعمل من المنزل",
+    "description": "تقديم نصائح تساعد في الحفاظ على الصحة الجسدية والعقلية أثناء العمل من المنزل، مثل تنظيم فترات الراحة وتحديد مساحة عمل مناسبة."
+    },
+    {
+    "original": "Recommend work tools",
+    "translated": "التوصية بأدوات العمل",
+    "description": "اقتراح الأدوات والتطبيقات التي تعزز الإنتاجية وتساعد في تسهيل العمل عن بُعد."
+    },
+    {
+    "original": "Suggest home office setup",
+    "translated": "اقتراح إعداد مكتب منزلي",
+    "description": "تقديم أفكار لتصميم مساحة عمل مريحة ومنظمة في المنزل لتعزيز التركيز والإنتاجية."
+    },
+    {
+    "original": "Suggest work from home routines",
+    "translated": "اقتراح روتين للعمل من المنزل",
+    "description": "تقديم استراتيجيات لتنظيم الوقت وإدارة المهام أثناء العمل عن بُعد لتحقيق التوازن بين الحياة الشخصية والمهنية."
+    },
+    {
+    "original": "Help manage work-life balance",
+    "translated": "المساعدة في تحقيق التوازن بين العمل والحياة",
+    "description": "تقديم نصائح حول كيفية تنظيم الوقت بين العمل والأنشطة الشخصية للحفاظ على نمط حياة صحي."
+    },
+    {
+    "original": "Analyze remote work challenges",
+    "translated": "تحليل تحديات العمل عن بُعد",
+    "description": "تقييم المشكلات التي يواجهها الموظفون أثناء العمل من المنزل واقتراح حلول للتغلب عليها."
+    },
+    {
+    "original": "Recommend stress-relieving exercises",
+    "translated": "التوصية بتمارين لتخفيف التوتر",
+    "description": "اقتراح تمارين وتقنيات تساعد على تقليل الإجهاد أثناء العمل وتحسين التركيز والإنتاجية."
+    },
+    {
+    "original": "Suggest work from home policies",
+    "translated": "اقتراح سياسات للعمل من المنزل",
+    "description": "تقديم إرشادات حول السياسات والإجراءات التي يمكن أن تعتمدها الشركات لتحسين تجربة الموظفين عن بُعد."
+    },
+    {
+    "original": "Analyze remote work goals",
+    "translated": "تحليل أهداف العمل عن بُعد",
+    "description": "تقييم الأهداف المهنية للموظفين العاملين عن بُعد وتقديم استراتيجيات لتحقيقها بفعالية."
+    },
+    {
+    "original": "Help improve productivity",
+    "translated": "المساعدة في تحسين الإنتاجية",
+    "description": "تقديم نصائح وأدوات تساعد في زيادة كفاءة العمل وتحقيق أقصى استفادة من الوقت أثناء العمل من المنزل."
+    },
+    {
+    "original": "Suggest virtual meeting etiquette",
+    "translated": "اقتراح آداب الاجتماعات الافتراضية",
+    "description": "تقديم نصائح حول كيفية التفاعل في الاجتماعات عبر الإنترنت بشكل احترافي يعزز التواصل الفعّال."
+    },
+    {
+    "original": "Provide feedback on remote work",
+    "translated": "تقديم ملاحظات حول العمل عن بُعد",
+    "description": "تحليل تجربة العمل عن بُعد وتقديم ملاحظات لتحسين الأداء والتواصل داخل الفريق."
+    },
+    {
+    "original": "Provide virtual collaboration tools",
+    "translated": "توفير أدوات التعاون الافتراضي",
+    "description": "اقتراح تطبيقات ومنصات تساعد الفرق على التعاون والعمل بكفاءة عن بُعد."
+    },
+    {
+    "original": "Provide remote work advice",
+    "translated": "تقديم نصائح للعمل عن بُعد",
+    "description": "إرشادات لتحسين تجربة العمل من المنزل وزيادة الإنتاجية مع الحفاظ على التوازن بين العمل والحياة الشخصية."
+    },
+    {
+    "original": "Analyze remote work habits",
+    "translated": "تحليل عادات العمل عن بُعد",
+    "description": "تقييم العادات اليومية للموظفين العاملين عن بُعد واقتراح طرق لتحسينها."
+    },
+    {
+    "original": "Analyze self-employment goals",
+    "translated": "تحليل أهداف العمل الحر",
+    "description": "تقييم الأهداف المهنية للأفراد العاملين لحسابهم الخاص وتقديم استراتيجيات لتحقيق النجاح."
+    },
+    {
+    "original": "Suggest marketing techniques",
+    "translated": "اقتراح تقنيات التسويق",
+    "description": "تقديم استراتيجيات تسويقية فعالة لمساعدة رواد الأعمال وأصحاب المشاريع في الترويج لخدماتهم ومنتجاتهم."
+    },
+    {
+    "original": "Provide feedback on self-employment",
+    "translated": "تقديم ملاحظات حول العمل الحر",
+    "description": "تحليل تجربة العاملين المستقلين وتقديم توصيات لتحسين إدارة الأعمال وتحقيق النمو."
+    },
+    {
+    "original": "Provide industry news and trends",
+    "translated": "توفير أخبار واتجاهات الصناعة",
+    "description": "مشاركة أحدث الأخبار والتطورات في مختلف الصناعات لمساعدة المهنيين على البقاء على اطلاع دائم."
+    },
+    {
+    "original": "Help with business planning",
+    "translated": "المساعدة في تخطيط الأعمال",
+    "description": "تقديم إرشادات حول كيفية إعداد خطة عمل ناجحة تحدد الأهداف والاستراتيجيات لتحقيق النمو."
+    },
+    {
+    "original": "Analyze business challenges",
+    "translated": "تحليل تحديات الأعمال",
+    "description": "تقييم العقبات التي تواجه الشركات الناشئة وأصحاب المشاريع واقتراح حلول فعالة."
+    },
+    {
+    "original": "Suggest entrepreneurship strategies",
+    "translated": "اقتراح استراتيجيات ريادة الأعمال",
+    "description": "تقديم نصائح واستراتيجيات لمساعدة رواد الأعمال في بدء مشاريعهم وإدارتها بفعالية."
+    },
+    {
+    "original": "Suggest healthy self-employment habits",
+    "translated": "اقتراح عادات صحية للعمل الحر",
+    "description": "تقديم نصائح تساعد المستقلين على الحفاظ على صحتهم وإنتاجيتهم أثناء إدارة أعمالهم الخاصة."
+    },
+    {
+    "original": "Recommend financial planning",
+    "translated": "التوصية بالتخطيط المالي",
+    "description": "اقتراح استراتيجيات فعالة لإدارة الأموال وتحقيق الاستقرار المالي للعاملين لحسابهم الخاص."
+    },
+    {
+    "original": "Recommend business resources",
+    "translated": "التوصية بموارد الأعمال",
+    "description": "توفير أدوات ومنصات تساعد رواد الأعمال على تحسين أداء مشاريعهم وإدارتها بكفاءة."
+    },
+    {
+    "original": "Help improve work-life balance",
+    "translated": "المساعدة في تحسين التوازن بين العمل والحياة",
+    "description": "تقديم استراتيجيات تساعد المستقلين على تحقيق التوازن بين حياتهم الشخصية والمهنية دون إرهاق."
+    },
+    {
+    "original": "Analyze business opportunities",
+    "translated": "تحليل فرص الأعمال",
+    "description": "تقييم الفرص المتاحة في السوق لمساعدة رواد الأعمال على اتخاذ قرارات استثمارية ناجحة."
+    },
+    {
+    "original": "Suggest networking strategies",
+    "translated": "اقتراح استراتيجيات التواصل المهني",
+    "description": "تقديم طرق فعالة لبناء شبكة علاقات مهنية قوية تساعد في تطوير الأعمال وتحقيق النجاح."
+    },
+    {
+    "original": "Suggest business mentoring resources",
+    "translated": "اقتراح موارد الإرشاد للأعمال",
+    "description": "توفير مصادر تدريبية واستشارات مهنية لدعم رواد الأعمال وأصحاب المشاريع الصغيرة."
+    },
+    {
+    "original": "Provide self-employment advice",
+    "translated": "تقديم نصائح للعمل الحر",
+    "description": "إرشادات لمساعدة المستقلين في إدارة أعمالهم بكفاءة وزيادة فرص النجاح."
+    },
+    {
+    "original": "Set reminders for important deadlines",
+    "translated": "إعداد تذكيرات بالمواعيد النهائية المهمة",
+    "description": "إنشاء تنبيهات تلقائية تساعد في تجنب التأخير وضمان الالتزام بالمهام والمواعيد."
+    },
+    {
+    "original": "Provide motivational quotes",
+    "translated": "تقديم اقتباسات تحفيزية",
+    "description": "مشاركة عبارات تحفيزية لتعزيز الحماس والإنتاجية أثناء العمل."
+    },
+    {
+    "original": "Analyze time usage",
+    "translated": "تحليل استخدام الوقت",
+    "description": "تقييم كيفية قضاء الوقت يوميًا واقتراح تحسينات لزيادة الإنتاجية."
+    },
+    {
+    "original": "Organize daily tasks and to-do lists",
+    "translated": "تنظيم المهام اليومية وقوائم الأعمال",
+    "description": "تصميم خطط يومية لتنظيم المهام وتحقيق الأهداف بكفاءة."
+    },
+    {
+    "original": "Automate repetitive tasks",
+    "translated": "أتمتة المهام المتكررة",
+    "description": "استخدام الأدوات والتقنيات لتقليل الوقت والجهد المبذول في المهام الروتينية."
+    },
+    {
+    "original": "Schedule meetings and appointments",
+    "translated": "جدولة الاجتماعات والمواعيد",
+    "description": "تنظيم جدول المواعيد لضمان تواصل فعال وتقليل التعارضات الزمنية."
+    },
+    {
+    "original": "Set up productivity system",
+    "translated": "إعداد نظام إنتاجية",
+    "description": "إنشاء أنظمة تساعد في تحسين إدارة الوقت وزيادة الكفاءة."
+    },
+    {
+    "original": "Optimize daily routines",
+    "translated": "تحسين الروتين اليومي",
+    "description": "إجراء تعديلات على الأنشطة اليومية لزيادة الفعالية وتحقيق الأهداف بسهولة."
+    },
+    {
+    "original": "Manage email inbox",
+    "translated": "إدارة البريد الإلكتروني",
+    "description": "تنظيم البريد الإلكتروني لتسهيل الوصول إلى الرسائل الهامة وتقليل الفوضى الرقمية."
+    },
+    {
+    "original": "Create a time-blocking system",
+    "translated": "إنشاء نظام تقسيم الوقت",
+    "description": "تقسيم اليوم إلى فترات زمنية مخصصة لكل مهمة لتعزيز الإنتاجية."
+    },
+    {
+    "original": "Brainstorm time solutions",
+    "translated": "العصف الذهني لحلول إدارة الوقت",
+    "description": "توليد أفكار واستراتيجيات لتحسين إدارة الوقت وزيادة الكفاءة."
+    },
+    {
+    "original": "Research time management",
+    "translated": "البحث في إدارة الوقت",
+    "description": "دراسة الأساليب الفعالة لتنظيم الوقت وتحقيق أقصى استفادة من اليوم."
+    },
+    {
+    "original": "Plan a productive workday schedule",
+    "translated": "تخطيط جدول عمل منتج",
+    "description": "إنشاء جدول زمني يساعد في تحقيق التوازن بين المهام اليومية والراحة."
+    },
+    {
+    "original": "Generate time-saving hacks",
+    "translated": "توليد حلول لتوفير الوقت",
+    "description": "اقتراح تقنيات وطرق تساعد في إنجاز المهام بشكل أسرع وأكثر كفاءة."
+    },
+    {
+    "original": "Send pre-written emails",
+    "translated": "إرسال رسائل بريد إلكتروني مكتوبة مسبقًا",
+    "description": "إنشاء قوالب جاهزة للرد على الرسائل المتكررة بسرعة وسهولة."
+    },
+    {
+    "original": "Calculate recipe substitutions",
+    "translated": "حساب بدائل المكونات في الوصفات",
+    "description": "توفير بدائل للمكونات المفقودة أو غير المتوفرة في الوصفات لضمان استمرار الطهي دون الحاجة لتغييرات كبيرة."
+    },
+    {
+    "original": "Plan for large groups",
+    "translated": "تخطيط وجبات للمجموعات الكبيرة",
+    "description": "تصميم قوائم طعام تناسب التجمعات الكبيرة، سواء كانت حفلات، فعاليات، أو لقاءات عائلية."
+    },
+    {
+    "original": "Suggest weight loss plans",
+    "translated": "اقتراح خطط لإنقاص الوزن",
+    "description": "تقديم خطط غذائية متوازنة تعتمد على الاحتياجات الصحية والأهداف الشخصية لفقدان الوزن."
+    },
+    {
+    "original": "Plan meal prep schedule",
+    "translated": "تخطيط جدول إعداد الوجبات",
+    "description": "إنشاء جدول زمني لتحضير الوجبات مسبقًا، مما يساعد في توفير الوقت وتناول طعام صحي طوال الأسبوع."
+    },
+    {
+    "original": "Generate weekly meal plan",
+    "translated": "إنشاء خطة وجبات أسبوعية",
+    "description": "تصميم خطة متكاملة للوجبات اليومية على مدار الأسبوع لضمان تنوع النظام الغذائي وسهولة التنفيذ."
+    },
+    {
+    "original": "Calculate meal nutrition",
+    "translated": "حساب القيم الغذائية للوجبات",
+    "description": "تحليل القيم الغذائية لكل وجبة بناءً على المكونات المستخدمة، مثل السعرات الحرارية، البروتينات، والفيتامينات."
+    },
+    {
+    "original": "Quick meal ideas",
+    "translated": "أفكار لوجبات سريعة",
+    "description": "اقتراح وصفات سريعة التحضير تناسب الأوقات الضيقة مع الحفاظ على التوازن الغذائي."
+    },
+    {
+    "original": "Suggest snacks for diet",
+    "translated": "اقتراح وجبات خفيفة للنظام الغذائي",
+    "description": "تقديم خيارات صحية للوجبات الخفيفة التي تناسب أنظمة غذائية مختلفة، مثل الكيتو، النباتي، أو منخفض السعرات الحرارية."
+    },
+    {
+    "original": "Suggest healthy meals",
+    "translated": "اقتراح وجبات صحية",
+    "description": "توفير وصفات متوازنة تحتوي على المكونات الغذائية اللازمة للحفاظ على الصحة والطاقة."
+    },
+    {
+    "original": "Recommend dietary recipes",
+    "translated": "التوصية بوصفات غذائية",
+    "description": "اقتراح وصفات مناسبة للأنظمة الغذائية المختلفة، مثل الخالي من الجلوتين، قليل الكربوهيدرات، أو النباتي."
+    },
+    {
+    "original": "Budget meal planning",
+    "translated": "تخطيط وجبات بميزانية محدودة",
+    "description": "توفير خطة وجبات اقتصادية تعتمد على مكونات منخفضة التكلفة مع الحفاظ على الجودة الغذائية."
+    },
+    {
+    "original": "Create shopping list",
+    "translated": "إعداد قائمة التسوق",
+    "description": "إنشاء قائمة تسوق تحتوي على جميع المكونات المطلوبة لتحضير الوجبات المخططة مسبقًا."
+    },
+    {
+    "original": "Generate a grocery list",
+    "translated": "إنشاء قائمة مشتريات البقالة",
+    "description": "إعداد قائمة تحتوي على جميع العناصر المطلوبة لشراء مستلزمات الطهي بناءً على الوجبات المخططة."
+    },
+    {
+    "original": "Analyze progress",
+    "translated": "تحليل التقدم",
+    "description": "تقييم مدى تحقيق الأهداف الصحية واللياقية بناءً على الأداء اليومي والأنشطة المتبعة."
+    },
+    {
+    "original": "Create a fitness plan",
+    "translated": "إنشاء خطة لياقة بدنية",
+    "description": "تصميم برنامج تدريبي متكامل يتناسب مع الأهداف الشخصية، مثل بناء العضلات أو تحسين اللياقة القلبية."
+    },
+    {
+    "original": "Generate fitness routines",
+    "translated": "إنشاء روتين لياقة بدنية",
+    "description": "اقتراح تمارين رياضية يومية أو أسبوعية تساعد في تحقيق اللياقة البدنية المستهدفة."
+    },
+    {
+    "original": "Create a workout plan",
+    "translated": "إعداد خطة تمارين رياضية",
+    "description": "تصميم جدول تدريبي يحتوي على تمارين مناسبة لمستوى اللياقة والأهداف الفردية."
+    },
+    {
+    "original": "Suggest sleep improvements",
+    "translated": "اقتراح تحسينات للنوم",
+    "description": "تقديم نصائح لتعزيز جودة النوم، مثل تحسين الروتين الليلي وتقليل التعرض للضوء الأزرق."
+    },
+    {
+    "original": "Recommend lifestyle changes",
+    "translated": "التوصية بتغييرات في نمط الحياة",
+    "description": "اقتراح عادات صحية تساعد في تحسين جودة الحياة، مثل زيادة النشاط البدني وتحسين التغذية."
+    },
+    {
+    "original": "Help with injury rehab",
+    "translated": "المساعدة في إعادة التأهيل بعد الإصابات",
+    "description": "تقديم إرشادات حول التمارين والعلاجات المناسبة لتعافي الإصابات واستعادة القوة والمرونة."
+    },
+    {
+    "original": "Plan for athletes",
+    "translated": "وضع خطة للرياضيين",
+    "description": "تصميم خطط تدريبية وتغذوية مخصصة للرياضيين لتعزيز أدائهم وتحسين قدرتهم على التحمل."
+    },
+    {
+    "original": "Suggest healthy snacks",
+    "translated": "اقتراح وجبات خفيفة صحية",
+    "description": "توفير خيارات وجبات خفيفة مغذية تساعد في الحفاظ على الطاقة وتدعم الصحة العامة."
+    },
+    {
+    "original": "Recommend health meal plans",
+    "translated": "التوصية بخطط وجبات صحية",
+    "description": "إنشاء خطط غذائية متوازنة تحتوي على العناصر الغذائية الضرورية للحفاظ على صحة جيدة."
+    },
+    {
+    "original": "Provide habit-building tips",
+    "translated": "تقديم نصائح لبناء العادات الصحية",
+    "description": "اقتراح استراتيجيات فعالة لتطوير عادات يومية صحية ومستدامة."
+    },
+    {
+    "original": "Recommend health workouts",
+    "translated": "التوصية بتمارين صحية",
+    "description": "اقتراح تمارين رياضية تعزز الصحة العامة وتحسن اللياقة البدنية."
+    },
+    {
+    "original": "Suggest stress-reducing techniques",
+    "translated": "اقتراح تقنيات لتخفيف التوتر",
+    "description": "تقديم استراتيجيات مثل التأمل والتنفس العميق لمساعدة الأفراد في التعامل مع التوتر والضغط النفسي."
+    },
+    {
+    "original": "Calculate BMI and weight plan",
+    "translated": "حساب مؤشر كتلة الجسم وخطة الوزن",
+    "description": "تقديم تحليل لمؤشر كتلة الجسم (BMI) وإنشاء خطة للتحكم في الوزن بناءً على الأهداف الصحية."
+    },
+    {
+    "original": "Provide meditation exercises",
+    "translated": "تقديم تمارين التأمل",
+    "description": "اقتراح تمارين تأمل تساعد على الاسترخاء وتحسين الصحة العقلية والنفسية."
+    },
+    {
+    "original": "Suggest home workout equipment",
+    "translated": "اقتراح معدات التمارين المنزلية",
+    "description": "تقديم توصيات حول الأجهزة الرياضية المنزلية التي تساعد في تحسين اللياقة البدنية."
+    },
+    {
+    "original": "Track calories and activity",
+    "translated": "تتبع السعرات الحرارية والنشاط البدني",
+    "description": "مراقبة استهلاك السعرات الحرارية ومستوى النشاط البدني للمساعدة في تحقيق الأهداف الصحية واللياقية."
+    },
+    {
+    "original": "Credit score tips",
+    "translated": "نصائح لتحسين درجة الائتمان",
+    "description": "تقديم استراتيجيات فعالة لرفع درجة الائتمان، مثل سداد الديون في الوقت المحدد وتقليل استخدام البطاقات الائتمانية."
+    },
+    {
+    "original": "Calculate ROI",
+    "translated": "حساب العائد على الاستثمار (ROI)",
+    "description": "تحليل العائد المتوقع من الاستثمارات المختلفة لمساعدة الأفراد والشركات في اتخاذ قرارات مالية مستنيرة."
+    },
+    {
+    "original": "Budgeting techniques",
+    "translated": "تقنيات إعداد الميزانية",
+    "description": "اقتراح طرق فعالة لإدارة الميزانية الشخصية أو التجارية، مثل طريقة 50/30/20 أو الميزانية الصفرية."
+    },
+    {
+    "original": "Create a financial plan",
+    "translated": "إنشاء خطة مالية",
+    "description": "تصميم خطة مالية متكاملة تشمل الأهداف المالية، الدخل، النفقات، والاستثمارات لتحقيق الاستقرار المالي."
+    },
+    {
+    "original": "Track expenses",
+    "translated": "تتبع النفقات",
+    "description": "اقتراح أدوات وأساليب لمراقبة الإنفاق اليومي وتحليل العادات المالية للحد من المصاريف غير الضرورية."
+    },
+    {
+    "original": "Tax planning advice",
+    "translated": "نصائح لتخطيط الضرائب",
+    "description": "تقديم استراتيجيات لتقليل الالتزامات الضريبية وزيادة الكفاءة المالية من خلال التخطيط الضريبي الذكي."
+    },
+    {
+    "original": "Reduce financial stress",
+    "translated": "تقليل التوتر المالي",
+    "description": "تقديم استراتيجيات لإدارة الأموال بطريقة تقلل القلق المالي، مثل بناء صندوق طوارئ وتحسين إدارة الديون."
+    },
+    {
+    "original": "Provide investment advice",
+    "translated": "تقديم نصائح استثمارية",
+    "description": "اقتراح استراتيجيات استثمارية متنوعة تناسب مستويات المخاطرة المختلفة لتحقيق عوائد مالية مستقرة."
+    },
+    {
+    "original": "Plan for retirement",
+    "translated": "التخطيط للتقاعد",
+    "description": "إنشاء خطة مالية تضمن الاستقرار المالي بعد التقاعد من خلال المدخرات والاستثمارات طويلة الأجل."
+    },
+    {
+    "original": "Analyze spending patterns",
+    "translated": "تحليل أنماط الإنفاق",
+    "description": "دراسة كيفية إنفاق الأموال وتقديم توصيات للتحكم في المصاريف وتحسين العادات المالية."
+    },
+    {
+    "original": "Help create debt repayment",
+    "translated": "المساعدة في سداد الديون",
+    "description": "تصميم خطط لسداد الديون بطرق فعالة مثل طريقة كرة الثلج أو طريقة الانهيار الجليدي لتقليل الفوائد المتراكمة."
+    },
+    {
+    "original": "Money-saving tips",
+    "translated": "نصائح لتوفير المال",
+    "description": "اقتراح استراتيجيات لتقليل النفقات وزيادة المدخرات، مثل التسوق الذكي وإعداد الميزانية الفعالة."
+    },
+    {
+    "original": "Suggest investments",
+    "translated": "اقتراح استثمارات",
+    "description": "تقديم توصيات حول أفضل فرص الاستثمار في الأسهم، العقارات، والصناديق الاستثمارية بناءً على الأهداف المالية."
+    },
+    {
+    "original": "Analyze financial goals",
+    "translated": "تحليل الأهداف المالية",
+    "description": "مراجعة الأهداف المالية الشخصية أو التجارية وتقديم استراتيجيات لتحقيقها بفعالية."
+    },
+    {
+    "original": "Help plan a relocation",
+    "translated": "المساعدة في تخطيط الانتقال إلى منزل جديد",
+    "description": "تقديم إرشادات حول تنظيم عملية الانتقال، مثل جدولة النقل، تعبئة الأمتعة، وإعداد قائمة المهام الأساسية."
+    },
+    {
+    "original": "Help plan a renovation",
+    "translated": "المساعدة في تخطيط التجديدات المنزلية",
+    "description": "اقتراح أفكار لتحديث المساحات المنزلية، وإعداد ميزانية لتجديد المنزل، واختيار المواد والتصاميم المناسبة."
+    },
+    {
+    "original": "Analyze home security",
+    "translated": "تحليل أمن المنزل",
+    "description": "تقديم نصائح لتعزيز الحماية المنزلية، مثل تركيب أنظمة المراقبة، وتأمين الأبواب والنوافذ، وتحسين الإضاءة الخارجية."
+    },
+    {
+    "original": "Provide cleaning schedules",
+    "translated": "تقديم جداول لتنظيف المنزل",
+    "description": "إنشاء جدول يومي أو أسبوعي لتنظيم مهام التنظيف المنزلية للحفاظ على بيئة نظيفة وصحية."
+    },
+    {
+    "original": "Recommend repairs",
+    "translated": "التوصية بالإصلاحات المنزلية",
+    "description": "اقتراح الصيانة والإصلاحات الضرورية للأجهزة المنزلية، الأنابيب، والأسطح لضمان سلامة وكفاءة المنزل."
+    },
+    {
+    "original": "Manage household inventory",
+    "translated": "إدارة مخزون المنزل",
+    "description": "تنظيم وتتبع العناصر الأساسية في المنزل مثل المستلزمات الغذائية، الأدوات المنزلية، والملابس لضمان عدم نفاد أي منها."
+    },
+    {
+    "original": "Suggest home maintenance",
+    "translated": "اقتراح أعمال الصيانة المنزلية",
+    "description": "تقديم إرشادات حول الصيانة الدورية للمنزل، مثل فحص أنظمة التدفئة والتبريد، وتنظيف المصارف، وفحص الأسلاك الكهربائية."
+    },
+    {
+    "original": "Recommend home décor",
+    "translated": "التوصية بديكور المنزل",
+    "description": "اقتراح أفكار وتصاميم داخلية لتحسين جمالية المساحات المنزلية بما يتناسب مع الأذواق المختلفة."
+    },
+    {
+    "original": "Suggest home organization",
+    "translated": "اقتراح تنظيم المنزل",
+    "description": "تقديم استراتيجيات لتنظيم المساحات المنزلية بطريقة توفر الراحة وتسهّل الوصول إلى الأغراض المختلفة."
+    },
+    {
+    "original": "Analyze insurance needs",
+    "translated": "تحليل احتياجات التأمين المنزلي",
+    "description": "تقييم أنواع التأمين المناسبة للمنزل، مثل تأمين الممتلكات أو الحماية من الأضرار الطبيعية، لضمان التغطية المالية الكافية."
+    },
+    {
+    "original": "Recommend DIY projects",
+    "translated": "التوصية بمشاريع منزلية يدوية (DIY)",
+    "description": "اقتراح مشاريع يدوية سهلة لإنجاز تحسينات في المنزل مثل الطلاء، إعادة تدوير الأثاث، وإنشاء ديكورات مبتكرة."
+    },
+    {
+    "original": "Help create emergency plan",
+    "translated": "المساعدة في إعداد خطة طوارئ",
+    "description": "إنشاء خطة استجابة لحالات الطوارئ مثل الحرائق، الفيضانات، أو الكوارث الطبيعية، مع تحديد إجراءات الأمان وخطوط الإخلاء."
+    },
+    {
+    "original": "Reduce household waste",
+    "translated": "تقليل النفايات المنزلية",
+    "description": "اقتراح استراتيجيات لتقليل المخلفات، مثل إعادة التدوير، استخدام المنتجات القابلة للتحلل، والتخلص المستدام من النفايات."
+    },
+    {
+    "original": "Manage household bills",
+    "translated": "إدارة الفواتير المنزلية",
+    "description": "توفير طرق لتنظيم ودفع الفواتير الشهرية مثل الكهرباء، الماء، الإنترنت، لضمان عدم التأخير وتجنب الغرامات."
+    },
+    {
+    "original": "Analyze energy usage",
+    "translated": "تحليل استهلاك الطاقة",
+    "description": "تقييم استهلاك الكهرباء والمياه في المنزل، وتقديم حلول لتقليل الاستهلاك وخفض التكاليف."
+    },
+    {
+    "original": "Suggest communication skills",
+    "translated": "اقتراح مهارات التواصل",
+    "description": "تقديم استراتيجيات فعالة لتحسين مهارات التواصل اللفظي وغير اللفظي، مثل الاستماع الفعّال والتعبير الواضح عن الأفكار."
+    },
+    {
+    "original": "Suggest growth resources",
+    "translated": "اقتراح موارد للتطوير الشخصي",
+    "description": "توفير كتب، دورات، وأدوات تساعد على تحسين المهارات الشخصية والمهنية لتعزيز النمو والتطور المستمر."
+    },
+    {
+    "original": "Help set personal goals",
+    "translated": "المساعدة في تحديد الأهداف الشخصية",
+    "description": "تقديم طرق فعالة لتحديد الأهداف وتحقيقها من خلال التخطيط الاستراتيجي ووضع معايير قابلة للقياس."
+    },
+    {
+    "original": "Suggest creative outlets",
+    "translated": "اقتراح منافذ إبداعية",
+    "description": "تقديم أفكار لنشاطات تعزز الإبداع مثل الرسم، الكتابة، التصوير، وصناعة المحتوى الإبداعي."
+    },
+    {
+    "original": "Provide career advice",
+    "translated": "تقديم نصائح مهنية",
+    "description": "اقتراح استراتيجيات لبناء مسار وظيفي ناجح، مثل تطوير المهارات، تحسين السيرة الذاتية، والتخطيط للمستقبل المهني."
+    },
+    {
+    "original": "Analyze personal values",
+    "translated": "تحليل القيم الشخصية",
+    "description": "تقديم تحليل للقيم والمعتقدات الشخصية لمساعدة الأفراد على اتخاذ قرارات تتماشى مع مبادئهم."
+    },
+    {
+    "original": "Provide feedback",
+    "translated": "تقديم ملاحظات وتقييم",
+    "description": "إعطاء ملاحظات بناءة حول الأداء الشخصي أو المهني لتحسين المهارات وتحقيق الأهداف بفعالية."
+    },
+    {
+    "original": "Overcome challenges",
+    "translated": "التغلب على التحديات",
+    "description": "تقديم حلول واستراتيجيات للتعامل مع العقبات الشخصية والمهنية بطريقة فعالة ومستدامة."
+    },
+    {
+    "original": "Suggest development courses",
+    "translated": "اقتراح دورات للتطوير الشخصي",
+    "description": "التوصية بدورات تدريبية تساعد في تحسين المهارات الشخصية والمهنية وتطوير القدرات الذاتية."
+    },
+    {
+    "original": "Analyze finances",
+    "translated": "تحليل الأوضاع المالية",
+    "description": "تقييم العادات المالية وتقديم استراتيجيات لتحسين إدارة المال وتحقيق الاستقرار المالي."
+    },
+    {
+    "original": "Analyze strengths",
+    "translated": "تحليل نقاط القوة",
+    "description": "تقديم تحليل لنقاط القوة الشخصية والمهنية لمساعدة الأفراد في استغلالها لتحقيق النجاح."
+    },
+    {
+    "original": "Recommend networking",
+    "translated": "التوصية ببناء شبكة علاقات",
+    "description": "اقتراح استراتيجيات للتواصل الفعّال وبناء علاقات مهنية تساعد في تحقيق فرص وظيفية وتطوير الأعمال."
+    },
+    {
+    "original": "Recommend personal development",
+    "translated": "التوصية بتطوير الذات",
+    "description": "اقتراح أنشطة وعادات تساهم في تحسين النمو الشخصي وتعزيز الوعي الذاتي."
+    },
+    {
+    "original": "Feedback on projects",
+    "translated": "تقديم ملاحظات حول المشاريع",
+    "description": "تقييم المشاريع وتقديم ملاحظات بناءة لتحسين الأداء وضمان تحقيق الأهداف المرجوة."
+    },
+    {
+    "original": "Suggest travel resources",
+    "translated": "اقتراح موارد السفر",
+    "description": "تقديم مواقع وأدوات مفيدة تساعد في التخطيط للسفر، مثل تطبيقات حجز الفنادق، مقارنة أسعار الرحلات، وتوصيات المسافرين."
+    },
+    {
+    "original": "Suggest itineraries",
+    "translated": "اقتراح برامج سفر",
+    "description": "تصميم خطط سفر مفصلة تشمل أهم المعالم السياحية، الأنشطة الترفيهية، وأفضل المطاعم بناءً على الوجهة المختارة."
+    },
+    {
+    "original": "Provide travel tips for children",
+    "translated": "تقديم نصائح للسفر مع الأطفال",
+    "description": "اقتراح طرق لجعل السفر أكثر راحة وسهولة مع الأطفال، مثل اختيار الأنشطة المناسبة وتجهيز المستلزمات الضرورية."
+    },
+    {
+    "original": "Recommend accommodations",
+    "translated": "التوصية بأماكن الإقامة",
+    "description": "اقتراح فنادق، شقق فندقية، أو أماكن إقامة اقتصادية تناسب احتياجات المسافر وميزانيته."
+    },
+    {
+    "original": "Provide cultural tips",
+    "translated": "تقديم نصائح ثقافية",
+    "description": "معلومات حول العادات والتقاليد المحلية لكل بلد لمساعدة المسافرين على التأقلم مع الثقافة واحترام القواعد الاجتماعية."
+    },
+    {
+    "original": "Recommend travel gear",
+    "translated": "التوصية بمستلزمات السفر",
+    "description": "اقتراح أدوات ضرورية للسفر، مثل حقائب السفر، الأجهزة الإلكترونية، والمستلزمات الصحية لضمان رحلة مريحة."
+    },
+    {
+    "original": "Recommend travel insurance",
+    "translated": "التوصية بالتأمين على السفر",
+    "description": "شرح فوائد التأمين على السفر واقتراح أفضل الخطط التي تغطي الحالات الطارئة، فقدان الأمتعة، أو إلغاء الرحلات."
+    },
+    {
+    "original": "Help plan a group trip",
+    "translated": "المساعدة في تخطيط رحلة جماعية",
+    "description": "تنظيم جدول زمني للأنشطة والتنسيق بين أفراد المجموعة لضمان تجربة سفر ممتعة ومنظمة."
+    },
+    {
+    "original": "Analyze travel safety",
+    "translated": "تحليل أمان السفر",
+    "description": "تقييم مستوى الأمان في الوجهات المختلفة وتقديم نصائح لحماية المسافرين من المخاطر المحتملة."
+    },
+    {
+    "original": "Planning and budgeting",
+    "translated": "التخطيط ووضع ميزانية للسفر",
+    "description": "اقتراح استراتيجيات لإدارة ميزانية السفر، مثل تقليل النفقات غير الضرورية، وحجز التذاكر مسبقًا بأسعار مخفضة."
+    },
+    {
+    "original": "Suggest travel destinations",
+    "translated": "اقتراح وجهات سياحية",
+    "description": "تقديم توصيات حول أفضل الوجهات بناءً على اهتمامات المسافر، مثل الشواطئ، المدن التاريخية، أو المغامرات الطبيعية."
+    },
+    {
+    "original": "Help plan a solo trip",
+    "translated": "المساعدة في تخطيط رحلة فردية",
+    "description": "تقديم نصائح حول السفر بمفردك بأمان، مثل اختيار الأماكن المناسبة، وإعداد قائمة بالأنشطة التي يمكن القيام بها."
+    },
+    {
+    "original": "Provide packing tips",
+    "translated": "تقديم نصائح حول تجهيز الحقائب",
+    "description": "إعداد قائمة بالمستلزمات الأساسية لكل نوع من الرحلات، سواء كانت سياحية، عمل، أو مغامرات."
+    },
+    {
+    "original": "Suggest attractions to visit",
+    "translated": "اقتراح معالم سياحية للزيارة",
+    "description": "تحديد أهم المعالم والأنشطة التي تستحق الزيارة في كل وجهة بناءً على ميول المسافر ومدة الرحلة."
+    },
+    {
+    "original": "Analyze preferences",
+    "translated": "تحليل تفضيلات السفر",
+    "description": "فهم اهتمامات المسافر مثل المغامرات، الاسترخاء، أو الثقافة، واقتراح رحلات تناسب هذه التفضيلات."
+    },
+    {
+    "original": "Analyze entertainment preferences",
+    "translated": "تحليل تفضيلات الترفيه",
+    "description": "تقييم اهتمامات المستخدم في الترفيه، مثل الأفلام، الموسيقى، الألعاب، واقتراح محتوى يناسب ذوقه."
+    },
+    {
+    "original": "Provide game recommendations",
+    "translated": "تقديم توصيات للألعاب",
+    "description": "اقتراح ألعاب فيديو أو ألعاب لوحية تناسب اهتمامات المستخدم ونوع الترفيه الذي يفضله."
+    },
+    {
+    "original": "Suggest podcasts to listen to",
+    "translated": "اقتراح بودكاست للاستماع إليه",
+    "description": "تقديم توصيات لأفضل برامج البودكاست بناءً على اهتمامات المستخدم، مثل التكنولوجيا، التنمية الذاتية، أو الترفيه."
+    },
+    {
+    "original": "Suggest virtual entertainment",
+    "translated": "اقتراح أنشطة ترفيهية افتراضية",
+    "description": "توفير خيارات للترفيه عبر الإنترنت، مثل جولات افتراضية، العروض الحية، أو الفعاليات التفاعلية."
+    },
+    {
+    "original": "Suggest music playlists",
+    "translated": "اقتراح قوائم تشغيل موسيقية",
+    "description": "تقديم قوائم تشغيل موسيقية تناسب مزاج المستخدم، سواء للعمل، الاسترخاء، أو الحفلات."
+    },
+    {
+    "original": "Help find comedy content",
+    "translated": "المساعدة في العثور على محتوى كوميدي",
+    "description": "اقتراح أفلام، مسلسلات، أو عروض كوميدية تناسب الذوق الشخصي للمستخدم."
+    },
+    {
+    "original": "Provide content recommendations",
+    "translated": "تقديم توصيات بالمحتوى الترفيهي",
+    "description": "اقتراح أفلام، كتب، ألعاب، أو برامج تلفزيونية تناسب اهتمامات المستخدم."
+    },
+    {
+    "original": "Suggest movies to watch",
+    "translated": "اقتراح أفلام للمشاهدة",
+    "description": "تقديم توصيات لأفضل الأفلام بناءً على النوع المفضل، سواء أكشن، دراما، خيال علمي، أو كوميديا."
+    },
+    {
+    "original": "Recommend local events",
+    "translated": "التوصية بفعاليات محلية",
+    "description": "اقتراح أحداث وفعاليات قريبة، مثل الحفلات الموسيقية، المعارض، أو الفعاليات الثقافية."
+    },
+    {
+    "original": "Provide entertainment news",
+    "translated": "تقديم أخبار الترفيه",
+    "description": "توفير أحدث الأخبار حول الأفلام، الموسيقى، الألعاب، والمشاهير في عالم الترفيه."
+    },
+    {
+    "original": "Suggest leisure activities",
+    "translated": "اقتراح أنشطة ترفيهية",
+    "description": "تقديم أفكار لأنشطة ممتعة، مثل التخييم، الطهي، الرسم، أو الألعاب الجماعية."
+    },
+    {
+    "original": "Analyze entertainment consumption",
+    "translated": "تحليل استهلاك المحتوى الترفيهي",
+    "description": "دراسة العادات الترفيهية للمستخدم واقتراح محتوى جديد يتناسب مع اهتماماته."
+    },
+    {
+    "original": "Recommend books to read",
+    "translated": "التوصية بكتب للقراءة",
+    "description": "اقتراح كتب من مختلف الأنواع، مثل الروايات، التنمية الذاتية، والتاريخ، بناءً على اهتمامات القارئ."
+    },
+    {
+    "original": "Help find engaging hobbies",
+    "translated": "المساعدة في العثور على هوايات ممتعة",
+    "description": "اقتراح هوايات جديدة مثل التصوير، البرمجة، الطهي، أو الرياضة التي تناسب اهتمامات المستخدم."
+    },
+    {
+    "original": "Suggest TV shows to watch",
+    "translated": "اقتراح مسلسلات تلفزيونية للمشاهدة",
+    "description": "تقديم توصيات لأفضل المسلسلات التلفزيونية بناءً على النوع المفضل، سواء دراما، كوميديا، أو خيال علمي."
+    },
   ]
 }
